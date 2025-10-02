@@ -1,0 +1,5 @@
+# 核心Web框架
+Flask
+
+# PDF处理库（用于提取PDF文本和表格）
+pdfplumber
