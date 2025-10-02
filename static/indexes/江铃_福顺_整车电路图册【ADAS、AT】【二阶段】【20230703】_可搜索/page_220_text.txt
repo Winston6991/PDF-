@@ -1,0 +1,33 @@
+=== 第220页 ===
+江铃福顺 部件位置图 151-2
+江铃福顺 部件位置图 151-2
+发发动动机机舱舱一-柴柴油油机机
+1 2 3 4 5 6 7 8
+1 2 3 4 5 6 7 8
+A A
+A A
+ER01 ECK37 EF02 ER14
+ER01 ECK37 EF02 ER14
+B B
+B B
+C C
+C C
+ECK80
+ECK80
+ECK81
+ECK81
+EF03
+EF03
+D A_GD11
+D
+D A_GD11 D
+ESF08
+ESF08
+E E
+E E
+ER04 ESF31 EF07
+ER04 ESF31 EF07
+F F
+F F
+1 2 3 4 5 6 7 8
+1 2 3 4 5 6 7 8

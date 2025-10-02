@@ -1,0 +1,71 @@
+=== 第12页 ===
+电电气气系系统统原原理理图图
+14-12
+14-12
+XX77发发动动机机网网络络拓拓扑扑
+H
+国六后处理
+L
+H L YRS SAS ESC SAS YRS
+534505 后处理CAN
+U0Zl
+H L H L H L HL H L
+0
+5346 0.5
+H
+L
+1 5316 0.75D-CAN 5331 CAN_H 5337 CANH 5337 CAN
+5332 CANL 5338 CANL 5338 CANL
+5315 0.75 D-CAN
+H
+EECU AEBS(KNORR)
+底盘 EECU H L H L
+5325 CANH 5333 CANHH
+AMT SCU BBM 驾驶室 国五后处理 HP H EBS H ABS AirBag
+H 120Ω H 120 L Ω NOx ABS8+(ESP) Radar 5326 CAN山 Camera 5334 CANL后 L 桥模块
+H L HL H 1 H L H L H L HL HL H L H L
+120Ω
+5311 动力CAN A 5313 P-CAN 5311 动力CAN
+5B312动力CAN 314 P-CANL
+5312 动力CAN
+H 1 H /
+120Ω2
+仪 表 H
+CD/显示屏 TCO/GNSS 仪_表 T-BOX 限D-CAN
+国六后处理国五后处理
+H L H L H L
+H H
+5321
+5321车身CAN 车身CAN
+5322车身CAN 5322 车身CAN
+H L
+H L H L H L HL H L HL H L HL H L H L
+120Ω
+BCM TPMS HVAC DCM LDWS+FCW 270影像 疲劳驾驶预警 转向语音器 空调 驻车空调 倒车影像
+同时有胎压监测和转向语音器，车身CAN终端电阻位置：BCM1处、胎压监测控制器1处。
+无胎压监测、有转向语音器，车身CAN终端电阻位置：BCM1处、转向语音报警器1处。
+3700001-94503.H190822
+3700001-94503.H190822
+驾驶室
+HL
+120Ω 国五后处
+NOx
+H L 理
+HP
+dar
+5326 CAN山
+L
+5313 P-CAN Camera
+HL
+120Ω2
+仪 表
+仪_表
+六后处理国五后处理
+H H
+120Ω2
+仪_表
+六后处理国
+H
+N
+HL
+劳驾驶预警

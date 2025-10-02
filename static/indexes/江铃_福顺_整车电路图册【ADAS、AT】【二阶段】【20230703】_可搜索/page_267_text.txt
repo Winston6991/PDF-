@@ -1,0 +1,84 @@
+=== 第267页 ===
+161-27 整体系统原理图 江铃福顺
+车辆紧急通讯系统
+(cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785)
+(cid:11)(cid:54)(cid:53)(cid:37)(cid:12)
+11-4
+3 1
+F59 F84 F99 F51
+(cid:20)(cid:19)(cid:36) (cid:24)(cid:36) (cid:23)(cid:19)(cid:36) (cid:24)(cid:36)
+13-9
+5 2
+95FP EY
+A48FP DR-UB L41RP DR-HW
+(cid:55)(cid:16)(cid:37)(cid:50)(cid:59)
+PF84CA PF84F PF84C C2021a
+(cid:44)(cid:42)(cid:49)
+PF84 BU-RD BU-RD PF84 BU-RD 24
+C2021a A_GD28E (cid:13876)(cid:10687) 22 BK 82DG_A
+KB
+(cid:37)(cid:38)(cid:48) 151-10
+C2102c
+(cid:44)(cid:42)(cid:20)(cid:20854)(cid:18372)(cid:10487)
+15
+C22-B
+20
+PF59C PF59X
+(cid:37)(cid:14)
+PF59 YE 36 YE 12
+TCANH04
+(cid:38)(cid:36)(cid:49)(cid:16)(cid:43) WH-RD 10 A_GD28 TCANL04 (cid:38)(cid:36)(cid:49)(cid:16)(cid:47) VT-OG 11
+G2D116-A
+10-4
+A15FP
+DR
+(cid:53)(cid:20)(cid:23)
+(cid:44)(cid:42)(cid:20)
+(cid:20854)(cid:18372)(cid:10487)
+PF51
+A99FSP NG-HW A41RP
+DR
+A51CCB DR-HW E15FP
+DR
+161-27整体系统原理图 江铃福顺
+车辆紧急通讯系统
+习
+R14
+3 1 G1
+1例 5A 48 W 继电器 5A
+PF84A BU-RDPR14 DRHWPSF99A NGHW PR14A BCC15A WH-RD PF51E PF51A
+PF59
+罗 品 品 品
+PR14
+PR14
+PF51
+BCM 151-10
+C2102c
+IG1继电器
+15
+T-BOX
+PF84CA C22-B PF84F PF84C C2021a
+IGN
+PF84 BU-RD 20 BU-RD PF84 BU-RD 24
+PF59C PF59X
+B+
+PF59 YE 36 YE 12
+TCANH04
+0 CANH C2021a A_GD28E
+(cid:15536) (cid:25257) (cid:20960) (cid:10726) (cid:8816) (cid:20843) W T H CA - N R L D 04 10 接地 22 BK AGD28 ●A_GD28 1 1 4 4- 5 5 0 VT-0G 11 CAN-L
+益
+G2D116-A
+三10-4
+习
+3 1
+3 1 W
+5 2
+DRHWPSF99A NGHW PR14A
+DR-HW A99FSP NG-HW A41RP PF51A
+A15FP
+DR 品
+BU-RD PF84 BU-RD 24
+BU-RD PF84 BU-RD 24
+PF59X
+PF59X

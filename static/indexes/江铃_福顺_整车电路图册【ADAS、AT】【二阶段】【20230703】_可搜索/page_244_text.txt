@@ -1,0 +1,294 @@
+=== 第244页 ===
+江铃福顺 整体系统原理图 161-4
+发动机电子控制
+A10FE DR
+ER01
+A30FE DR-HW 60FE UB B50FE DR-HW D10RE DR C10RE DR B13FSE DR C13FSE DR A13FSE DR 81FSE kB
+F34 F25 F31 F18 10A 30A 30A 60A 13-4 13-2 13-2 13-1
+15 C2102c ESF31
+IG1 继电器 2 C1270
+输出 滤清 + 器加 热器
+- 151-8
+EMS 151-1 C1104b 1 C1270
+点火开关KL15 75
+电源
+91
+燃油加热继电器
+20
+电源3 5
+电源2 3 电源1
+1
+PCM继电器
+69
+预热塞模块 151-1 151-3 C1513a C1513a 控制ST GPC 电源 57 2 4 GPCM ID信号 GPFB 电源 53 1 5 预热塞 接地 GND C1513b C1E243 27 3 加热电源 电源 3 1 接地1 C1E244 2 加热电源 电源 接地2 1 C1E24 1 5 4 加热电源 电源 接地3 4 1 6 C1E246 加热电源 电源
+6 1
+A96KCE KB-DR
+F7 F6 20A 10A 13-2 13-2
+D10RE HW-DR
+R1 3 1 30 86 主继 F3 电器 10A 13-5 13-2 5 2 87 85
+52FE DR A21RE
+B52BBC
+UB-HW
+DR-HW
+02KCE NB C30FE
+B30FE
+DR-HW
+DR-HW
+R12 滤清器 F99 继电器 40A 13-5 13-2
+EF03
+A51CCB DR-HW A41RP
+B41RP
+DR
+DR
+A99FSP NG-HW AB41RP DR
+F51 10A 13-5
+A15FP DR E15FP DR
+R14 1 3 IG1 继电器 F38 5A 13-3 13-3 2 5
+PR14
+15 C11-F PF51
+1 C11-E
+EF38 LG
+EF34 WH-RD
+ECK20 BN
+EF07C RD-WH
+EF07B RD-WH
+EF06A BU EF07
+ECK69A
+RD-BK
+ECK57A GN-YE EF03D WH-RD ECK53 VT-YE ESF18 BK ECK27 PK CE243A RD-BK C11-W CE243B RD-BK A_GD11C BK A CE244A WH-BN CE244B WH-BN A_GD11D BK A_GD11A BK B CE245A WH CE245B WH A_GD11B BK A_GD11 C CE246A BU-WH CE246B BU-WH
+D
+A12DG_A
+KB
+SRB 11-4 EJB 11-4
+A
+发动机
+电子控制
+26-3
+G2D138A 10-8
+G11 10-3
+C10RE DR
+F5 5A 13-2
+BCM
+151-10
+D
+发动机
+电子控制
+26-3
+B10RE DR
+江铃福顺 整体系统原理图 161-4
+发动机电子控制
+SRB 11-4 EJB 11-4
+R14 R12 R1
+1 3 IG1 J 1 滤清器 30 86。 W 主继 F51 自 继电器 F99 F38 F34 F2 自 继电器 是 F168 电器 广2“ 1 13 0 - A 5 5 13-3 4 1 0 3- A 5 5 13 A -3 1 13 0 - A 4 3 1 0 3- A 2 5 2' 13-2 13-2 87 9 85 13-5
+PR148BA
+PF51A PF51E BCC15A DRHW PR14A PSF99A N9HM 品 EF25 ERI2A WHBU ECK20 EF03CWHRDEFO3A DRHWER01DHWR EF06 8S03 DR-HWD1ORE 2L083 EF01A ECK69A RDBK ESF31B ESF31C ESF31A ESF18 品 显 显 孟 己 显 显 显 豆 豆 显
+R14B PR14 15 C11-F EF03
+PF51 15 C2102c CB258 WHRD ER01 ESF31 显 BCM
+C11-E
+IG1
+继电器 151-10 2 C1270
+输出 滤清 EF03B WH-RD ER01B ER01C 器加 显 显 热器
+151-8
+EMS 151-1 c
+C1104b EF38 LG 1 C1270 A B B C D 点火开关KL15
+75 EF34WH-RD AGD21A 发动机 发发动动机机 发发动动机机 发动机
+电源 91 电子 26 控 -3 制 电 电 子 子 26 控 控 -2 制 制 电 电 子 子 26 控 - 控 2 制 制 电子 26 控 -3 制
+26-2 26-2
+益
+ECK20 BN
+燃油加热继电器
+20 RD-WH
+EF07C G2D138A
+电源3 5 EF07B RD-WH 学 10-8
+电源2 3 EF06A BU EF07 电源1
+ECK69A
+PCM继电器
+69 RD-BK
+预热塞模块 151-1 151-3
+ECK57A GN-YE C1513a C1513a EF03D WH-RD 控制ST 57 ECK53 VT-YE 2 GPC 电源 ESF18 BK GPFB GPCMID信号 电源 接地 53 ECK27 PK GND C 5 1513L CE243A RD-BK C11-W CE243B RD-BK C1E243 预热塞 27A_GD11C BK 3 加热电源 电源 接地1 3 CE244A WH-BN A CE244B WH-BN C1E244 A_GD11D BK A_GD11ABK 加热电源 B 电源 接 接 地 地 2 3 6 ALGD11B BK A_GD11 ÷ G 10 1 - 1 3 加热电源 4 C C E E 2 2 4 4 5 6 A A W B H U-WH c C CE E 2 2 4 4 6 5 B B B W U H -WH C C 1 1 E E 2 2 4 4 5 6 电源 加热电源 电源 6 D
+喷 喷 油 油 器 器 1 1 1 1 5 5 1 - 1 - -4 4 C C 1 1 2 2 0 05 5 E E C C A A 6 64 4 W W H H 9 C C 1 1 1 1 0 0 4 4 6 a a 4 喷喷油油器器11-- 传 传 感 感 器 器 信 信号 号 C C 6 1 1 1 1 0 0 4 4a a E E C C A A 0 06 6B B U U C C 1 1 2 2 - -A A E E C C A A 0 06 6 B BB B U U C C 1 1 2 2 - -C C + 高 计 1 高 计51 压 量 压 量-2 油 单 油 单1 泵 元 泵 元 燃燃油油
++ 2 1 E E C C A A 8 8 5 5 Y Y E E 5 8 6 8 5 4 5 喷 喷 油 油器 器 1 1 + + 传传感感器器接接地地 7 6 7 E E C C A A D 07 7YE YE 1 2 E E C C A A0 0 7 7 B B Y Y E E 2 1 2 - 151-21
+喷 喷 油 油器 器 4 4 1 1 5 5 1 - 1 - -4 4 C 2 C 1 2 1 2 2 0 08 8 E E C C A A 6 66 6 O O G G o 6 6 6 6 喷喷油油器器44-- 传 传 感 感 器 器信 信 号 号 C 2 2 C 9 1 9 1 1 1 0 0 4 4b b E E E C C C K K K 2 2 29 6 9 A A A R G R D N D - - -O 0 W G G H C C 1 1 1 1 - - 2 Z 2 Z E E E C C C K K K 2 2 29 6 9 B B B R G R D N D - - -O O W G G H C C E E 7 7 7 7 1 1 1 + 废 传 1 1 废 传5 5 1 感 气 1 气 感- -2 2 器 温 温 器 1 1 ( 度 ( 度 T T 6 6 ) )
++ 1 E E C C A A 8 8 7 7 B BU U 87 喷 喷 油 油 器 器 4 4 + + 传传感感器器接接地地 2 2 6 6 ECK26A GN-WH 3 3 ECK26B GN-WH 2 2 -
+1 87
+喷 喷 油 油器 器 3 3 1 1 5 5 1 - 1 - -4 4 C 2 C 1 1 2 2 0 0 7 7 E E C C A A 2 2 2 2 W W H H - -R R D Do 22 喷喷油 废 油 废 器 气 器 气 温 33 温 -- 度 度 传 传感 感 器 器 1 1 信 信 号 号 5 C 5 C 6 6 11110044aa E E E C C C A A A 5 5 56 6 5 A A A B B B U N N -GN C C 2 2 3 3 9 9 E E E C C C A A A 5 5 5 6 5 6 B B B B B B U N N -GN 4 4 E E E C C C A A A 5 5 5 6 5 6 C C C B B B U N N -GN C C E E 7 7 2 2 1 2 2 1 + 废 传 1 1 废 传5 5 1 感 气 1 气 感- -2 2 器 温 温 器 1 1 ( 度 ( 度 TT44))
+2 E E C C A A 4 43 3 R R D D 22 废 废 气 气 温 温 度 度传 传 感 感 器 器 1 1 接 接 地 地 55 ECA55A BU-GN 28 ECA55B BU-GN 5 ECA55C BU-GN 2 -
++ 5 43 喷喷油油器器33++ 55 28 5 2
+喷 喷 油 油器 器 2 2 1 1 5 5 1 - 1 - -4 4 C 2 C 1 1 1 2 2 0 06 6 E E C C A A 2 24 4 Y Y E E ? 2 4 4 3 喷 喷 油 废 油 废 器 气 器 气 2 温 2 温 - - 度 度 传 传 感 感 器 器 2 2 信 信 号 号 7 75 5 E E E C C C A A A 7 7 7 5 4 5 A A A B L L U G G 1 1 9 9 E E E C C C A A A 7 7 7 5 4 5 B B B B L LG U G 7 7 E E R C C E A A 7 7 7 2 5 5 C 3 C C L L B G G U C C E E 7 72 2 3 1 3 + 废 传 1 1 废 传5 5 1 感 气 1 气 感- -2 2 器 温 温 器 1 1 ( 度 ( 度 TT55))
+高高压压油油轨轨压压力力传传感感器器 V V S S 1 E E 5 N N 1 1 5 S + S - 1- 4 4 C 3 C 1 2 1 3 1 7 7 2 2 7 7 5 E E E E C C C C A A A A 4 4 4 4 2 5 2 5 W B W BU U H H U 4 4 2 4 4 5 4 5 2 2 喷 油油 喷 废 油 轨轨 油 废 气 压压 器 气 器 温 力 2 力 温 2 + + 传 度 传 度 感 传 感 传 传 传 传 传 器 感 器 感 感 感 感 感 电 器 电 器 器 器 器 器 源 2 源 2 接 电 信信 电 接 地 源 号号 源 地 4 7 6 4 7 1 1 4 4 0 E E E E E C C C C C A A A A A 7 4 6 4 6 4 1 1 0 0 A G W G W B H N N H U - - - - R W R W D D H H 1 17 7 ECA74B BU 8 8 RE723C BU C C 1 1 8 8 0 0 2 3 1 3 3 3 2 M V V - M A S S A P E E P N N S S 传 1 柴 1 柴 传5 5 1 感 油 1 油 感- -4 4 进 器 进 器 气 气压 压 力 力
+R R P P S S 2 2 E E E C C C A A 1 A 1 0 6 0 3 3 3 G G G N N N - - - Y Y W E E H 1 1 0 0 3 3 传 传 感 感 器 器 信 信号 号 传 传 感 感 器 器接 接 地 地 8 6 8 0 2 2 E E C C A A8 8 2 2 A A B B U U - -G G N N S S 1 1 E E 4 45 5 4 4 E E C C A A8 8 2 2 B B B B U U - -G G N N 2 1 2 G GN N D D
+G G N ND D 1 ECA63 GN-WH 5 6 6 3 3 传传感感器器接接地地 传 传 感 感器 器 信 信 号 号 5 5 9 9 E E C CA A 5 5 9 9 B B N N E E C C A A8 8 2 2 C C B B U U - -G G N N C C 1 1 7 7 5 5 5 5 2 1 a a 2 1 + - 1 柴 传 1 柴 传5 5 1 感 油 1 油 感- -1 器 1 进进 器( 气气 (TT22 温温 11) 度 ) 度
+99
+4F099A
+1430-A5
+13-5
+F51
+1F501A
+1130-A5
+13-5 R14
+1 1 3 3 I R IG G 1 1 1 4
+自 继 继 电 电器 器 F
+5 1 1 3 3 - -3 3
+2 5
+1 3
+1 3
+自
+5
+2 5
+PF51E
+E15FP
+DR 品
+ESF31C
+C13FSE
+豆
+DR ESF31A
+A13FSE
+DR 豆
+J 1
+3 1
+自
+5 2'
+5 2
+HBU ECK20
+UB-HW 02KCE
+C11-F
+C11-F HRD
+DR-HW
+C1270
+C1270
+滤清 滤清
+器加 器加
+热器 热器
+151-8
+151-8
+C1270
+C1270
+KB 益
+2L083
+C10RE
+DR 显 EF01A
+A10FE
+显
+DR
+DRHWER01D
+DR-HW D10RE
+EF03
+EF03
+5 5 EF07B RD-WH
+EF07B RD-WH
+3 3 E E F F 0 0 6 6A A B B U U E E F F 0 0 7 7
+1
+ECK69A
+ECK69A
+G G P PC C 电电源源
+GPFB
+GPFB 电电源源
+GND
+GND 加热电源
+加热电源
+加热电源
+加热电源
+加热电源
+加热电源
+加加热热电电源源
+5 5 7 7 E E C C K K 5 53 3 V V T T - - Y YE E 2 2
+5 5 3 3 ECK27 PK 1
+ECK27 PK
+33 C C E E 2 2 4 4 4 4A A WWHH--BBNN A A CE244B WH-BN C1E2414
+CE244B WH-BN C1E244 电电源源
+电电源源
+电电源源
+电电源源
+B
+1 CE245AWH B
+CE245A WH CE245B WH C1E2415
+CE245B WH C1E245
+c
+4
+4 CE246A BU-WH C
+CE246A BU-WH CE246B BU-WH C1E2416
+CE246B BU-WH C1E246
+2A _ G D 1 1 D B K
+A _ G D1 1 D B K
+4 A A L _ G G D D 1 1 1 1B B B B K K
+-
++ 64
+2 64
+ECA85 YE
+ECA85 YE
+6
+6 ECAD7YE 1
+ECA07 YE 1
+ECA07B YE
+ECA07B YE
+-
++ -
++ 2 66
+2 66
+ECA87 BU
+ECA87 BU
+29 2
+29 2
+ECK26A GN-WH
+ECK26A GN-WH 1
+ECK26B GN-WH
+ECK26B GN-WH
+26 3
+26 3
+CC11110044aa E E C C A A 5 56 6 A A B B N N C C 3 3 E E C CA A 5 5 6 6 B B B BN N
++
+-
+56 29
+56 ECA55A BU-GN 29
+ECA55A BU-GN ECA55B BU-GN 4 4
+ECA55B BU-GN ECA55C BU-GN 1 1
+ECA55C BU-GN
+55 28
+55 28
+ECA75A LG
+ECA75A LG 5
+5
+ECA75B LG
+ECA75B LG
+75 19
+75 ECA74A BU 19
+ECA74A BU 7
+7
+ECA74B BU
+ECA74B BU 1
+RE723C BU
+RE723C BU
+-
++ 2 22
+2 ECA43 RD 22
+ECA43 RD
+2 24
+2 ECA45 WH 24
+ECA45 WH
+41 3
+41 3
+ECA60 WH-RD
+ECA60 WH-RD
+60 1
+60 E E C C A A8 8 2 2 A A B B U U - -G G N N S S 1 1 E E 4 45 5 4 4 E E C C A A8 8 2 2 B B B B U U - -G G N N 1
+VSENS
+VSENS
+RPS
+RPS
+GND
+GND
+VSENS
+VSENS
+RPS
+RPS
+GND
+GND
+3 42
+3 42
+ECA103 GN-YE
+ECA103 GN-YE
+2 103
+2 ECA63 GN-WH 103
+ECA63 GN-WH
+-
++

@@ -1,0 +1,61 @@
+=== 第39页 ===
+10-9 接地 江铃福顺
+G4D151
+(cid:9858)(cid:11981)(cid:17150)(cid:13002)(cid:13471)
+C4422t A_GD33F
+3 BK
+A_GD33E
+2 BK
+XD33DG_B
+KB
+A33DG_A
+KB
+G01R07
+BK
+CD33DG_B
+KB
+10-9 接地 江铃福顺
+G4D151
+-
+侧拉门危险警告开关
+(cid:8758)(cid:13656)(cid:26743)(cid:9728)(cid:26872)(cid:24053)(cid:9945)(cid:12687)(cid:9218) 侧拉门门框接触器
+C3302a A_GD33D B_GD33ZA C38-A G01R07 C481 (cid:8758)(cid:13656)(cid:26743)(cid:26743)(cid:15061)(cid:13876)(cid:23669)(cid:10487)
+C3302a A_GD33D B_GD33ZA C38-A C481
+2 BK BK 2 BK
+2 BK BK 2 1
+右尾灯总成
+C4422t A_GD33F B_GD33 B_GD33EC C44-D← B_GD33DA C3 B_GD33D C497a 尾 (cid:11981) 门 (cid:26743)(cid:26512) 锁
+A_GD33 B_GD33 B_GD33EC C44-D B_GD33DA C3 B_GD33D C497a
+3 BK ● A_GD33 B
+BK
+K 2
+2
+B
+BK
+K 4
+4
+B
+B
+K
+K
+44
+A_GD33E
+2 BK B B _ _ G G D D 3 33 3 B B C C C C 4 4 4 4 - -A A B B _ _ G G D D 3 33 3 B B A A C C 3 3 B B _ _ G G D D 3 3 3 3 1 I B B _ _ G G D D 3 33 3B B _ _ G G D D 3 3 3 3 B B C C 4 49 9 7 7 a a
+6
+前 (cid:9436) 顶 (cid:27397) 灯 (cid:17150) 1 (cid:20) B BK K 2 2 B BK K 6 6 B B K K B BK K 6 6
+C914a BCE27A S4D151B
+C914a BCE27A S4D151B
+BK 左牌照灯
+1 BK B B _ _ G G D D 3 3 3 3 H H C C 4 4 9 90 0 4 4 (cid:12405)(cid:17627)(cid:17398)(cid:17150)
+BK 2
+BK 2
+右牌照灯
+B_GD33G C4905 (cid:9858)(cid:17627)(cid:17398)(cid:17150)
+B_GD33GC4905
+13 C99-A B BK K 11
+13 C99-A
+B_GD33DX B_GD33DC
+A_GD33A
+益 益 益
+RNG1
+专 RNG1

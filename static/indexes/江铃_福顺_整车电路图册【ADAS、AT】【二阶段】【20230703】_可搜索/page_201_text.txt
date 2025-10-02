@@ -1,0 +1,41 @@
+=== 第201页 ===
+150-57接插件视图 江铃福顺
+150-57 接插件视图 江铃福顺
+C11-W
+C11-W
+12B637
+连连接接线线束束接接插插件件：： 12B637 电电热热塞塞
+DD C B A A
+母 母 制 制 插插接接件件插插头头
+针针脚脚 电电路路 线线色色 规规格格 区区分分条条件件
+A CE243A GY~VT 2.5
+A CE243A GY~VT 2.5
+B CE244A BU~BN 2.5
+B CE244A BU~BN 2.5
+C CE245A PK~WH 2.5
+C CE245A PK~WH 2.5
+D CE246A YE~BU 2.5
+D CE246A YE~BU 2.5
+DD C B A
+A
+针针脚脚 电电路路 线线色色 规规格格 区区分分条条件件
+A
+A CE243A
+CE243A GY~VT
+GY~VT 2.5
+2.5
+B
+B CE244A
+CE244A BU~BN
+BU~BN 2.5
+2.5
+C
+C CE245A
+CE245A PK~WH
+PK~WH 2.5
+2.5
+D
+D CE246A
+CE246A YE~BU
+YE~BU 2.5
+2.5

@@ -1,0 +1,162 @@
+=== 第77页 ===
+33-1 冷却风扇 江铃福顺
+3 C1161a
+(cid:18372)(cid:11743) (cid:18372)(cid:11743) (cid:27485)(cid:13526)1 (cid:27485)(cid:13526)2
+C1161a
+2
+40 37 69
+A30RE
+C40RE
+DR
+NB
+3 C1161b
+(cid:18372)(cid:16671)(cid:15858)-(cid:28007)(cid:25262)
+(cid:18372)(cid:16671)(cid:15858)-(cid:8669)(cid:25262)
+C1161b
+2 1
+A41DG_B
+KB
+81RE
+B40RE
+NB
+NB
+A41DG_A
+KB
+(cid:18372)(cid:16671)(cid:15858)-(cid:28007)(cid:25262)
+GND GND (cid:18372)(cid:16671)(cid:15858)-(cid:8669)(cid:25262)
+1
+A40RE
+NB
+(cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785) (EJB)
+11-4
+ESF22 ESF21 ESF20 F02 60A 60A 40A 10A
+C73KCE
+A73KCE
+KP
+KP
+30 85 30 85 30 85
+87 86 87 86 87 86
+ECK37
+04KCE
+EY
+B73KCE
+KP
+R4 R18 R03
+(cid:9286)(cid:9731)(cid:27485)(cid:13526) (cid:9286)(cid:9731)(cid:27485)(cid:13526) (cid:9286)(cid:9731)(cid:27485)(cid:13526) (cid:8669)(cid:25262)(cid:20854)(cid:18372)(cid:10487) (cid:28007)(cid:25262)(cid:20854)(cid:18372)(cid:10487)1 (cid:28007)(cid:25262)(cid:20854)(cid:18372)(cid:10487)2
+C1104b
+(cid:8669)(cid:25262) (cid:28007)(cid:25262) (cid:8394)(cid:20854)(cid:18372)(cid:10487)
+A13FSE
+DR
+ESF31 40A 13-2
+A10RE
+DR
+ER01
+C10RE
+DR
+A96KCE
+KB-DR
+C13FSE
+DR
+B13FSE
+DR
+33-1 冷却风扇 江铃福顺
+蓄电池
+接线盒
+(EJB)
+11-4
+ESF22 ESF21 ESF20 F02
+60A 60A 40A 10A
+R4 R18 R03 R1
+30 85 30 85。 30 85。 30 86。 R1
+W冷 低 却 速 风 继 扇 电器 图 冷 高速 却 继 风 电 扇 器1 W 高 冷 速 却 继 风 电 扇 器2 30 86 W主 1 1 (cid:8394)3 3 继 - - (cid:20854) 5 5 电 (cid:18372)(cid:10487) 器 ESF31 d 87 86° 87 86° d 87 869 d 87 85° 1 4 3 0 - A 2
+87 85
+ECK37B ECK37C ER01C ER01A ESF31C ESF31B ESF31A
+兰 兰
+ECK37
+ER01 ESF31
+ER04A ECK40 ERO3A ESF31
+ER18
+品 岁 品
+3 C1161b 3 C1161a
+来 人
+电子 电子
+电源正-高速 风扇1 电源正-高速 风扇2
+GND 电源正-低速 GND 电源正-低速
+C1161b C1161a
+1 2 1 2
+B_G014A AG014A
+ECK37A ECK69A
+ER04B ER04C RDB
+盖 孟 盖 孟 兰
+÷GD14 ÷GD14
+GD14 GD14
+40 37 69 C1104b
+发动机控制单元(EMS)
+低速 高速 主继电器 (cid:9824)(cid:9527)(cid:14793)(cid:13878)(cid:9413)(cid:9700)(cid:9170)(cid:11)(cid:40)(cid:48)(cid:54)(cid:12)
+30 85。
+30 85
+图
+87 86°
+87 86 30 85。
+30 85 W
+d
+87 869
+87 86
+ECK40
+04KCE
+品
+NB ECK37B ECK37C
+B73KCE C73KCE
+KP 兰
+ERO3A
+ER18
+A30RE
+DR 81RE NB EY 岁 品
+3 C1161b 3 C1161a
+3 C1161a 3 C1161b 来 人
+电子 电子
+(cid:18372)(cid:11743) (cid:18372)(cid:11743) (cid:27485)(cid:13526)1 (cid:27485)(cid:13526)2 (cid:18372)(cid:16671)(cid:15858)-(cid:28007)(cid:25262) (cid:18372)(cid:16671)(cid:15858)-(cid:28007)(cid:25262) 电源正-高速 风扇1 电源正-高速 风扇2
+GND 电源正-低速 GND 电源正-低速
+(cid:18372)(cid:16671)(cid:15858)-(cid:8669)(cid:25262) GND GND (cid:18372)(cid:16671)(cid:15858)-(cid:8669)(cid:25262)
+C1161b C1161a
+C1161a C1161b 1 2 1 2
+2 2 1 1
+B_G014A AG014A
+ECK37A
+A41DG_B A41DG_A ER04B ER04C
+A73KCE
+C40RE B40RE
+NB KB NB KB 盖 孟 盖 孟
+÷GD14 ÷GD14
+GD14 GD14
+37
+37 KP 兰 ECK37C
+C73KCE ER01C ER01A
+A10RE C10RE
+KP DR DR 兰
+ECK37
+ECK37 ER01
+ER01
+ECK69A
+A96KCE
+KP 兰
+69
+69 ER01A
+A10RE
+DR
+30 85
+30 85 W
+d
+87 86°
+87 86
+30 86。
+30 86 W
+d
+87 85°
+87 85
+ESF31B
+B13FSE
+DR ESF31A
+A13FSE
+DR

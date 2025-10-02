@@ -1,0 +1,141 @@
+=== 第121页 ===
+130-1 音响系统 江铃福顺
+(cid:12487)(cid:18372)(cid:16671)
+(cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785)
+(cid:11)(cid:54)(cid:53)(cid:37)(cid:12)
+11-4
+F98
+(cid:23)(cid:19)(cid:36) 13-1
+D50DP DR
+F51
+(cid:24)(cid:36) 13-5
+A15FP DR C15FP DR D42AEP
+B42AEP
+EY
+EY
+A31RP KB-DR A89FSP NG-HW C31RP KB-DR
+F78
+(cid:26)(cid:17)(cid:24)(cid:36) 13-7
+PEA24 S2B148-A PD05
+PR13
+A87FP DR
+(cid:53)(cid:20)(cid:22) 1 3 (cid:44)(cid:42)(cid:21)(cid:18)
+F52 (cid:36)(cid:38)(cid:38)
+(cid:24)(cid:36) (cid:20854)(cid:18372)(cid:10487) 13-4 13-7
+2 5 A25FP KB-NG
+F56
+(cid:20)(cid:24)(cid:36) 13-4
+A65FP DR
+130-1 音响系统 江铃福顺
+常电源
+蓄电池
+接线盒 (SRB)
+11-4
+R13
+W 1 3 IG2/ F52 F51 ACC F98 F78 F56
+5A 5A 继电器 40A 7.5A 134
+13-4 13-5 13-7 13-1 13-7 2 5 IVI 151-5
+PF52A GN-BK PF51A PF51C 品 PEA240 岁 PR13A RD-BK SF98A N9-HM PD05D PR13C RD哭 PF78A PF56A 1 模 络 1 (cid:15536) (cid:25257) (cid:20960) 4 4 - - (cid:10726) (cid:8816) (cid:20843) 块 4 4 B B Y B B Y B B C C C E C U E U A A A A N N N N L H H L 0 0 0 0 5 5 5 5 C2 C 0 2 9 09 4 D D 4 D D 1 1 1 1 i 2 1 2 , , (cid:44) B (cid:57) B - (cid:44) - (cid:37) (cid:37) C (cid:16) (cid:16) C (cid:38) (cid:38) A A (cid:36) (cid:36) N N (cid:49) (cid:49) - - (cid:16) (cid:16) (cid:43) (cid:47) L H G G (cid:42) (cid:42) N N 1 (cid:49) (cid:49) 5 D D (cid:39) (cid:39) 1-5 D C D D C 2 6 3 3 2 0 0 9 9 4 4 A B A A B A B _ _ K _ K _ K G G G G D D D D 2 2 2 2 6 6 6 6 H E H E D6 BK
+PEA24
+S2B148-A PEA24B PD05 C2 C 2 2 - 2 A - 、 A P P F F 5 56 6 D D P P F F 5 56 6 P P F F 5 5 6 6B B B+电源 GND A A _ _ G G D D 2 2 6 6 F F A A _ _G G D D 2 2 6 6 A A C C
+PR13 23 RD RD A2 (cid:37)(cid:14)(cid:18372)(cid:16671) (cid:42)(cid:49)(cid:39) 15 BKA_GD26-A BK
+23 RD RD A2 E15 BK A_GD26-A BK
+岁 A_GD26S
+PF56C MICLGND A_GD26S
+PF56C (cid:48)(cid:44)(cid:38)(cid:47)(cid:66)(cid:42)(cid:49)(cid:39) E17 BK
+RD B1 B (cid:37) + (cid:14) 电 (cid:18372) 源 (cid:16671) E17 BK
+RD B1
+A_GD26D
+P P F F 7 7 8 8C C P P F F 7 78 8 D D A A S S 2 2B B P P 8 8 2 2 P P F F 7 78 8 D D C C G (cid:42) N (cid:49) D (cid:39) A1 B A K _GD26D
+P P F F 7 78 8 R R D D 3 31 1 R R D D ●1 R RD D B B 5 5 A (cid:36) C (cid:38) C (cid:38) 电 (cid:18372) 源 (cid:16671) A1 A B _ K GD26B A_GD26AB
+GND A_GD26B A_GD26AB
+PEPS 151-10 (cid:42)(cid:49)(cid:39) B B 6 6 B B K K A A _ _ G G D D 2 2 6 6 - -A A B B K K - -B B U U
+(cid:51)(cid:40)(cid:51)(cid:54) 151-10
+C22-A、 PEA24A C2028a
+C22- 1 A 1 9 9 Y P Y E E E A24A C2028 2 a 24 4 IG (cid:44)(cid:42) N2 (cid:49) 继 (cid:21)(cid:20854) 电 (cid:18372) 器 (cid:10487) 控 (cid:13878) 制 (cid:9413) 灭 (cid:17148) 火 (cid:17146) 器 (cid:10487)(cid:12687) 开 (cid:9218) 关 1 1 5 51 1 - - 5 5 ÷1 G 0G 10 D -D - 2 3 236 6
+PF78DB C2192
+PF78DB C2192
+ACC电源
+RD (cid:36)(cid:38)(cid:38)(cid:18372)(cid:16671) C2192 A_GD26C
+RD 4 GND C2192 A_GD26C
+P P F F 5 52 2 A A C C 2 2 2 2 - -B B P P F F 5 52 2 B B B+电源 (cid:42)(cid:49)(cid:39) 3 3 B B K K
+灭火器 151-8 G G N N - - B BK K 1 1 8 8 G G N N - - B BK K 5 5 (cid:37)(cid:14)(cid:18372)(cid:16671)
+(cid:17148)(cid:17146)(cid:10487) 151-8
+C1103 ZA103B ZA103A
+C1103 ZA103B ZA103A
+灭火启动 灭火启动
+(cid:17148)(cid:17146)(cid:9918)(cid:9527) 2 WH-RD 14 WH-RD 2 (cid:17148)(cid:17146)(cid:9918)(cid:9527)
+2 WH-RD 14 WH-RD 2
+ZA102B ZA102A
+ZA102B ZA102A
+预警回馈信号 预警回馈信号
+(cid:27411)(cid:24053)(cid:10605)(cid:27671)(cid:8816)(cid:9862) VT-0G 15 VT-0G (cid:27411)(cid:24053)(cid:10605)(cid:27671)(cid:8816)(cid:9862)
+1 VT-OG 15 VT-OG 1
+A_GD17C A_GD17 A_GD17A
+接地 A_GD17C A_GD17 A_GD17A
+(cid:13876)(cid:10687) 3 3 B B K K B B K K GD17
+÷1 G 0 D - 1 6 7
+10-6
+1
+W 1
+2
+2 3
+3
+5
+5
+PF51C
+C15FP
+DR RD-BK SF98A N9-HM PD05D PR13C
+KB-DR A89FSP NG-HW D50DP C31RP
+DR
+PD05
+PD05 N9-HM
+NG-HW
+,
+1
+B
+,
+2
+RD RD A2
+RD RD A2
+PF56C
+PF56C
+RD B1
+RD B1
+PF78DA S2BP82 PF78DC
+PF78DA S2BP82 PF78DC
+●1 RD A2
+RD A2
+PF56C
+PF56C
+D3 BK
+D3 BK
+A_GD26E
+A_GD26E
+D6 BK
+D6 BK
+A_GD26F
+A_GD26F
+1
+E 5 BKA_GD26-A
+15 BK A_GD26-A
+A_GD26S
+A_GD26S
+E
+E
+A 1 BK
+A1 BK
+A_GD26B
+A_GD26B
+GN-BK 5
+GN-BK 5
+ZA103A
+ZA103A
+2 WH-RD 14
+2 WH-RD 14
+ZA102B
+ZA102B WH-RD 2
+WH-RD 2
+ZA102A
+ZA102A

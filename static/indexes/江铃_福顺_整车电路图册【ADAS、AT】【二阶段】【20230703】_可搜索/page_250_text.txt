@@ -1,0 +1,135 @@
+=== 第250页 ===
+江铃福顺 整体系统原理图 161-10
+喇叭/点烟器/USB
+(cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785)
+(cid:11)(cid:51)(cid:41)(cid:37)(cid:12) 11-4
+F5
+(cid:27)(cid:19)(cid:36) 13-1
+(cid:37)(cid:38)(cid:48) 151-10
+(cid:36)(cid:38)(cid:38)(cid:20854)(cid:18372)(cid:10487)(cid:25122)(cid:9353)
+27
+(cid:26817)(cid:18790)(cid:13620)(cid:24053)(cid:20854)(cid:18372)(cid:10487)(cid:25122)(cid:9353)
+24
+151-5
+A50DP
+DR
+D50DP
+DR
+(cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785)
+(cid:11)(cid:54)(cid:53)(cid:37)(cid:12) 11-4
+F98 F51
+(cid:23)(cid:19)(cid:36) (cid:24)(cid:36) 13-1 13-5
+PD05
+B31RP KB-DR A31FP KB-DR A72CCB NG-GO
+3 1
+5 2 13-7
+PF13
+2 C2207a (cid:28007)(cid:8669)(cid:27266)(cid:10262)(cid:9852)(cid:20) 151-8 (cid:28007)(cid:8669)(cid:27266)(cid:10262)(cid:9852)(cid:21) 151-8
+(cid:9436)(cid:17224) (cid:17262)(cid:10487) C1192 C1191
+(cid:14) (cid:14)
+1 1
+(cid:16) (cid:16)
+2 2
+1 C2207a
+B72DG_A
+KB
+G2D115-B GD17
+10-4 10-6
+A71DG_B
+KB
+F49
+(cid:20)(cid:19)(cid:36) 13-1
+A94FP
+DR
+F53
+(cid:21)(cid:19)(cid:36) 13-7
+D42ECB
+C42ECB
+D94FP
+NG-TV
+NG-TV
+DR
+B42ECB NG-TV A52RP
+B52RP
+TV
+TV
+A35FP
+HW
+C52RP
+B71DG_B
+TV
+KB
+(cid:53)(cid:21)(cid:24) 1 3 (cid:10262)(cid:9852)(cid:20854)(cid:18372)(cid:10487)
+F94 13-7
+(cid:21)(cid:19)(cid:36) 13-7 2 5 4
+PF49
+BCE24A BCE24
+VT-GN PR25
+B49FP
+A49FP
+DR-HW
+DR-HW
+(cid:53)(cid:20)(cid:22) (cid:44)(cid:42)(cid:21)(cid:18)
+(cid:36)(cid:38)(cid:38)
+(cid:20854)(cid:18372)(cid:10487)
+39 C22-B 41 C22-A
+10 C2115
+(cid:14469)(cid:26414)(cid:12744)(cid:20150)
+A89FSP NG-HW C15FP
+DR
+A15FP
+DR
+江铃福顺 整体系统原理图 161-10
+喇叭/点烟器/USB
+蓄电池
+接线盒
+(SRB) 11-4
+R13 R25
+IG2/ 33 8 喇叭继电器 1 ACC 13-7
+图 自 测1
+继电器
+2 13-7
+p005A PD05D N9-90 PF51C PF49A BCE248 N9-1APR25A
+品 品 品 品 5
+PD05
+BCM 151-10 PF13 PF49
+C2102c
+C2102c
+ACC继电器输出十
+C2102e BCE24A BCE24
+防 - 盗 - 报 - 警 - 继 - 电 - 器 - 输 - 出 1 十 24 C2102e VT-GN PR25
+BCE24D
+NG-TV
+39 C22-B 41 C2-A
+BCE24C
+PF94A WHRD N9-IA PR25B PR25C
+5 5
+2 C2207a 10 C2115
+高 D 低音喇叭1 151-8 高低音喇叭2151-8 前点 时钟弹簧
+【2 烟器 喇 (cid:10262) 叭 (cid:9852) 信 (cid:8816)(cid:9862) 号 C1192 C1191 到
+151-5
+1 C2207a
+B_GD17A B_GD17R
+ALGD27B
+益 益
+益
+G6
+G2D115-B
+吉10-4 吉
+3 1
+图
+2
+5 2
+B31RP KB-DR A31FP KB-DR A72CCB DR-HW A89FSP NG-HW
+PF13
+PF13 KB-DR A89FSP NG-HW A31FP A89FSP A15FP
+DR D94FP
+品
+DR A35FP
+27
+C2102e
+C2102e
+(cid:16) D
+(cid:16) 到

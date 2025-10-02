@@ -1,0 +1,60 @@
+=== 第37页 ===
+10-7 接地 江铃福顺
+G2D133
+(cid:8394)(cid:27917)(cid:26743)(cid:26512) 54-1 54-3
+C563a A_GD24L
+6 BK
+A_GD24K A_GD24B
+4 BK BK
+A42DG_A
+KB
+E42DG_B
+KB
+A42DG_B
+KB
+10-7 接地 江铃福顺
+G2D133
+副驾驶侧电动窗开关
+5(cid:9470)4(cid:27917)1(cid:27909)5(cid:8758)4(cid:18372)3(cid:9527)(cid:19750)(cid:12687)(cid:9218)
+54-1 54-3
+C510a A_GD24X
+C510a A_GD24X
+3 BK
+3 BK
+A_GD24Z
+A_GD24Z
+BK
+44 BK
+A_GD24Y
+A_GD24Y
+6 BK
+6 BK
+主驾电动窗开关 BCM
+5(cid:8394) 5 4 4- -(cid:27917) 1 1(cid:18372) 5(cid:9527) 5 4 4 -(cid:19750) - 3 3 (cid:12687)(cid:9218) C C 5 5 1 1 0 0 6 b A A _ _G GD D2 2 4 4 D D A A _ _ G G D D 2 2 4 4 A A _ _ G G D D 2 24 4 C C X X C C 3 3 A A - -B BA A _ _ G G D D 2 2 4 4 H H A A B B _ _ G G D D 2 2 4 4 - -1 1 B B _ _ G G D D 2 24 4 G G B B K K C C 2 2 1 1 0 0 2 2b b 2 2 5 (cid:37) 5 5 5 (cid:38) - -3 3 (cid:48)
+3 3 B B K K B B K K 1 1 B B K K B B_ _ G G D D 2 2 4 4 F F B B K K C C 2 2 1 1 0 0 2 2 b b
+A_GD24F 20
+A_GD24F 20
+4 4 B B K K B B _ _ G G D D2 2 4 4 D D B B K K C C 2 2 1 1 0 0 2 2d d
+A.GD24E 12
+A_GD24E 12
+6 6 B B K K B B _ _ G G D D2 2 4 4 C C B B K K C C 2 2 1 1 0 0 2 2c c
+12
+5 主 4- 驾 1 门 5 锁 4-3 B_GD24 B B _ _ G G D D 2 24 4 B B B B K K C C 2 2 1 1 0 0 2 2a a 12
+C563a A_GD24L B_GD24 2
+2
+6 BK
+A_GD24K A_GD24LA C3A-B A_GD24B
+A_GD24LA C3A-B A_GD24
+4 BK A A _ _G GD D 2 24 4 - - 1 1B B K K 1 1 9 9 BK A_GD24
+洗涤壶电机
+(cid:16294)(cid:16435)(cid:11141)(cid:18372)(cid:14793)
+C1114 A_GD24C
+C1114 A_GD24C
+BK
+1 BK
+A_GD24A B_GD24E B_GD24A
+益 益
+G2D133A
+G2D133A
+151-9
+151-9

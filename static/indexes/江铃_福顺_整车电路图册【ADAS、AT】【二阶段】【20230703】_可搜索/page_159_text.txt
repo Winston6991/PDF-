@@ -1,0 +1,372 @@
+=== 第159页 ===
+150-15接插件视图 江铃福顺
+150-15 接插件视图 江铃福顺
+C2004 C2032
+C2004 C2032
+14K024 14K024
+14K024 14K024
+O O B BD D 点点火火开开关关 -
+11666 9 7 1
+8 1
+针针脚脚 电电 . 路路 线线色色 规规.格格 线线路路功功能能 区区分分条条件件
+1 PF69HA RD 0.5 KL15
+1 PF69HA RD 0.5 KL15
+2 未使用
+2 - - - 未使用
+3
+3 - - -
+未未使使用用
+4 PF58B RD 0.5 30
+4 PF58B RD 0.5 30
+5
+5 - - -
+未未使使用用
+6 BCC23B BU-WH 0.5 ACC信号开关
+- 7 6 B B C C C C 2 2 2 3B B B B K U - -W W H H 0 0 . .5 5 S A T C A C RT 信 信 号 号 开 开 关 关
+7 BCC22B BK-WH 0.5 START信号开关
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1 CCANH02 P-K 0.5 CS CAN+
+1 CCANH02 PK 0.5 CS CAN +
+2 - 未使用
+2 - - - 未使用
+3 BCANH06 YE 0.5 B CAN+
+3 BCANH06 YE 0.5 B CAN +
+4 5 4 B B B _ _ _ G G G D D D 2 2 26 6 6 D B D B B BKK K 0 00. . .55 5 接 接 接地 地 地
+6
+5
+P
+B
+C
+_G
+AN
+D
+H
+26
+0
+B
+3
+WBHK
+0
+0
+..
+.5
+5 P
+接
+T
+地
+CAN+
+6 PCANH03 WH 0.5 PT CAN +
+7 7 - - . - 未 未 使 使 用 用 C2023
+8 CCANL02 PK-WH 0.5 CS CAN- C2023
+8 CCANL02 PK-WH 0.5 CS CAN - 14K024
+9
+9 - - -
+未未使使用用 14K024
+1
+1
+0
+0 - - -
+未未使使用用 大大灯灯调调节节开开关关
+11 BCANL06 BU 0.5 B CAN-
+11 BCANL06 BU 0.5 B CAN -
+1 12 2 - - - 未 未 使 使 用 用 -
+13 TCANH03 WH-RD 0.5 CAN_H
+13 TCANH03 WH-RD 0.5 CAN_H - -
+14 PCANL03 GN 0.5 PT CAN-
+14 PCANL03 GN 0.5 PT CAN - 6 1
+15 TCANL03 VT-OG 0.5 CANL
+15 TCANL03 VT-OG 0.5 CAN_L
+1 16 6 P P F F 8 8 2 2B B Y Y E E - -R R D D 0 0 . .5 5 蓄蓄电电池池电电压压
+.
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1 PF80F BK.-YE 0.5 灯光调节+
+2 1 2 H H P L F L .0 0 8 2 2 0 A A F B G K G - N N YE 0 0 0 . . . 5 5 5 灯 灯 灯光 光 光调 调 调节 节 节信信 + 号号输输出出
+3 未使用
+3 - - - 未使用
+4 未使用
+4 - - - 未使用
+5
+5
+B
+B
+C
+C
+D
+D
+2
+2
+3
+3A
+A
+A
+A B
+B
+N
+N
+0
+0
+.
+.5
+5 背背景景灯灯
++
++
+6
+6
+B
+B
+_
+_G
+GD
+D
+2
+26
+6
+H
+H
+A
+A B
+B
+K
+K
+0
+0
+.
+.5
+5 接接地地
+C2004
+C2004
+14K024
+14K024
+OBD
+OBD
+11666 9
+8 1
+-
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1 CCANH02 P-K 0.5 CS CAN+
+1 CCANH02 PK 0.5 CS CAN +
+2 - 未使用
+2 - - - 未使用
+3 BCANH06 YE 0.5 B CAN+
+3 BCANH06 YE 0.5 B CAN +
+4 5 4 B B B _ _ _ G G G D D D 2 2 26 6 6 D B D B B BKK K 0 00. . .55 5 接 接 接地 地 地
+5 B _G D 26 B WBHK 0 .5 接 地
+6 P C AN H 0 3 0 .. 5 P T CAN+
+6 PCANH03 WH 0.5 PT CAN +
+7 . 未使用
+7 - - - 未使用
+8 CCANL02 PK-WH 0.5 CS CAN-
+8 CCANL02 PK-WH 0.5 CS CAN -
+9 未未使使用用
+9 - - -
+1 0 未未使使用用
+1 0 - - -
+11 BCANL06 BU 0.5 B CAN-
+11 BCANL06 BU 0.5 B CAN -
+12 未使用
+12 - - - 未使用
+13 TCANH03 WH-RD 0.5 CAN_H
+13 TCANH03 WH-RD 0.5 CAN_H
+14 PCANL03 GN 0.5 PT CAN-
+14 PCANL03 GN 0.5 PT CAN -
+15 TCANL03 VT-OG 0.5 CANL
+15 TCANL03 VT-OG 0.5 CAN_L
+1 16 6 P P F F 8 8 2 2B B Y Y E E - -R R D D 0 0 . .5 5 蓄蓄电电池池电电压压 C2032
+C2032
+14K024
+14K024
+点点火火开开关关
+-
+7 1
+针针脚脚 电电 . 路路 线线色色 规规.格格 线线路路功功能能 区区分分条条件件
+1 PF69HA RD 0.5 KL15
+1 PF69HA RD 0.5 KL15
+2 未使用
+2 - - - 未使用
+3 未未使使用用
+3 - - -
+4 PF58B RD 0.5 30
+4 PF58B RD 0.5 30
+5 未未使使用用
+5 - - -
+6 BCC23B BU-WH 0.5 ACC信号开关
+6 BCC23B BU-WH 0.5 ACC信号开关
+7 BCC22B BK-WH 0.5 START信号开关
+7 BCC22B BK-WH 0.5 START信号开关
+C2023
+C2023
+14K024
+14K024
+大大灯灯调调节节开开关关
+-
+- -
+6 1
+.
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1 PF80F BK.-YE 0.5 灯光调节+
+2 1 2 H H P L F L .0 0 8 2 2 0 A A F B G K G - N N YE 0 0 0 . . . 5 5 5 灯 灯 灯光 光 光调 调 调节 节 节信信 + 号号输输出出
+3 未使用
+3 - - - 未使用
+4 未使用
+4 - - - 未使用
+5 B C D 2 3 A A B N 0 . 5 背背景景灯灯 +
+5 B C D 2 3A A B N 0 .5 +
+6 B _ GD 2 6 H A B K 0 . 5 接接地地
+6 B _G D 26 H A B K 0 .5
+11666 9
+8 1
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1
+1 .
+PF69HA
+PF69HA RD
+RD 0.5
+0.5 KL15
+KL15
+2
+2 - - .
+- 未使用
+未使用
+3
+3 - - - 未未使使用用
+4
+4 PF58B
+PF58B RD
+RD 0.5
+0.5 30
+30
+5
+5 - - - 未未使使用用
+6
+6 BCC23B
+BCC23B BU-WH
+BU-WH 0.5
+0.5 ACC信号开关
+ACC信号开关
+7
+7 BCC22B
+BCC22B BK-WH
+BK-WH 0.5
+0.5 START信号开关
+START信号开关
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1
+1 CCANH02
+CCANH02 PK
+PK 0.5
+0.5 CS CAN+
+CS CAN +
+2
+2 - - - 未使用
+未使用
+3
+3 BCANH06
+BCANH06 YE
+YE 0.5
+0.5 B CAN+
+B CAN +
+4
+4 -
+B_GD26D
+B_GD26D BK
+BK 0.5
+0.5 接接地地
+5
+5 B_GD26B
+B_GD26B -
+BK
+BK 0.5
+0.5 接地
+接地
+6
+6 PCANH03
+PCANH03 WH
+WH 0.5
+0.5 PT CAN+
+PT CAN +
+7
+7 - - .
+- 未使用
+未使用
+8
+8 CCANL02
+CCANL02 PK-WH
+PK-WH -
+0.5
+0.5 CS CAN-
+CS CAN -
+9
+9 - - .
+- 未未使使用用
+10
+10 - - - 未未使使用用
+11
+11 BCANL06
+BCANL06 BU
+BU 0.5
+0.5 B CAN-
+B CAN -
+12
+12
+13 -
+TCANH03 -
+WH-RD -
+0.5 未使用
+未使用
+CAN_H
+13
+14
+14 TCANH03
+PCANL03
+PCANL03 WH-RD
+GN
+GN 0.5
+0.5
+0.5 CAN_H
+PT CAN-
+PT CAN -
+15
+15 TCANL03
+TCANL03 VT-OG
+VT-OG 0.5
+0.5 CANL
+CAN_L
+16
+16 PF82B
+PF82B YE-RD
+YE-RD 0.5
+0.5 蓄蓄电电池池电电压压
+6 1
+针针脚脚 电电路路 线线色色 -
+规规格格 线线路路功功能能 区区分分条条件件
+1
+1 PF80F
+PF80F BK-YE
+BK-YE .
+0.5
+0.5 灯光调节+
+灯光调节+
+2
+2 HL02A
+HL02A GN
+GN 0.5
+0.5 灯灯光光调调节节信信号号输输出出
+3
+3 .
+- .
+- - 未使用
+未使用
+4
+4 - - - 未使用
+未使用
+5
+5 BCD23AA
+BCD23AA BN
+BN 0.5
+0.5 背背景景灯灯 +
++
+6
+6 B_GD26HA
+B_GD26HA BK
+BK 0.5
+0.5 接接地地

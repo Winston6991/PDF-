@@ -1,0 +1,486 @@
+2025-10-01 13:20:14,503 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-10-01 13:20:14,503 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 13:20:14,509 - INFO -  * Restarting with stat
+2025-10-01 13:20:15,139 - WARNING -  * Debugger is active!
+2025-10-01 13:20:15,149 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 13:20:17,081 - INFO - 127.0.0.1 - - [01/Oct/2025 13:20:17] "GET / HTTP/1.1" 200 -
+2025-10-01 13:20:17,357 - INFO - 127.0.0.1 - - [01/Oct/2025 13:20:17] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 13:20:20,457 - INFO - 开始处理：412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf（14页，34.74MB）
+2025-10-01 13:20:22,537 - INFO - 第1页：有效行数=127，目标元件行数=0，总元件行=1
+2025-10-01 13:20:23,216 - INFO - 第2页：有效行数=43，目标元件行数=0，总元件行=0
+2025-10-01 13:20:24,892 - INFO - 第3页：有效行数=114，目标元件行数=0，总元件行=0
+2025-10-01 13:20:26,824 - INFO - 第4页：有效行数=132，目标元件行数=0，总元件行=0
+2025-10-01 13:20:28,783 - INFO - 第5页：有效行数=86，目标元件行数=0，总元件行=0
+2025-10-01 13:20:28,784 - INFO - 进度：5/14页，已提取目标元件：0个
+2025-10-01 13:20:29,728 - INFO - 第6页：有效行数=76，目标元件行数=0，总元件行=0
+2025-10-01 13:20:30,701 - INFO - 第7页：有效行数=78，目标元件行数=0，总元件行=0
+2025-10-01 13:20:31,261 - INFO - 第8页：有效行数=54，目标元件行数=0，总元件行=0
+2025-10-01 13:20:34,355 - INFO - 第9页：有效行数=109，目标元件行数=0，总元件行=1
+2025-10-01 13:20:36,225 - INFO - 第10页：有效行数=106，目标元件行数=0，总元件行=0
+2025-10-01 13:20:36,226 - INFO - 进度：10/14页，已提取目标元件：0个
+2025-10-01 13:20:38,128 - INFO - 第11页：有效行数=111，目标元件行数=0，总元件行=0
+2025-10-01 13:20:38,622 - INFO - 第12页：有效行数=39，目标元件行数=0，总元件行=0
+2025-10-01 13:20:41,234 - INFO - 第13页：有效行数=105，目标元件行数=0，总元件行=0
+2025-10-01 13:20:44,300 - INFO - 第14页：有效行数=97，目标元件行数=0，总元件行=0
+2025-10-01 13:20:44,303 - INFO - 
+处理完成！412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf
+总页：14 | 成功：14 | 跳过：0
+总元件：2个 | 目标元件：0个
+耗时：23.87秒 | 索引路径：C:\Users\86135\PycharmProjects\pdf_circuit_search\static\indexes\412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索\pdf_index.json
+
+2025-10-01 13:20:44,304 - INFO - 127.0.0.1 - - [01/Oct/2025 13:20:44] "[32mGET /process/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1[0m" 302 -
+2025-10-01 13:20:44,315 - INFO - 127.0.0.1 - - [01/Oct/2025 13:20:44] "GET / HTTP/1.1" 200 -
+2025-10-01 13:20:44,418 - INFO - 127.0.0.1 - - [01/Oct/2025 13:20:44] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 13:26:11,747 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-10-01 13:26:11,747 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 13:26:11,751 - INFO -  * Restarting with stat
+2025-10-01 13:26:12,356 - WARNING -  * Debugger is active!
+2025-10-01 13:26:12,371 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 13:26:14,284 - INFO - 127.0.0.1 - - [01/Oct/2025 13:26:14] "GET / HTTP/1.1" 200 -
+2025-10-01 13:26:14,534 - INFO - 127.0.0.1 - - [01/Oct/2025 13:26:14] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 13:26:15,472 - INFO - 127.0.0.1 - - [01/Oct/2025 13:26:15] "[32mGET /process/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1[0m" 302 -
+2025-10-01 13:26:15,482 - INFO - 127.0.0.1 - - [01/Oct/2025 13:26:15] "GET / HTTP/1.1" 200 -
+2025-10-01 13:26:15,563 - INFO - 127.0.0.1 - - [01/Oct/2025 13:26:15] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 13:26:32,026 - INFO - 127.0.0.1 - - [01/Oct/2025 13:26:32] "[32mGET /process/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1[0m" 302 -
+2025-10-01 13:26:32,037 - INFO - 127.0.0.1 - - [01/Oct/2025 13:26:32] "GET / HTTP/1.1" 200 -
+2025-10-01 13:26:32,119 - INFO - 127.0.0.1 - - [01/Oct/2025 13:26:32] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 13:26:33,713 - INFO - 127.0.0.1 - - [01/Oct/2025 13:26:33] "[32mGET /process/一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf HTTP/1.1[0m" 302 -
+2025-10-01 13:26:33,722 - INFO - 127.0.0.1 - - [01/Oct/2025 13:26:33] "GET / HTTP/1.1" 200 -
+2025-10-01 13:26:33,795 - INFO - 127.0.0.1 - - [01/Oct/2025 13:26:33] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 13:26:37,193 - INFO - 127.0.0.1 - - [01/Oct/2025 13:26:37] "[32mGET /process/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1[0m" 302 -
+2025-10-01 13:26:37,202 - INFO - 127.0.0.1 - - [01/Oct/2025 13:26:37] "GET / HTTP/1.1" 200 -
+2025-10-01 13:26:37,276 - INFO - 127.0.0.1 - - [01/Oct/2025 13:26:37] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 13:37:35,974 - INFO -  * Detected change in 'C:\\Users\\86135\\PycharmProjects\\pdf_circuit_search\\app.py', reloading
+2025-10-01 13:37:36,023 - INFO -  * Restarting with stat
+2025-10-01 13:41:49,143 - WARNING -  * Debugger is active!
+2025-10-01 13:41:49,159 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 13:42:32,975 - INFO -  * Detected change in 'C:\\Users\\86135\\PycharmProjects\\pdf_circuit_search\\search_engine.py', reloading
+2025-10-01 13:42:33,629 - WARNING -  * Debugger is active!
+2025-10-01 13:42:33,643 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 13:42:42,821 - INFO -  * Detected change in 'C:\\Users\\86135\\PycharmProjects\\pdf_circuit_search\\app.py', reloading
+2025-10-01 13:42:43,477 - WARNING -  * Debugger is active!
+2025-10-01 13:42:43,488 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 13:43:07,804 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-10-01 13:43:07,804 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 13:43:07,807 - INFO -  * Restarting with stat
+2025-10-01 13:43:08,376 - WARNING -  * Debugger is active!
+2025-10-01 13:43:08,387 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 13:43:10,445 - INFO - 127.0.0.1 - - [01/Oct/2025 13:43:10] "GET / HTTP/1.1" 200 -
+2025-10-01 13:43:12,792 - INFO - 开始处理：412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf（14页）
+2025-10-01 13:43:17,529 - ERROR - 第1页处理失败：extract_text_simple() got an unexpected keyword argument 'use_text_flow'
+2025-10-01 13:43:19,201 - ERROR - 第2页处理失败：extract_text_simple() got an unexpected keyword argument 'use_text_flow'
+2025-10-01 13:43:22,847 - ERROR - 第3页处理失败：extract_text_simple() got an unexpected keyword argument 'use_text_flow'
+2025-10-01 13:43:26,884 - ERROR - 第4页处理失败：extract_text_simple() got an unexpected keyword argument 'use_text_flow'
+2025-10-01 13:46:15,359 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-10-01 13:46:15,359 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 13:46:15,363 - INFO -  * Restarting with stat
+2025-10-01 13:46:15,910 - WARNING -  * Debugger is active!
+2025-10-01 13:46:15,926 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 13:46:17,615 - INFO - 127.0.0.1 - - [01/Oct/2025 13:46:17] "GET / HTTP/1.1" 200 -
+2025-10-01 13:46:18,534 - INFO - 127.0.0.1 - - [01/Oct/2025 13:46:18] "GET /favicon.ico HTTP/1.1" 200 -
+2025-10-01 13:46:18,948 - INFO - 开始处理：412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf（14页）
+2025-10-01 13:47:12,543 - INFO - 
+处理完成！412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf
+总页：14 | 成功：14
+提取元件：84个 | 耗时：53.63秒
+
+2025-10-01 13:47:12,544 - INFO - 127.0.0.1 - - [01/Oct/2025 13:47:12] "[32mGET /process/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1[0m" 302 -
+2025-10-01 13:47:12,556 - INFO - 127.0.0.1 - - [01/Oct/2025 13:47:12] "GET / HTTP/1.1" 200 -
+2025-10-01 13:47:12,667 - INFO - 127.0.0.1 - - [01/Oct/2025 13:47:12] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 13:59:34,946 - INFO -  * Detected change in 'C:\\Users\\86135\\PycharmProjects\\pdf_circuit_search\\app.py', reloading
+2025-10-01 13:59:35,225 - INFO -  * Restarting with stat
+2025-10-01 14:01:25,813 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-10-01 14:01:25,813 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 14:01:25,816 - INFO -  * Restarting with stat
+2025-10-01 14:01:26,388 - WARNING -  * Debugger is active!
+2025-10-01 14:01:26,400 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 14:01:28,401 - INFO - 127.0.0.1 - - [01/Oct/2025 14:01:28] "GET / HTTP/1.1" 200 -
+2025-10-01 14:01:29,266 - INFO - 127.0.0.1 - - [01/Oct/2025 14:01:29] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:01:29,644 - INFO - 开始处理：412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf（14页）
+2025-10-01 14:02:22,784 - INFO - 
+处理完成！412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf
+总页：14 | 成功：14
+提取元件：46个 | 耗时：53.17秒
+主要元件：BCM, 组合仪表, 电磁阀, 温度传感器, 接ACC档继电器
+
+2025-10-01 14:02:22,784 - INFO - 127.0.0.1 - - [01/Oct/2025 14:02:22] "[32mGET /process/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1[0m" 302 -
+2025-10-01 14:02:22,804 - INFO - 127.0.0.1 - - [01/Oct/2025 14:02:22] "GET / HTTP/1.1" 200 -
+2025-10-01 14:02:22,909 - INFO - 127.0.0.1 - - [01/Oct/2025 14:02:22] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:03:26,846 - INFO - 127.0.0.1 - - [01/Oct/2025 14:03:26] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 14:03:26,949 - INFO - 127.0.0.1 - - [01/Oct/2025 14:03:26] "GET /static/pdfs/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 14:03:27,162 - INFO - 127.0.0.1 - - [01/Oct/2025 14:03:27] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:03:34,589 - INFO - 127.0.0.1 - - [01/Oct/2025 14:03:34] "[35m[1mGET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf?keyword=转向语音报警器 HTTP/1.1[0m" 500 -
+2025-10-01 14:03:34,620 - INFO - 127.0.0.1 - - [01/Oct/2025 14:03:34] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-10-01 14:03:34,621 - INFO - 127.0.0.1 - - [01/Oct/2025 14:03:34] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-10-01 14:03:34,671 - INFO - 127.0.0.1 - - [01/Oct/2025 14:03:34] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf?__debugger__=yes&cmd=resource&f=console.png&s=n7RDiSdjTpQh0Vp4mwjq HTTP/1.1" 200 -
+2025-10-01 14:03:34,697 - INFO - 127.0.0.1 - - [01/Oct/2025 14:03:34] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-10-01 14:04:31,809 - INFO -  * Detected change in 'C:\\Users\\86135\\PycharmProjects\\pdf_circuit_search\\ocr_processor.py', reloading
+2025-10-01 14:04:32,022 - INFO -  * Restarting with stat
+2025-10-01 14:04:32,599 - WARNING -  * Debugger is active!
+2025-10-01 14:04:32,611 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 14:04:45,269 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-10-01 14:04:45,269 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 14:04:45,272 - INFO -  * Restarting with stat
+2025-10-01 14:04:45,861 - WARNING -  * Debugger is active!
+2025-10-01 14:04:45,873 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 14:06:26,708 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-10-01 14:06:26,708 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 14:06:26,711 - INFO -  * Restarting with stat
+2025-10-01 14:06:27,304 - WARNING -  * Debugger is active!
+2025-10-01 14:06:27,316 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 14:06:29,222 - INFO - 127.0.0.1 - - [01/Oct/2025 14:06:29] "GET / HTTP/1.1" 200 -
+2025-10-01 14:06:30,065 - INFO - 127.0.0.1 - - [01/Oct/2025 14:06:30] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:06:30,248 - INFO - 开始处理：412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf（14页）
+2025-10-01 14:07:22,970 - INFO - 
+处理完成！412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf
+总页：14 | 成功：14
+原始元件数：96 | 去重后：96
+主要元件：开关(13次), 继电器(13次), 传感器(11次), 电机(9次), ECU(7次)
+耗时：52.75秒
+
+2025-10-01 14:07:22,971 - INFO - 127.0.0.1 - - [01/Oct/2025 14:07:22] "[32mGET /process/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1[0m" 302 -
+2025-10-01 14:07:22,984 - INFO - 127.0.0.1 - - [01/Oct/2025 14:07:22] "GET / HTTP/1.1" 200 -
+2025-10-01 14:07:23,091 - INFO - 127.0.0.1 - - [01/Oct/2025 14:07:23] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:07:59,263 - INFO - 127.0.0.1 - - [01/Oct/2025 14:07:59] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 14:07:59,365 - INFO - 127.0.0.1 - - [01/Oct/2025 14:07:59] "GET /static/pdfs/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 14:07:59,585 - INFO - 127.0.0.1 - - [01/Oct/2025 14:07:59] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:09:01,452 - INFO - 127.0.0.1 - - [01/Oct/2025 14:09:01] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf?keyword=喇叭按钮 HTTP/1.1" 200 -
+2025-10-01 14:09:01,553 - INFO - 127.0.0.1 - - [01/Oct/2025 14:09:01] "GET /static/pdfs/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 14:09:01,774 - INFO - 127.0.0.1 - - [01/Oct/2025 14:09:01] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:14:51,216 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-10-01 14:14:51,216 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 14:14:51,219 - INFO -  * Restarting with stat
+2025-10-01 14:14:51,796 - WARNING -  * Debugger is active!
+2025-10-01 14:14:51,807 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 14:14:53,828 - INFO - 127.0.0.1 - - [01/Oct/2025 14:14:53] "GET / HTTP/1.1" 200 -
+2025-10-01 14:14:54,661 - INFO - 127.0.0.1 - - [01/Oct/2025 14:14:54] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:14:55,583 - INFO - 127.0.0.1 - - [01/Oct/2025 14:14:55] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 14:14:55,697 - INFO - 127.0.0.1 - - [01/Oct/2025 14:14:55] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:16:04,082 - INFO - 127.0.0.1 - - [01/Oct/2025 14:16:04] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf?keyword=喇叭按钮 HTTP/1.1" 200 -
+2025-10-01 14:16:04,194 - INFO - 127.0.0.1 - - [01/Oct/2025 14:16:04] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:22:42,208 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-10-01 14:22:42,208 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 14:22:42,211 - INFO -  * Restarting with stat
+2025-10-01 14:22:42,768 - WARNING -  * Debugger is active!
+2025-10-01 14:22:42,773 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 14:22:44,805 - INFO - 127.0.0.1 - - [01/Oct/2025 14:22:44] "GET / HTTP/1.1" 200 -
+2025-10-01 14:22:45,636 - INFO - 127.0.0.1 - - [01/Oct/2025 14:22:45] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:22:45,743 - INFO - 127.0.0.1 - - [01/Oct/2025 14:22:45] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 14:22:45,822 - INFO - 127.0.0.1 - - [01/Oct/2025 14:22:45] "GET /static/pdfs/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 14:22:46,004 - INFO - 127.0.0.1 - - [01/Oct/2025 14:22:46] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:23:49,677 - INFO - 127.0.0.1 - - [01/Oct/2025 14:23:49] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf?keyword=接ACC档继电器 HTTP/1.1" 200 -
+2025-10-01 14:23:49,762 - INFO - 127.0.0.1 - - [01/Oct/2025 14:23:49] "GET /static/pdfs/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 14:23:49,852 - INFO - 127.0.0.1 - - [01/Oct/2025 14:23:49] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:27:09,068 - INFO - 127.0.0.1 - - [01/Oct/2025 14:27:09] "GET / HTTP/1.1" 200 -
+2025-10-01 14:27:09,335 - INFO - 127.0.0.1 - - [01/Oct/2025 14:27:09] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__6a18b46d_c85a_4e89_8465_600622d4bc58__0 HTTP/1.1[0m" 404 -
+2025-10-01 14:27:09,352 - INFO - 127.0.0.1 - - [01/Oct/2025 14:27:09] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__0a440246_96be_44c5_9d66_36dbe32bb1ce__1 HTTP/1.1[0m" 404 -
+2025-10-01 14:27:10,283 - INFO - 127.0.0.1 - - [01/Oct/2025 14:27:10] "GET /favicon.ico HTTP/1.1" 200 -
+2025-10-01 14:27:10,349 - INFO - 127.0.0.1 - - [01/Oct/2025 14:27:10] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 14:27:10,415 - INFO - 127.0.0.1 - - [01/Oct/2025 14:27:10] "GET /static/pdfs/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 14:27:10,475 - INFO - 127.0.0.1 - - [01/Oct/2025 14:27:10] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__f5a3198a_ba85_4244_8a9c_6656563f7b92__0 HTTP/1.1[0m" 404 -
+2025-10-01 14:27:10,477 - INFO - 127.0.0.1 - - [01/Oct/2025 14:27:10] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__319edf00_e1eb_4aeb_9e10_9735c8be5d64__1 HTTP/1.1[0m" 404 -
+2025-10-01 14:27:10,860 - INFO - 127.0.0.1 - - [01/Oct/2025 14:27:10] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:28:11,759 - INFO - 127.0.0.1 - - [01/Oct/2025 14:28:11] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf?keyword=喇叭按钮 HTTP/1.1" 200 -
+2025-10-01 14:28:11,833 - INFO - 127.0.0.1 - - [01/Oct/2025 14:28:11] "GET /static/pdfs/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 14:28:11,893 - INFO - 127.0.0.1 - - [01/Oct/2025 14:28:11] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__282ba7d0_fb89_4b13_8989_47ab7cd2ea54__0 HTTP/1.1[0m" 404 -
+2025-10-01 14:28:11,895 - INFO - 127.0.0.1 - - [01/Oct/2025 14:28:11] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__6f005a35_7041_492d_8565_74a23664700f__1 HTTP/1.1[0m" 404 -
+2025-10-01 14:28:12,296 - INFO - 127.0.0.1 - - [01/Oct/2025 14:28:12] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:30:13,969 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-10-01 14:30:13,969 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 14:30:13,972 - INFO -  * Restarting with stat
+2025-10-01 14:30:14,528 - WARNING -  * Debugger is active!
+2025-10-01 14:30:14,528 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 14:30:16,169 - INFO - 127.0.0.1 - - [01/Oct/2025 14:30:16] "GET / HTTP/1.1" 200 -
+2025-10-01 14:30:17,036 - INFO - 127.0.0.1 - - [01/Oct/2025 14:30:17] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:30:17,194 - INFO - 127.0.0.1 - - [01/Oct/2025 14:30:17] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 14:30:17,272 - INFO - 127.0.0.1 - - [01/Oct/2025 14:30:17] "GET /static/pdfs/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 14:30:17,487 - INFO - 127.0.0.1 - - [01/Oct/2025 14:30:17] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:32:04,525 - INFO - 127.0.0.1 - - [01/Oct/2025 14:32:04] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf?keyword=喇叭按钮 HTTP/1.1" 200 -
+2025-10-01 14:32:07,396 - INFO - 127.0.0.1 - - [01/Oct/2025 14:32:07] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf?keyword=喇叭按钮 HTTP/1.1" 200 -
+2025-10-01 14:32:07,480 - INFO - 127.0.0.1 - - [01/Oct/2025 14:32:07] "GET /static/pdfs/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 14:32:07,696 - INFO - 127.0.0.1 - - [01/Oct/2025 14:32:07] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:34:34,508 - INFO - 127.0.0.1 - - [01/Oct/2025 14:34:34] "GET / HTTP/1.1" 200 -
+2025-10-01 14:34:34,611 - INFO - 127.0.0.1 - - [01/Oct/2025 14:34:34] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__f4ba1bac_013d_49b1_a6df_8e1dd1faca1f__0 HTTP/1.1[0m" 404 -
+2025-10-01 14:34:34,621 - INFO - 127.0.0.1 - - [01/Oct/2025 14:34:34] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__22554674_e83f_4641_97bd_3fa947a8e601__1 HTTP/1.1[0m" 404 -
+2025-10-01 14:34:35,320 - INFO - 127.0.0.1 - - [01/Oct/2025 14:34:35] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:34:35,780 - INFO - 开始处理：一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf（13页）
+2025-10-01 14:36:31,802 - INFO - 
+处理完成！一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf
+总页：13 | 成功：13
+原始元件数：87 | 去重后：87
+主要元件：开关(12次), 线束(12次), 传感器(10次), ECU(10次), 控制器(9次)
+耗时：116.06秒
+
+2025-10-01 14:36:31,803 - INFO - 127.0.0.1 - - [01/Oct/2025 14:36:31] "[32mGET /process/一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf HTTP/1.1[0m" 302 -
+2025-10-01 14:36:31,828 - INFO - 127.0.0.1 - - [01/Oct/2025 14:36:31] "GET / HTTP/1.1" 200 -
+2025-10-01 14:36:31,894 - INFO - 127.0.0.1 - - [01/Oct/2025 14:36:31] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__4591ac4b_0d2d_43d5_9fc0_12e1633a7a98__0 HTTP/1.1[0m" 404 -
+2025-10-01 14:36:31,902 - INFO - 127.0.0.1 - - [01/Oct/2025 14:36:31] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__15b790f4_a77e_4e3c_9235_eb86848db8f5__1 HTTP/1.1[0m" 404 -
+2025-10-01 14:36:32,475 - INFO - 127.0.0.1 - - [01/Oct/2025 14:36:32] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:37:30,174 - INFO - 开始处理：江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf（268页）
+2025-10-01 14:38:07,571 - WARNING - Cannot set stroke color because 2 components are specified but only 1 (grayscale), 3 (rgb) and 4 (cmyk) are supported
+2025-10-01 14:38:07,571 - WARNING - Cannot set stroke color because 2 components are specified but only 1 (grayscale), 3 (rgb) and 4 (cmyk) are supported
+2025-10-01 14:38:09,623 - WARNING - Cannot set stroke color because 2 components are specified but only 1 (grayscale), 3 (rgb) and 4 (cmyk) are supported
+2025-10-01 14:38:20,279 - WARNING - Cannot set stroke color because 2 components are specified but only 1 (grayscale), 3 (rgb) and 4 (cmyk) are supported
+2025-10-01 14:38:21,064 - WARNING - Cannot set stroke color because 2 components are specified but only 1 (grayscale), 3 (rgb) and 4 (cmyk) are supported
+2025-10-01 14:38:21,064 - WARNING - Cannot set stroke color because 2 components are specified but only 1 (grayscale), 3 (rgb) and 4 (cmyk) are supported
+2025-10-01 14:38:21,065 - WARNING - Cannot set stroke color because 2 components are specified but only 1 (grayscale), 3 (rgb) and 4 (cmyk) are supported
+2025-10-01 14:38:21,065 - WARNING - Cannot set stroke color because 2 components are specified but only 1 (grayscale), 3 (rgb) and 4 (cmyk) are supported
+2025-10-01 14:38:21,065 - WARNING - Cannot set stroke color because 2 components are specified but only 1 (grayscale), 3 (rgb) and 4 (cmyk) are supported
+2025-10-01 14:38:30,423 - WARNING - Cannot set stroke color because 2 components are specified but only 1 (grayscale), 3 (rgb) and 4 (cmyk) are supported
+2025-10-01 14:38:36,026 - WARNING - Cannot set stroke color because 2 components are specified but only 1 (grayscale), 3 (rgb) and 4 (cmyk) are supported
+2025-10-01 14:38:36,049 - WARNING - Cannot set stroke color because 2 components are specified but only 1 (grayscale), 3 (rgb) and 4 (cmyk) are supported
+2025-10-01 14:38:44,690 - WARNING - Cannot set stroke color because 2 components are specified but only 1 (grayscale), 3 (rgb) and 4 (cmyk) are supported
+2025-10-01 14:40:21,937 - INFO - 
+处理完成！江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf
+总页：268 | 成功：268
+原始元件数：459 | 去重后：459
+主要元件：开关(92次), 电源(89次), 继电器(78次), 传感器(49次), 线束(34次)
+耗时：172.06秒
+
+2025-10-01 14:40:21,938 - INFO - 127.0.0.1 - - [01/Oct/2025 14:40:21] "[32mGET /process/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf HTTP/1.1[0m" 302 -
+2025-10-01 14:40:21,970 - INFO - 127.0.0.1 - - [01/Oct/2025 14:40:21] "GET / HTTP/1.1" 200 -
+2025-10-01 14:40:22,057 - INFO - 127.0.0.1 - - [01/Oct/2025 14:40:22] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__227af1a3_240c_407e_9d2d_4f6e5e180e85__0 HTTP/1.1[0m" 404 -
+2025-10-01 14:40:22,064 - INFO - 127.0.0.1 - - [01/Oct/2025 14:40:22] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__c1929d5e_90c2_4175_bc9f_84b77af049ec__1 HTTP/1.1[0m" 404 -
+2025-10-01 14:40:22,740 - INFO - 127.0.0.1 - - [01/Oct/2025 14:40:22] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 14:40:56,844 - INFO - 开始处理：陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf（23页）
+2025-10-01 14:44:10,332 - INFO - 127.0.0.1 - - [01/Oct/2025 14:44:10] "GET / HTTP/1.1" 200 -
+2025-10-01 14:44:10,646 - INFO - 127.0.0.1 - - [01/Oct/2025 14:44:10] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 15:06:33,665 - INFO - 
+处理完成！陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf
+总页：23 | 成功：23
+原始元件数：0 | 去重后：0
+主要元件：
+耗时：1536.94秒
+
+2025-10-01 15:06:33,666 - INFO - 127.0.0.1 - - [01/Oct/2025 15:06:33] "[32mGET /process/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1[0m" 302 -
+2025-10-01 15:06:33,715 - INFO - 127.0.0.1 - - [01/Oct/2025 15:06:33] "GET / HTTP/1.1" 200 -
+2025-10-01 15:06:33,784 - INFO - 127.0.0.1 - - [01/Oct/2025 15:06:33] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__ab73356c_0283_4170_9739_ffd82499dde3__0 HTTP/1.1[0m" 404 -
+2025-10-01 15:06:33,791 - INFO - 127.0.0.1 - - [01/Oct/2025 15:06:33] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__d234b8a3_4e44_4377_b477_45ff0f76fc0f__1 HTTP/1.1[0m" 404 -
+2025-10-01 15:06:34,555 - INFO - 127.0.0.1 - - [01/Oct/2025 15:06:34] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 16:10:04,641 - INFO - 127.0.0.1 - - [01/Oct/2025 16:10:04] "GET /view/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 16:10:04,697 - INFO - 127.0.0.1 - - [01/Oct/2025 16:10:04] "GET /static/pdfs/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 16:10:04,778 - INFO - 127.0.0.1 - - [01/Oct/2025 16:10:04] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__442c8bfe_29b5_4bbc_98b7_585bed4eff43__0 HTTP/1.1[0m" 404 -
+2025-10-01 16:10:04,782 - INFO - 127.0.0.1 - - [01/Oct/2025 16:10:04] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__ca5a6d2f_c52d_4923_855e_31061feabbf4__1 HTTP/1.1[0m" 404 -
+2025-10-01 16:10:05,782 - INFO - 127.0.0.1 - - [01/Oct/2025 16:10:05] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 16:10:34,356 - INFO - 127.0.0.1 - - [01/Oct/2025 16:10:34] "GET / HTTP/1.1" 200 -
+2025-10-01 16:10:34,434 - INFO - 127.0.0.1 - - [01/Oct/2025 16:10:34] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 20:47:04,416 - INFO -  * Detected change in 'C:\\Users\\86135\\PycharmProjects\\pdf_circuit_search\\ocr_processor.py', reloading
+2025-10-01 20:47:07,182 - INFO -  * Restarting with stat
+2025-10-01 20:47:08,091 - WARNING -  * Debugger is active!
+2025-10-01 20:47:08,103 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 20:51:55,255 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-10-01 20:51:55,255 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 20:51:55,260 - INFO -  * Restarting with stat
+2025-10-01 20:51:55,843 - WARNING -  * Debugger is active!
+2025-10-01 20:51:55,855 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 20:52:07,798 - INFO - 127.0.0.1 - - [01/Oct/2025 20:52:07] "GET / HTTP/1.1" 200 -
+2025-10-01 20:52:08,681 - INFO - 127.0.0.1 - - [01/Oct/2025 20:52:08] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 20:52:11,023 - INFO - 开始处理：陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf（总页：23，大小：116.76MB）
+2025-10-01 20:52:48,026 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-10-01 20:52:48,027 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 20:52:48,031 - INFO -  * Restarting with stat
+2025-10-01 20:52:48,606 - WARNING -  * Debugger is active!
+2025-10-01 20:52:48,617 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 20:52:50,709 - INFO - 192.168.1.3 - - [01/Oct/2025 20:52:50] "GET / HTTP/1.1" 200 -
+2025-10-01 20:52:51,702 - INFO - 192.168.1.3 - - [01/Oct/2025 20:52:51] "GET /favicon.ico HTTP/1.1" 200 -
+2025-10-01 20:52:52,090 - INFO - 192.168.1.3 - - [01/Oct/2025 20:52:52] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 20:52:52,173 - INFO - 192.168.1.3 - - [01/Oct/2025 20:52:52] "GET /static/pdfs/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 20:52:52,342 - INFO - 192.168.1.3 - - [01/Oct/2025 20:52:52] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 20:52:54,608 - INFO - 192.168.1.3 - - [01/Oct/2025 20:52:54] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 20:52:55,601 - INFO - 192.168.1.3 - - [01/Oct/2025 20:52:55] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 20:53:33,831 - INFO - 192.168.1.3 - - [01/Oct/2025 20:53:33] "GET / HTTP/1.1" 200 -
+2025-10-01 20:53:34,196 - INFO - 192.168.1.3 - - [01/Oct/2025 20:53:34] "[36mGET /favicon.ico HTTP/1.1[0m" 304 -
+2025-10-01 20:56:22,291 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-01 20:56:22,291 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 20:56:22,294 - INFO -  * Restarting with stat
+2025-10-01 20:56:22,876 - WARNING -  * Debugger is active!
+2025-10-01 20:56:22,886 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 20:56:24,341 - INFO - 127.0.0.1 - - [01/Oct/2025 20:56:24] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-10-01 20:56:25,286 - INFO - 127.0.0.1 - - [01/Oct/2025 20:56:25] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-10-01 20:56:25,286 - INFO - 127.0.0.1 - - [01/Oct/2025 20:56:25] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-10-01 20:56:25,338 - INFO - 127.0.0.1 - - [01/Oct/2025 20:56:25] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=VixWvbIhFoGrImzaYfe6 HTTP/1.1" 200 -
+2025-10-01 20:56:25,366 - INFO - 127.0.0.1 - - [01/Oct/2025 20:56:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-10-01 20:57:25,514 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-01 20:57:25,514 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 20:57:25,517 - INFO -  * Restarting with stat
+2025-10-01 20:57:26,081 - WARNING -  * Debugger is active!
+2025-10-01 20:57:26,091 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 20:57:27,824 - INFO - 127.0.0.1 - - [01/Oct/2025 20:57:27] "GET / HTTP/1.1" 200 -
+2025-10-01 20:57:28,218 - INFO - 127.0.0.1 - - [01/Oct/2025 20:57:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-01 20:57:34,581 - INFO - 开始处理：陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf（总页：23，大小：116.76MB）
+2025-10-01 20:57:36,859 - INFO - 127.0.0.1 - - [01/Oct/2025 20:57:36] "GET /view/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 20:57:40,886 - INFO - 127.0.0.1 - - [01/Oct/2025 20:57:40] "GET / HTTP/1.1" 200 -
+2025-10-01 20:57:42,013 - INFO - 127.0.0.1 - - [01/Oct/2025 20:57:42] "GET /view/一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 20:57:46,203 - INFO - 127.0.0.1 - - [01/Oct/2025 20:57:46] "GET / HTTP/1.1" 200 -
+2025-10-01 20:57:47,870 - INFO - 127.0.0.1 - - [01/Oct/2025 20:57:47] "GET /view/一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 20:57:50,466 - INFO - 127.0.0.1 - - [01/Oct/2025 20:57:50] "GET / HTTP/1.1" 200 -
+2025-10-01 20:58:43,913 - INFO - 第1页：提取元件1个
+2025-10-01 20:59:55,213 - INFO - 第2页：提取元件1个
+2025-10-01 21:00:03,253 - INFO - 127.0.0.1 - - [01/Oct/2025 21:00:03] "GET /static/pdfs/一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:00:19,362 - INFO - 127.0.0.1 - - [01/Oct/2025 21:00:19] "GET /static/pdfs/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:00:24,616 - INFO - 127.0.0.1 - - [01/Oct/2025 21:00:24] "GET /static/pdfs/一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:01:04,906 - INFO - 第3页：提取元件1个
+2025-10-01 21:02:13,470 - INFO - 第4页：提取元件1个
+2025-10-01 21:03:05,056 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-01 21:03:05,056 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 21:03:05,061 - INFO -  * Restarting with stat
+2025-10-01 21:03:05,698 - WARNING -  * Debugger is active!
+2025-10-01 21:03:05,709 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 21:03:07,616 - INFO - 127.0.0.1 - - [01/Oct/2025 21:03:07] "GET / HTTP/1.1" 200 -
+2025-10-01 21:03:07,958 - INFO - 127.0.0.1 - - [01/Oct/2025 21:03:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-01 21:03:09,955 - INFO - 开始处理：陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf（总页：23，大小：116.76MB）
+2025-10-01 21:03:13,418 - INFO - 开始处理：陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf（总页：23，大小：116.76MB）
+2025-10-01 21:03:13,575 - INFO - 开始处理：陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf（总页：23，大小：116.76MB）
+2025-10-01 21:03:13,819 - INFO - 开始处理：陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf（总页：23，大小：116.76MB）
+2025-10-01 21:06:55,714 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-01 21:06:55,714 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 21:06:55,717 - INFO -  * Restarting with stat
+2025-10-01 21:06:56,288 - WARNING -  * Debugger is active!
+2025-10-01 21:06:56,300 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 21:06:58,108 - INFO - 127.0.0.1 - - [01/Oct/2025 21:06:58] "GET / HTTP/1.1" 200 -
+2025-10-01 21:06:58,453 - INFO - 127.0.0.1 - - [01/Oct/2025 21:06:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-01 21:09:16,316 - INFO - 127.0.0.1 - - [01/Oct/2025 21:09:16] "GET /view/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:09:16,969 - INFO - 127.0.0.1 - - [01/Oct/2025 21:09:16] "GET /static/pdfs/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:09:30,445 - WARNING - 未找到索引文件：C:\Users\86135\PycharmProjects\pdf_circuit_search\static\indexes\陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.json
+2025-10-01 21:09:30,448 - INFO - 127.0.0.1 - - [01/Oct/2025 21:09:30] "GET /view/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf?keyword=继电器 HTTP/1.1" 200 -
+2025-10-01 21:09:30,544 - INFO - 127.0.0.1 - - [01/Oct/2025 21:09:30] "GET /static/pdfs/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:10:08,941 - WARNING - 未找到索引文件：C:\Users\86135\PycharmProjects\pdf_circuit_search\static\indexes\陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.json
+2025-10-01 21:10:08,942 - INFO - 127.0.0.1 - - [01/Oct/2025 21:10:08] "GET /view/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf?keyword=仪表电源 HTTP/1.1" 200 -
+2025-10-01 21:10:09,027 - INFO - 127.0.0.1 - - [01/Oct/2025 21:10:09] "GET /static/pdfs/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:10:12,386 - INFO - 127.0.0.1 - - [01/Oct/2025 21:10:12] "GET / HTTP/1.1" 200 -
+2025-10-01 21:10:13,671 - INFO - 127.0.0.1 - - [01/Oct/2025 21:10:13] "GET /view/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:10:13,776 - INFO - 127.0.0.1 - - [01/Oct/2025 21:10:13] "GET /static/pdfs/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:10:17,183 - INFO - 127.0.0.1 - - [01/Oct/2025 21:10:17] "[35m[1mGET /view/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf?keyword=电源 HTTP/1.1[0m" 500 -
+2025-10-01 21:10:17,218 - INFO - 127.0.0.1 - - [01/Oct/2025 21:10:17] "GET /view/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-10-01 21:10:17,219 - INFO - 127.0.0.1 - - [01/Oct/2025 21:10:17] "GET /view/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-10-01 21:10:17,272 - INFO - 127.0.0.1 - - [01/Oct/2025 21:10:17] "GET /view/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf?__debugger__=yes&cmd=resource&f=console.png&s=WuF2vY0UljUHzcsa02rT HTTP/1.1" 200 -
+2025-10-01 21:10:17,298 - INFO - 127.0.0.1 - - [01/Oct/2025 21:10:17] "GET /view/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-10-01 21:17:45,796 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-01 21:17:45,796 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 21:17:45,796 - INFO -  * Restarting with stat
+2025-10-01 21:17:46,416 - WARNING -  * Debugger is active!
+2025-10-01 21:17:46,430 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 21:17:47,769 - INFO - 127.0.0.1 - - [01/Oct/2025 21:17:47] "GET / HTTP/1.1" 200 -
+2025-10-01 21:17:51,121 - INFO - 127.0.0.1 - - [01/Oct/2025 21:17:51] "GET /view/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:17:51,778 - INFO - 127.0.0.1 - - [01/Oct/2025 21:17:51] "GET /static/pdfs/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:23:50,773 - WARNING - 未找到索引文件：C:\Users\86135\PycharmProjects\pdf_circuit_search\static\indexes\陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.json
+2025-10-01 21:23:50,774 - INFO - 127.0.0.1 - - [01/Oct/2025 21:23:50] "GET /view/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf?keyword=小灯分线器 HTTP/1.1" 200 -
+2025-10-01 21:23:50,874 - INFO - 127.0.0.1 - - [01/Oct/2025 21:23:50] "GET /static/pdfs/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:24:07,793 - INFO - 127.0.0.1 - - [01/Oct/2025 21:24:07] "GET / HTTP/1.1" 200 -
+2025-10-01 21:24:08,829 - INFO - 127.0.0.1 - - [01/Oct/2025 21:24:08] "GET /view/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:24:08,935 - INFO - 127.0.0.1 - - [01/Oct/2025 21:24:08] "[36mGET /static/pdfs/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf HTTP/1.1[0m" 304 -
+2025-10-01 21:24:11,440 - INFO - 127.0.0.1 - - [01/Oct/2025 21:24:11] "GET / HTTP/1.1" 200 -
+2025-10-01 21:24:14,506 - INFO - 127.0.0.1 - - [01/Oct/2025 21:24:14] "GET /view/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:24:14,571 - INFO - 127.0.0.1 - - [01/Oct/2025 21:24:14] "[36mGET /static/pdfs/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf HTTP/1.1[0m" 304 -
+2025-10-01 21:24:17,583 - INFO - 127.0.0.1 - - [01/Oct/2025 21:24:17] "[35m[1mGET /view/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf?keyword=开关 HTTP/1.1[0m" 500 -
+2025-10-01 21:24:17,608 - INFO - 127.0.0.1 - - [01/Oct/2025 21:24:17] "[36mGET /view/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-10-01 21:24:17,613 - INFO - 127.0.0.1 - - [01/Oct/2025 21:24:17] "[36mGET /view/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-10-01 21:24:17,673 - INFO - 127.0.0.1 - - [01/Oct/2025 21:24:17] "GET /view/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf?__debugger__=yes&cmd=resource&f=console.png&s=2X76tUZ6JJklAyxqtORd HTTP/1.1" 200 -
+2025-10-01 21:27:47,278 - INFO -  * Detected change in 'C:\\Users\\86135\\PycharmProjects\\pdf_circuit_search\\synonym_handler.py', reloading
+2025-10-01 21:27:47,340 - INFO -  * Restarting with stat
+2025-10-01 21:27:48,051 - WARNING -  * Debugger is active!
+2025-10-01 21:27:48,064 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 21:30:42,885 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-01 21:30:42,885 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 21:30:42,888 - INFO -  * Restarting with stat
+2025-10-01 21:30:43,474 - WARNING -  * Debugger is active!
+2025-10-01 21:30:43,486 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 21:30:44,998 - INFO - 127.0.0.1 - - [01/Oct/2025 21:30:44] "GET / HTTP/1.1" 200 -
+2025-10-01 21:30:49,435 - INFO - 127.0.0.1 - - [01/Oct/2025 21:30:49] "GET /view/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:30:50,178 - INFO - 127.0.0.1 - - [01/Oct/2025 21:30:50] "GET /static/pdfs/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:31:03,213 - WARNING - 未找到索引文件：C:\Users\86135\PycharmProjects\pdf_circuit_search\static\indexes\陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.json
+2025-10-01 21:31:03,214 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:03] "GET /view/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf?keyword=按制动灯开关 HTTP/1.1" 200 -
+2025-10-01 21:31:03,289 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:03] "GET /static/pdfs/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:31:17,590 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:17] "GET / HTTP/1.1" 200 -
+2025-10-01 21:31:18,964 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:18] "GET /view/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:31:19,034 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:19] "[36mGET /static/pdfs/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf HTTP/1.1[0m" 304 -
+2025-10-01 21:31:21,734 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:21] "GET /view/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf?keyword=开关 HTTP/1.1" 200 -
+2025-10-01 21:31:21,802 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:21] "[36mGET /static/pdfs/江铃_福顺_整车电路图册【ADAS、AT】【二阶段】【20230703】_可搜索.pdf HTTP/1.1[0m" 304 -
+2025-10-01 21:31:25,449 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:25] "GET / HTTP/1.1" 200 -
+2025-10-01 21:31:27,356 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:27] "GET /view/一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:31:27,421 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:27] "GET /static/pdfs/一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:31:31,458 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:31] "GET /view/一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf?keyword=开关 HTTP/1.1" 200 -
+2025-10-01 21:31:31,525 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:31] "[36mGET /static/pdfs/一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf HTTP/1.1[0m" 304 -
+2025-10-01 21:31:32,971 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:32] "GET / HTTP/1.1" 200 -
+2025-10-01 21:31:34,021 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:34] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:31:34,088 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:34] "GET /static/pdfs/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:31:36,717 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:36] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf?keyword=喇叭 HTTP/1.1" 200 -
+2025-10-01 21:31:36,785 - INFO - 127.0.0.1 - - [01/Oct/2025 21:31:36] "GET /static/pdfs/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1" 200 -
+2025-10-01 21:37:01,412 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-01 21:37:01,412 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 21:37:01,412 - INFO -  * Restarting with stat
+2025-10-01 21:37:02,006 - WARNING -  * Debugger is active!
+2025-10-01 21:37:02,014 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 21:37:03,322 - INFO - 127.0.0.1 - - [01/Oct/2025 21:37:03] "GET / HTTP/1.1" 200 -
+2025-10-01 21:37:05,363 - INFO - 127.0.0.1 - - [01/Oct/2025 21:37:05] "[35m[1mGET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf HTTP/1.1[0m" 500 -
+2025-10-01 21:37:06,260 - INFO - 127.0.0.1 - - [01/Oct/2025 21:37:06] "[36mGET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-10-01 21:37:06,261 - INFO - 127.0.0.1 - - [01/Oct/2025 21:37:06] "[36mGET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-10-01 21:37:06,296 - INFO - 127.0.0.1 - - [01/Oct/2025 21:37:06] "GET /view/412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909)_可搜索.pdf?__debugger__=yes&cmd=resource&f=console.png&s=FhJ0OcqhVcXJElXYeZxK HTTP/1.1" 200 -
+2025-10-01 21:48:38,489 - INFO -  * Detected change in 'C:\\Users\\86135\\PycharmProjects\\pdf_circuit_search\\search_engine.py', reloading
+2025-10-01 21:48:38,550 - INFO -  * Restarting with stat
+2025-10-01 21:48:39,317 - WARNING -  * Debugger is active!
+2025-10-01 21:48:39,328 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 21:48:51,289 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.3:5000
+2025-10-01 21:48:51,289 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-01 21:48:51,289 - INFO -  * Restarting with stat
+2025-10-01 21:48:51,862 - WARNING -  * Debugger is active!
+2025-10-01 21:48:51,878 - INFO -  * Debugger PIN: 713-022-772
+2025-10-01 21:48:53,510 - INFO - 127.0.0.1 - - [01/Oct/2025 21:48:53] "GET / HTTP/1.1" 200 -
+2025-10-01 21:48:56,292 - INFO - 127.0.0.1 - - [01/Oct/2025 21:48:56] "[35m[1mGET /view/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf HTTP/1.1[0m" 500 -
+2025-10-01 21:48:57,200 - INFO - 127.0.0.1 - - [01/Oct/2025 21:48:57] "GET /view/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-10-01 21:48:57,201 - INFO - 127.0.0.1 - - [01/Oct/2025 21:48:57] "GET /view/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-10-01 21:48:57,236 - INFO - 127.0.0.1 - - [01/Oct/2025 21:48:57] "GET /view/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf?__debugger__=yes&cmd=resource&f=console.png&s=AHI3toTes1Fv3wglpUj8 HTTP/1.1" 200 -
+2025-10-01 21:48:57,265 - INFO - 127.0.0.1 - - [01/Oct/2025 21:48:57] "GET /view/陕汽_轩德翼3_整车电路图【玉柴ECI-CFV天然气系统_Econtrol120针ECU】【国六】分页版_可搜索.pdf?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-10-01 21:49:00,006 - INFO - 127.0.0.1 - - [01/Oct/2025 21:49:00] "[35m[1mGET /view/一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf HTTP/1.1[0m" 500 -
+2025-10-01 21:49:00,030 - INFO - 127.0.0.1 - - [01/Oct/2025 21:49:00] "GET /view/一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-10-01 21:49:00,035 - INFO - 127.0.0.1 - - [01/Oct/2025 21:49:00] "GET /view/一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-10-01 21:49:00,086 - INFO - 127.0.0.1 - - [01/Oct/2025 21:49:00] "GET /view/一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf?__debugger__=yes&cmd=resource&f=console.png&s=AHI3toTes1Fv3wglpUj8 HTTP/1.1" 200 -
+2025-10-01 21:49:00,104 - INFO - 127.0.0.1 - - [01/Oct/2025 21:49:00] "GET /view/一汽解放_新款J6L_整车线束图【含各类选装配置】【锡柴自主FA10-气驱罐】【国六】_可搜索.pdf?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-10-01 21:49:51,588 - INFO -  * Detected change in 'C:\\Users\\86135\\PycharmProjects\\pdf_circuit_search\\app.py', reloading
+2025-10-01 21:49:51,634 - INFO -  * Restarting with stat

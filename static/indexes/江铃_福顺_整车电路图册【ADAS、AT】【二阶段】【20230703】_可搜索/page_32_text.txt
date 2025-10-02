@@ -1,0 +1,38 @@
+=== 第32页 ===
+江铃福顺 接地 10-2
+GD303A,G2D113
+GD176GE BK
+GD176GD BK
+AG671DG
+KB
+江铃福顺 接地 10-2
+GD303A,G2D113
+后制冷鼓风机模块
+GD176GE BK C925 (cid:9885)(cid:9413)(cid:9286)(cid:29090)(cid:27485)(cid:14793)(cid:15536)(cid:10726)
+C925
+2
+2
+后加热鼓风机模块
+GD176GD BK C1302a (cid:9885)(cid:9519)(cid:17276)(cid:29090)(cid:27485)(cid:14793)(cid:15536)(cid:10726)
+GD176 C1302a
+GD176 2
+2
+A A _ _ G GD D 1 1 2 2 D D A A B BK K C C 1 1 1 1 - -A A A A _ _G G D D 1 1 2D 2D B B K K C C 1 14 4 -A A 压 (cid:9754) 缩 (cid:20920)(cid:14793) 机
+33 2
+33 2
+空调压力开关
+A_GD12B BK C1423 (cid:19721)(cid:24210)(cid:9754)(cid:9514)(cid:12687)(cid:9218)
+A_GD12B BK C1423
+2
+2
+电子风扇1
+B_GD14A BK C1161b (cid:18372)(cid:11743)(cid:27485)(cid:13526)(cid:20)
+B_GD14A BK C1161b
+1
+电子风扇2
+A_GD14A BK C1161a (cid:18372)(cid:11743)(cid:27485)(cid:13526)(cid:21)
+A_GD14A BK C1161a
+1
+GD176GA
+益
+÷ G 1G 1 5 D 5 D1 3 1 3- - 0 1 01 3 2 32A A ÷ G G D D 1 1 2 2 ÷ G G D D 1 1 4 4

@@ -1,0 +1,129 @@
+=== 第51页 ===
+1 13 3 - - 3 3 配 配 电 电 江 江 铃 铃 福 福顺 顺
+F25,F27,F28,F29,F32,F38
+F25，F27，F28，F29，F32，F38
+保
+(cid:8812)(cid:26872)
+险
+(cid:8364)
+丝
+(cid:20854)
+继
+(cid:18372)
+电
+(cid:10487)
+器
+(cid:13876)
+接
+(cid:20814)
+线
+(cid:18785)
+盒 (E(EJBJB)) 1111--33
+常电源
+1(cid:12487)3(cid:18372)-1(cid:16671) K
+13-1
+I
+?
+空气流量传感器
+F F 4 4 5 5A A EEFF0044AA C C 1 1 1 1 - -A A EEFF0044BB C C 1 1 8 8 2 21 1 a a (cid:19721) v (cid:16035) B (cid:16336)(cid:25694)(cid:8623)(cid:13230)(cid:10487)
+V V T T - -Y Y E E 2 2 7 7 V V T T - -Y Y E E 3 3 VB
+离合器下止点开关
+F15A EF01A C11-E EF01B EF01D C2903 (cid:19530)r(cid:9879)-(cid:10487)(cid:8346)(cid:15857)(cid:17224)(cid:12687)(cid:9218)
+F1 5A EF01A C11-E EF01B EF01D C2903 PWR
+WH-RD 24 WH-RD WH-RD PWR
+F F F 2 2 2 0 1 4 1 0 0 0 A A A E W E W F F H H 0 0 - - 2 2 R R A A D D WH-RD 24 WH-RD E W E F F H 0 0 - 1 1 R E E D C C 2 2 9 9 0 0 1 4 4 离 (cid:19530) P 合 (cid:9879) W 器 (cid:10487) R 上 (cid:8345)(cid:15857) 止 (cid:17224) 点 (cid:12687) 开 (cid:9218) 关
+F2040A WWHH--RRDD 4
+4
+PWR
+R03
+R03
+冷却风扇
+(cid:9286)(cid:9731)(cid:27485)(cid:13526)
+高速继电器2
+(cid:28007)(cid:25262)(cid:20854)(cid:18372)(cid:10487)(cid:21)
+电子风扇2
+3 30 0 8 8 7 7 E R E R R D R D 0 0 3 3A A C C 1 1 1 1 6 6 1 1 3 3 a a (cid:18372) 电 (cid:11743) (cid:18372) 源 (cid:27485) (cid:16671) 正 (cid:15858) (cid:13526) - (cid:16) (cid:21) (cid:28007) 高 (cid:25262) 速
+8 8 5 5w- 8 8 6 6 E G E G Y C C Y - K K - B B 3 3 K K 7 7B B B E E R N R D 04 4 C C C C 1 1 1 1 6 6 1 1a a 2 电 (cid:18372) 源 (cid:16671) 正 (cid:15858) - (cid:16)(cid:8669) 低 (cid:25262) 速
+EF02C BN 2
+EF02C
+WH-RD
+WH-RD
+EF02D
+EF02D
+R18 WH-RD
+冷 R1 却 8 风扇 WH-RD
+高(cid:9286)速(cid:9731)继(cid:27485)电(cid:13526)器1
+EMS
+(cid:28007)(cid:25262)(cid:20854)(cid:18372)(cid:10487)(cid:20) EMS
+-W ECK37C ECK37A C1104b
+ECK37C ECK37A C1104b
+8 8 5 5 8 8 6 6 G G Y Y - - B BK K E E C C K K 3 3 7 7 B B U U 3 3 7 7 高 (cid:28007) 速 (cid:25262)
+电子风扇1
+ER18 C1161b (cid:18372)(cid:11743)(cid:27485)(cid:13526)(cid:20)
+ER18 C1161b 电源正-高速
+3 3 0 0 8877| B B N N 3 3 (cid:18372)(cid:16671)(cid:15858)(cid:16)(cid:28007)(cid:25262)
+F2160A
+R04 F2160A E W E F F H 0 0 - 2 2 R B B D B E E B R N R N 0 0 4 4 B B C C 1 1 1 1 6 6 1 1 b 2 b 2 电 (cid:18372) 源 (cid:16671) 正 (cid:15858) - (cid:16)(cid:8669) 低 (cid:25262) 速
+R04 WH-RD
+冷却风扇
+低(cid:9286)速(cid:9731)继(cid:27485)电(cid:13526)器
+(cid:8669)(cid:25262)(cid:20854)(cid:18372)(cid:10487)
+W- ECK40 C1104b
+8 8 5 5 8 8 6 6 Y E Y E C E K40 C1104 4 4 b 0 0 1 低 (cid:8669) 速 (cid:25262)
+ERO4A
+ER04A
+3 3 0 0 8 8 7 7 B B N N
+F2260A
+F2260A
+L
+13-3
+WH-RD
+WH-RD
+EF02C
+EF02C GY-BK
+GY-BK
+ECK37C
+ECK37C
+WH-RD
+WH-RD
+EF02D
+EF02D
+WH-RD
+WH-RD
+高速
+(cid:28007)(cid:25262)
+低速
+1(cid:8669)(cid:25262)
+G G Y Y - - B BK K E E C C K K 3 3 7 7
+ER18
+ER18 BU 37
+BU 37
+电子风扇1
+C1161b (cid:18372)(cid:11743)(cid:27485)(cid:13526)(cid:20)
+C1161b
+电源正-高速
+3 (cid:18372)(cid:16671)(cid:15858)(cid:16)(cid:28007)(cid:25262)
+3
+ER04B C1161b
+B E B N R N 04B C1161 2 b 2 电 (cid:18372) 源 (cid:16671) 正 (cid:15858) - (cid:16)(cid:8669) 低 (cid:25262) 速
+C1104b
+C1104b
+电源正-高速
+(cid:18372)(cid:16671)(cid:15858)(cid:16)(cid:28007)(cid:25262)
+电源正-低速
+(cid:18372)(cid:16671)(cid:15858)(cid:16)(cid:8669)(cid:25262)
+电源正-高速
+(cid:18372)(cid:16671)(cid:15858)(cid:16)(cid:28007)(cid:25262)
+电源正-低速
+(cid:18372)(cid:16671)(cid:15858)(cid:16)(cid:8669)(cid:25262)
+EF02B
+EF02B 3
+3
+ER04B C1161b
+ER04B C1161b
+YE
+YE
+ERO4A
+ER04A
+PWR
+PWR

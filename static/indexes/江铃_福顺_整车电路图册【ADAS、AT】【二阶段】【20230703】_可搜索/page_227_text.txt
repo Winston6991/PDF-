@@ -1,0 +1,37 @@
+=== 第227页 ===
+151-9 部件位置图 江铃福顺
+151-9 部件位置图 江铃福顺
+左左AA柱柱(（主主线线束束)）
+1 1 2 2 3 3 4 4 5 5 6 6 77 8 8
+BCA13 BCB17
+A E B S C F A 0 1 8 3 C B C C A B N 1 H 7 A
+A ESF08 CCANH A
+E E E E C C C C K K K K 8 8 8 8 1 0 1 0 C C E E C C F F A A 0 0 N N 1 1 L L E E C C K K 5 5 4 4 C C C C C C C C A A A A N N N N H L H L - - - - 1 1 1 1
+B B
+B B
+2
+乙
+C C
+C C
+G2D133A
+G2D133A
+D A_GD24 D
+D A_GD24 D
+B_GD24
+B_GD24
+C39-B
+C39-B
+E E
+E E
+C2903
+C2903
+C2904
+C2904
+C22-A
+C22-A
+F F
+F F
+C2208 C1201 C2701
+C2208 C1201 C2701
+1 2 3 4 5 6 7 8
+1 2 3 4 5 6 7 8

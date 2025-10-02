@@ -1,0 +1,106 @@
+=== 第259页 ===
+161-19 整体系统原理图 江铃福顺
+转向信号灯/制动灯/危险警告灯
+蓄电池
+接线盒
+(SRB)
+11-4
+F57
+25A
+BCM 151-10
+C2102a
+灯电源2(日间行车灯，
+刹车灯，后雾灯，倒车灯)
+75FP DR
+F63
+20A
+A36FP
+DR
+F60
+25A
+A06FP
+DR
+161-19整体系统原理图 江铃福顺
+转向信号灯/制动灯/危险警告灯
+蓄电池
+接线盒
+(SRB) 11-4
+)F60 F63 F57
+25A 20A 25A
+PF60A PF63A
+PF57
+BCM 151-10 品 品 品
+C2102a
+灯电源2(日间行车灯，
+刹车灯，后雾灯，倒车灯)! 1
+灯电源3(左转灯，右转灯)
+灯电源3(左转灯，右转灯) 17
+17
+灯电源1(高位刹车灯)
+灯电源1（高位刹车灯） 18
+18
+C2102c BCANH02
+CAN_H C2102c BCANH02 模块
+模块
+CAN_H 21 YE 通讯
+21 YE 通讯
+BCANL02 网络
+CAN_L BCANL02 1 网 4- 络 4
+CAN_L 9 3 BU 14-4
+仪表台开关 9 BU
+仪表台开关 C2102d CCANH01
+危险警示开关LED C C 1 1 1 1 1 18 8 B B C C C C 0 01 1 B B C C 2 2 2 2- - A A B B C C C C 0 01 1 A A C C 2 2 1 1 0 0 2 2c c 危险警示开关LED输 C C 出 A A N N _ _H H 3 3 1 1 C2102d P C PK K CANH01 模 通 模 通 块 讯 讯 块
+危险警示开关LED 8 8 B BN N 5 52 2 B B N N 1 1 危险警示开关LED输 C 出 AN_L C C C C A A N N L L 0 0 1 1 网 1 网 4- 络 络 3
+BCCO2B C22-B BCCO2A CAN_L 43 PK-WH 14-3
+白天模式信号 BCC02B C22-B BCC02A 白天模式输出 43 PK-WH
+白天模式信号 14 GN-BU 9 GN-BU 2 白天模式输出
+14 GN-BU 9 GN-BU 2
+BCD19B BCD19A C2102d
+BCD19B BCD19A C2102d
+危险警告灯开关 危险警告灯开关输入
+危险警告灯开关 3 BN 29 BN 19 危险警告灯开关输入
+3 BN 29 BN 19
+C2102a B_GD24B
+C2102a B_GD24B
+BCM地1
+BCM地1 2 BK
+2 BK
+C2102c B_GD24C
+C2102c B_GD24C
+数字地
+数字地 12 BK
+12 BK
+C2102d B_GD24D B_GD24A
+C2102d B_GD24D B_GD24A
+B B C C M M 地 地2 2 12 BK B_GD24 BK
+12 C2102b B B _ K GD24F B_GD24 BK
+C2102b B_GD24F
+门锁地
+门锁地 20 BK
+20 BK
+C2102b B_GD24G B_GD24D
+C2102b B_GD24G B_GD24D
+BCM地1
+BCM地1 2 BK B_GD24-1 BK
+2 BK B_GD24-1 BK
+GD24
+GD24
+危险警示开关LED
+危险警示开关LED
+白天模式信号
+白天模式信号
+危险警告灯开关
+危险警告灯开关 危险警示开关LED
+危险警示开关LED
+白天模式信号
+白天模式信号
+危险警告灯开关
+危险警告灯开关
+8 BN 52 BN 1
+8 BN 52 BN 1
+BCCO2B C22-B BCCO2A
+BCC02B C22-B BCC02A
+14 GN-BU 9
+14 GN-BU 9
+BCD19B
+BCD19B

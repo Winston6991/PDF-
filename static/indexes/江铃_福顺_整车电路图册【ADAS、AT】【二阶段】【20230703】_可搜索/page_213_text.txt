@@ -1,0 +1,122 @@
+=== 第213页 ===
+150-69接插件视图 江铃福顺
+150-69 接插件视图 江铃福顺
+C44-A
+C44-A
+连连接接线线束束接接插插件件：： 1
+1
+4
+4
+A
+A
+0
+0
+0
+0
+5
+5
+1
+1
+8
+8
+C
+C
+3
+3
+9
+9
+4
+4
+2 1 2 1
+8 3 8 3
+母 母 制 制 - 插插接接件件插插头头
+针针脚脚 电电路路 线线色色 规规格格 区区分分条条件件
+1 CPL11A GY~BN 0.75
+1 CPL11A GY~BN 0.75
+2 CPL22D GN~VT 0.5
+2 CPL22D GN~VT 0.5
+3 CPL12F BK 0.75
+3 CPL12F BK 0.75
+4
+4 - - -
+5 CPL44D YE.~OG 0.75
+5 CPL44D YE~OG 0.75
+6 CLSO9F YE~BK 0.75
+6 CLS09F YE~BK 0.75
+7 CCB08K VT~WH 0.75
+7 CCB08K VT~WH 0.75
+8
+8 - - -
+C38-A
+C38-A
+连接线束接插件： 14A005 14240
+连接线束接插件： 14A005 14240
+4 1
+4 1
+母制 插接件插头
+母制 插接件插头
+针针脚脚 电电路路 线线色色 规规格格 区区分分条条件件
+1 CPL54B GY~BULT 0.75
+1 CPL54B GY~BULT 0.75
+2 CPL11Z GY~BULT 0.75
+3
+2 CCPPLL1121ZY GYB~BKULT 00..7755
+3 CPL12Y BK 0.75
+2 1
+8 3
+2
+8
+针针脚脚 电电路路 线线色色 规规格格 区区分分条条件件
+1
+1 CPL11
+CPL11 A GY~BN
+A GY~BN 0.75
+0.75
+2
+2 CPL22
+CPL22 D GN~VT
+D GN~VT 0.5
+0.5
+3
+3 CPL12
+CPL12 F BK
+F BK 0.75
+0.75
+4
+4 -
+- - -
+5
+5 CPL44
+CPL44 D YE~OG
+D YE~OG 0.75
+0.75
+6
+6 CLSO9
+CLS09 F YE~BK
+F YE~BK 0.75
+0.75
+7
+7 CCB08
+CCB08 .
+K VT~WH
+K VT~WH 0.75
+0.75
+8
+8 - - -
+1
+针针脚脚 电电路路 线线色色 规规格格 区区分分条条件件
+1
+1 CPL54
+CPL54 B GY~BULT
+B GY~BULT 0.75
+0.75
+2
+2 CPL11
+CPL11 Z GY~BULT
+Z GY~BULT 0.75
+0.75
+3
+3 CPL12
+CPL12 Y BK
+Y BK 0.75
+0.75

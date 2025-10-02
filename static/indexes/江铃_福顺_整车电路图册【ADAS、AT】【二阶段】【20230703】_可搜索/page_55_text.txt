@@ -1,0 +1,180 @@
+=== 第55页 ===
+13-7 配电 江铃福顺
+F53，F75，F78，F94，F101
+(cid:8812)(cid:26872)(cid:8364)(cid:20854)(cid:18372)(cid:10487)(cid:13876)(cid:20814)(cid:18785)(cid:3)(cid:11)(cid:54)(cid:53)(cid:37)(cid:12) 11-5
+PF13A PR13C F78(cid:20)(cid:19)(cid:36) PF78A
+RD-BK PF13 RD-BK RD
+BCC27A OG-GN
+BCE10A OG-RD (cid:26999)(cid:9405)(cid:10487)
+C1181
+(cid:28007)(cid:25262)(cid:15090)
+5
+PR18A RD-BK
+F101(cid:22)(cid:19)(cid:36) PSF101A
+RD-YE
+B87FP
+DR
+13-7 配电 江铃福顺
+F53,F75,F78,F94,F101
+保险丝继电器接线盒(SRB) 115
+(cid:8812)(cid:26872)(cid:8364)(cid:20854)(cid:18372)(cid:10487)(cid:13876)(cid:20814)(cid:18785)(cid:3)(cid:11)(cid:54)(cid:53)(cid:37)(cid:12) 11-5
+常电源 ESF30A
+1(cid:12487)3 (cid:20) (cid:56) -(cid:18372) (cid:22)(cid:16) 6 (cid:25) (cid:16671) R 起 继 (cid:53) (cid:24582) (cid:20854) 1 (cid:20) 动 电 (cid:9527) (cid:18372) 0 (cid:19) 机 器 (cid:14793) (cid:10487) 1 1 1 1 - -5 5 R E R S D D F30A E E R R 1 10 0 A A S (cid:54) C C 1 1 1 1 - -A A← E E R R 1 1 0 0B B C C 10 10 3 3 5 5 6 b 起 (cid:24582) 动 (cid:9527) 机 (cid:14793)(cid:18372) 电 (cid:14793) 机
+3 3 R R D D - -B B K K 11 R R D D - -B B K K 1 (cid:14)
+5
+EMS
+ECK18 c1104L (cid:40)r(cid:48)-(cid:54)
+1 2 ECK18 C1104b 起动继电器
+YE-RD 18 (cid:24582)(cid:9527)(cid:20854)(cid:18372)(cid:10487)
+YE-RD 18
+ECK72 C1104b
+ECK72 C1104b 起动机
+PK 72 (cid:24582)(cid:9527)(cid:14793)
+PK 72
+13-1
+(cid:20)(cid:22)(cid:16)(cid:20)
+13-5 (cid:41)
+(cid:20)(cid:22)(cid:16)(cid:24) 保险丝继电器接线盒(SRB) 11-5
+(cid:55) I 继 R (cid:53) (cid:44) (cid:20854) (cid:42) G 1 (cid:20) 电 2 (cid:18372) (cid:21) (cid:22) 3 / (cid:18)(cid:36) 器 (cid:10487) A (cid:38) C (cid:38) C 1 1 1 1 - - 5 5 P R P R R D R D 1 - 1 -B 3 B 3 K B B K F F 9 9 4 4 (cid:21) 2 (cid:19) 0 (cid:36) A P W P W F H F H 9 9 R - 4 4 R B B D D C C 2 2 2 2- - 3 B 3 B 9 9 P W P W F H F H 9 - 9 - 4 4 R R A A D D C C 2 2 2 20 0 7 2 7 2 a a 前 (cid:9436) 点 (cid:17224) (cid:14) 烟 (cid:17262)(cid:10487) 器
+MP5
+3 3 5 5 PF13A PR13C F78 10A PF78A P P F ● F 7 78 8 P P F F 7 78 8 C C C C 2 2 2 2- - A A 6 P P F F 7 7 8 8D D C C 2 2 0 0 9 94 4 (cid:48)r A (cid:51) C -(cid:24) C电源
+RD-BK PF13 BCM RD-BK R19 RD F78B R R D D 3 3 1 1 R R D D B B 5 5 (cid:36)(cid:38)(cid:38)(cid:3)(cid:18372)(cid:16671) BCC27A C1AM02-C (cid:37)(cid:38)(cid:48) 13-1 (cid:53)(cid:20)(cid:28) BCM 26-1
+1 W 2 OG-GN C1AM02- 2 C 27 7 (cid:14) (cid:20) (cid:38) (cid:22)(cid:16)(cid:20) 继 雨 (cid:26999) (cid:20854) 电 刮 (cid:9405) (cid:18372) 器(cid:25262) (cid:10487) 速 W (cid:12597) 度 1 1 1 1 - -5 5 C C I 1 A A M M O 0 2 2 - -C C (cid:37) A (cid:38) C (cid:36) (cid:48) C (cid:38) 继 (cid:38)(cid:20854) 电 (cid:18372) 器 (cid:10487) 回 (cid:10605) 读 (cid:24202) 信 (cid:8816)(cid:9862) 号 (cid:25122) 输 (cid:9204) 2 入 6-1
+BCE10A C C 1 1 A A M M 0 0 2 2 - - E7 E 1 2 2 OG-RD 1 1 0 0 前 (cid:9436) 雨 (cid:26999) 刮 (cid:9405) 速 (cid:25262) 度 (cid:12597) 继 (cid:20854) 电 (cid:18372)(cid:10487) 器 (cid:25122) 输 (cid:9353) 出 PR19B C1181 雨刮器
+PR19B
+高速档
+RD
+RD
+5 PR19A
+R1 3 3 8 4 5 W P W H R H - 1 - B 9 B A N N 4 4 低 (cid:8669) 速 (cid:25262)(cid:15090) 档
+(cid:53)(cid:20)(cid:27)
+雨刮继电器115
+(cid:26999)(cid:9405)(cid:20854)(cid:18372)(cid:10487)11-5 B_GD16D B_GD16 B_GD16A
+PR18A 3 4 4 B_GD16D B_GD16 B_GD16A RD-BK 1 D(cid:20) 3 (cid:22) - (cid:16)(cid:20) 1 3 5 5 B B K K B B K K 吉 G 1G 1 0 1 0 1- D - D 1 1 1 5 15 2 2 9 9A A BCM
+(cid:39)
+BCE23A C2102e (cid:37)r(cid:38)-(cid:48)--
+1 2 BCE23A C2102e 关闭继电器
+W W W H H 2 2 3 3 (cid:9218)(cid:26748)(cid:20854)(cid:18372)(cid:10487)
+F101 30A PSF101A ← 时钟弹簧
+BCE24D C22-A BCE24C C215g (cid:14469)r(cid:26414)-(cid:12744)-(cid:20150)
+RD-YE H 1 (cid:20) (cid:43) 3 (cid:22) - (cid:16)(cid:20) 1 R (cid:53) (cid:10262) 喇 2 (cid:21) 叽 (cid:9852) 5 (cid:24) 继 (cid:20854) 电 (cid:18372) 器 (cid:10487) 1111--55 V B V T C T- E G G 2 N N 4D C22- 4 A 41 1 V B V T C T - - E G G 2 N N 4C C2115 1 1 g 0 0 BC 喇 (cid:10262) M 叭 (cid:9852) 开 (cid:12687) 关 (cid:9218)
+W BCE24B BCE244 C2102e (cid:37)(cid:38)(cid:48)
+BCE24B BCE24A C2102e
+防盗报警继电器输出
+1 2 VT-GN BCE24 VTGN 24 (cid:26817)(cid:18790)(cid:13620)(cid:24053)(cid:20854)(cid:18372)(cid:10487)(cid:25122)(cid:9353)
+1 2 VT-GN BCE24 VT-GN 24
+高低音喇叽2
+PR25A PR25 PR25C C1191 (cid:28007)(cid:8669)(cid:27266)(cid:10262)(cid:9852)(cid:21)
+F53 20A PF53A PR25A PR25 PR25C C1191
+F53(cid:21)(cid:19)(cid:36) W P W F H H 53A 3 3 5 4 5 V V T T V V T T 1 高低 (cid:14) 音喇叭1
+(cid:57) PR25B C1192 (cid:28007)(cid:8669)(cid:27266)(cid:10262)(cid:9852)(cid:20)
+13-8 PR25B C1192
+(cid:20)(cid:22)(cid:16)(cid:27) VT (cid:14)
+VT 1
+3
+3
+5
+1 2
+YE-RD 18
+YE-RD 18
+ECK72 C1104b
+ECK72 C1104b
+F94 20A
+F94(cid:21)(cid:19)(cid:36)
+F78 10A
+F78(cid:20)(cid:19)(cid:36)
+R19
+13-1 (cid:53)(cid:20)(cid:28)
+(cid:20) (cid:38) (cid:22)(cid:16)(cid:20) 继 雨 (cid:26999) (cid:20854) 电 刮 (cid:9405) (cid:18372) 器(cid:25262) (cid:10487) 速 (cid:12597) 度 1 1 1 1 - -5 5
+W
+2
+1 2
+5
+3 5
+3
+4
+R18
+(cid:53)(cid:20)(cid:27)
+雨刮继电器115
+(cid:26999)(cid:9405)(cid:20854)(cid:18372)(cid:10487)11-5
+4
+3 4
+3 5
+13-1 5
+D(cid:20)(cid:22)(cid:16)(cid:20)
+(cid:39)
+1 2
+W
+13-1
+H(cid:20)(cid:22)(cid:16)(cid:20) R (cid:53) 2 (cid:21) 5 (cid:24)
+(cid:43) (cid:10262) 喇叽 (cid:9852) 继 (cid:20854) 电 (cid:18372) 器 (cid:10487) 1111--55
+W
+1 2
+1 2
+55
+3
+3
+4
+F94 20A
+F94(cid:21)(cid:19)(cid:36)
+F78 10A
+F78(cid:20)(cid:19)(cid:36)
+R19
+13-1 (cid:53)(cid:20)(cid:28)
+(cid:20) (cid:38) (cid:22)(cid:16)(cid:20) 继 雨 (cid:26999) (cid:20854) 电 刮 (cid:9405) (cid:18372) 器(cid:25262) (cid:10487) 速 (cid:12597) 度 1 1 1 1 - -5 5
+W
+2
+1 2
+5
+3 5
+3
+4
+R18
+(cid:53)(cid:20)(cid:27)
+雨刮继电器115
+(cid:26999)(cid:9405)(cid:20854)(cid:18372)(cid:10487)11-5
+4
+3 4
+3 5
+13-1 5
+D(cid:20)(cid:22)(cid:16)(cid:20)
+(cid:39)
+1 2
+W
+3
+3 5
+5
+1 2
+W
+R R D D - -B B K K P P F F 1 1 3 3 BCM R R D D - -B B K K
+BCC27A C1AM02-C (cid:37)(cid:38)(cid:48)
+BCC27A C1AM02-C
+OG-GN 27 (cid:14)
+OG-GN 27
+PR18A
+PR18A
+RD-BK
+RD-BK
+PSF101A
+PSF101A
+RD
+RD 5
+PR19A
+PR19A
+PR18A
+PR18A
+RD-YE
+RD-YE
+PF53A
+PF53A 13-1
+H(cid:20)(cid:22)(cid:16)(cid:20) R (cid:53) 2 (cid:21) 5 (cid:24)
+(cid:43) (cid:10262) 喇叽 (cid:9852) 继 (cid:20854) 电 (cid:18372) 器 (cid:10487) 1111--55
+W
+1 2
+1 2
+55
+3
+3
+4
+(cid:14)
+(cid:14)

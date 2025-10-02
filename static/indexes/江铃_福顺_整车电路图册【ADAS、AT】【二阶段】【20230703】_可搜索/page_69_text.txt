@@ -1,0 +1,96 @@
+=== 第69页 ===
+26-3 发动机电子控制 江铃福顺
+(cid:22355)(cid:18372)(cid:16111) (cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785) (cid:13876)(cid:20814)(cid:18785)
+(cid:11)(cid:40)(cid:45)(cid:37)(cid:12) (cid:11)(cid:54)(cid:53)(cid:37)(cid:12)
+11-3 11-5
+(cid:53)(cid:20)(cid:23) 3 1 (cid:44)(cid:42)(cid:20)(cid:20854)(cid:18372)(cid:10487)
+F99 13-5 F51 (cid:23)(cid:19)(cid:36) (cid:20)(cid:19)(cid:36) 13-5 13-5 5 2
+(cid:40)(cid:48)(cid:54)
+G1D131A
+10-6
+A41RP DR
+F11 (cid:24)(cid:36) 13-5
+E10RE DR A11FE UB
+F88 (cid:24)(cid:36) 13-1
+A88FE DR
+F12 (cid:24)(cid:36) 13-4
+A21FE DR-EY
+F4 F1 F37 (cid:24)(cid:36) (cid:20)(cid:19)(cid:36) (cid:20)(cid:19)(cid:36) 13-3 13-3 13-3
+C11-E 1 PR14 C11-A 33 GD12 10-6
+C1104b
+(cid:9754)(cid:20920)(cid:14793)(cid:20854)(cid:18372)(cid:10487)(cid:13878)(cid:9413)
+21
+(cid:9413)(cid:9527)(cid:12687)(cid:9218) 151-9 C11-E EF11B BU C2208 C2208 ECK54B WH-RD ECK54C WH-RDC11-E ECK54A WH-RD
+(cid:46)(cid:47)(cid:20)(cid:24)(cid:16)(cid:44)(cid:42)(cid:20)(cid:8939)(cid:25077)(cid:17150)(cid:12687)(cid:9218)(cid:8816)(cid:9862) (cid:8939)(cid:25077)(cid:17150)(cid:12687)(cid:9218)(cid:8816)(cid:9862) 30 2 4 S2CB08 4 54
+EF88A RD ECK85 BK-YE C11-E ECK85A BK-YE (cid:46)(cid:47)(cid:22)(cid:19) (cid:9413)(cid:9527)(cid:12687)(cid:9218)(cid:8816)(cid:9862) (cid:9413)(cid:9527)(cid:12687)(cid:9218)(cid:8816)(cid:9862) 1 3 13 85
+(cid:19530)(cid:9879)(cid:10487)(cid:8345)(cid:15857)(cid:17224)(cid:12687)(cid:9218) 151-9 C11-E EF01B WH-RD EF01 EF01E WH-RD C2904 C2904 ECK46B GN-WH C11-E ECK46A GN-WH
+(cid:51)(cid:58)(cid:53) (cid:16) (cid:20)(cid:19)(cid:8)(cid:3)(cid:19530)(cid:9879)(cid:10487)(cid:12687)(cid:9218)(cid:8816)(cid:9862) 24 4 5 8 46
+(cid:19530)(cid:9879)(cid:10487)(cid:8346)(cid:15857)(cid:17224)(cid:12687)(cid:9218) 151-9 EF01D WH-RD C2903 C2903 ECK34 GN-YE ECK34A GN-YE
+(cid:51)(cid:58)(cid:53) (cid:16) (cid:28)(cid:19)(cid:8)(cid:3)(cid:19530)(cid:9879)(cid:10487)(cid:12687)(cid:9218)(cid:13876)(cid:10687) 1 2 36 34
+(cid:17490)(cid:16200)(cid:9914)(cid:16067)(cid:8623)(cid:13230)(cid:10487) 151-8
+EF12B YE-RD EF12 EF12C YE-RD C1823 C1823 ECK70 GN-BU ECK70A GN-BU (cid:51)(cid:58)(cid:53) (cid:58)(cid:44)(cid:41) (cid:16200)(cid:16067)(cid:8623)(cid:13230)(cid:10487)(cid:8816)(cid:9862)
+3 2 16 70
+A_GD17D BK
+(cid:42)(cid:49)(cid:39)
+1
+A10FE DR-HW B30FE DR-HW A41RE B41RE DR-HW DR-HW 73FE EY ER14D WH-RD 12KCE GO-DR
+(cid:53)(cid:20)(cid:23) 1 3 (cid:36)(cid:18)(cid:38)
+(cid:20854)(cid:18372)(cid:10487) 13-3 2 5
+ER14 C11-A 3 151-1 151-3 AB41RP DR A99FSP NG-HW PR14B RD E15FP DR A15FP DR 15 C2102c (cid:44)(cid:42)(cid:20) 继电(cid:10487) 输(cid:9353) PF51
+A51CCB DR-HW
+(cid:37)(cid:38)(cid:48) 151-10 A (cid:9824)(cid:9527)(cid:14793) (cid:18372)(cid:11743)(cid:13878)(cid:9413) 26-1 C10RE DR D E (cid:9754)(cid:20920)(cid:14793) 151-4 C1302a C1302aA_GD12D A_GD12DA (cid:9824)(cid:9527)(cid:14793) (cid:9824)(cid:9527)(cid:14793) (cid:18372)(cid:16671) (cid:13876)(cid:10687) (cid:18372)(cid:11743)(cid:13878)(cid:9413)(cid:18372)(cid:11743)(cid:13878)(cid:9413) 1 2 BK BK 26-1 26-1
+C11-E
+A40FE EY-TV
+26-3 发动机电子控制 江铃福顺
+蓄电池 蓄电池
+ll 接线盒 接线盒
+≥习 (EJB) (SRB)
+11-3 11-5
+R14 R14
+1 3 A/C 3 IG1继电器 F12 F5 F1 5A 自 继电器 F37 F8B F99 自 13-5 F51
+5 13 A -4 13-3 1 13 0 - A 3 135 2 5 6 13-3 1 13 0 - A 3 5 13 A -1 4 13 0 - A 5 d 5 2 1 13 0 - A 5
+BCC15A
+QdHM
+PSF99A N9-HM
+EF12AYE-RD EFO4AEYVEF01AWH-RDER01C ERO1E EF03BRHW ECK21 RD-0GER14A WH-RD EF37 PR14BA EF88A PR14A PF51E PF51A 品 豆岳 己 ER14 出 品 C11-E PR14B 显 品 否1 C2102c BCM 品 E E D E A ER14B C只11A ER14D C1302a 压缩机 151-4 C1302 A_GD12D C11-A、 RD ALGD12DA PR●14 继 输 I 电 G 出 1 器 151-10 PF51 电 (cid:18372) 发 (cid:9824) 子 (cid:11743)2 2 动 (cid:9527) 6 6 控 (cid:13878)- -4 (cid:14793) 4 机 (cid:9413) 制 电 发 子 2 动 6 控 - 机 1 制 电 2 发 6 子 动 - 控 1 机 制 电 发 2 子 6 动 控 - 机 1 制 3 WH-RD 1 电源 接地 2 BK 33 BK 吉 G 1 D 0- 1 6 2 EMS 151-1 151-3
+C1104b
+压缩机继电器控制
+21
+制动开关 151-9
+C11-E EF11B BU C2208 C2208 ECK54B WHRDECK54C WH-RDC11-E、 ECK54A WH-RD KL15-IG1停车灯开关信号 停车灯开关信号
+30 EF88A RD 2 ECK85 BK- S Y 2 E CB0B C11-E4、 ECK85ABK-YE 54
+1 KL30 制动开关信号 3 13 85 制动开关信号
+离合器上止点开关 151-9
+C11-E EF01B WH-RD EF01 EF01E WHRD C2904 C2904 ECK46B GN-WH C11-E、 ECK46A GN-WH PWR 10??合器开关信号
+24 4 5 8 46
+离合器下止点开关 151-9 EF01D WHRD C2903 C2903 ECK34 GN-YE ECK34A GNYE PWR 90??合器开关接地
+1 2 34
+燃油含水传感器 151-8
+C11-E EF12B YE-RD EF12 EF12C YE-RDC1823 C1823ECK70 GN-BU C11-E、 ECK70A GN-BU
+C11 2 -E 3 PWR WIF 2 16 70 油水传感器信号
+2 A_GD17D BK
+GND
+G1D131A
+÷ 10-6
+1 1 33
+自
+6
+2 2 55
+3
+3 1
+d
+5 2
+5 2
+PSF99A N9-HM
+PR14A
+A99FSP NG-HW
+A41RP
+显
+DR PF51A
+A15FP
+DR 品
+电源 接地
+(cid:18372)(cid:16671) (cid:13876)(cid:10687)
+4 ECK85 BK- S YS 2 E2 C C B B 0 0 B 8 C11-E4、4 ECK85ABK-YE 5 5 4 4
+ECK85 BK-YE C11-E ECK85A BK-YE

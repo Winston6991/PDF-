@@ -1,0 +1,21 @@
+=== 第64页 ===
+江铃福顺 通信网络模块 14-6
+江铃福顺 通信网络模块 14-6
+BCM
+1B5C1-M10
+151-10
+组合开关1
+LIN BUS1 C C 2 2 1 1 0 0 2 2c c B B C C C C O 08 8 B B B B N N - -W W H H C C 2 2 2 2 - -B B B B C C C C O 08 8 A A B B N N - -W W H H C C 1 1 1 1 7 7 1 1 LN 1(cid:20819) 1 5 51 1(cid:9879) -5 5(cid:12687)(cid:9218)1
+LIN BUS1 8 55 8 LIN
+8 55 8
+蓄电池传感器
+(cid:22355)(cid:18372)(cid:16111)(cid:8623)(cid:13230)(cid:10487)
+LIN BUS2 C C 2 2 1 1 0 0 2 2 c c B B C C C C 2 20 0 A A O O G G B B C C C C 2 2 0 0 B B C C C C 2 20 0 C C O O G G C C 3 3 3 3 5 57 7 LIN 1 1 5 51 1 -9 9
+LIN BUS2 LIN
+20 1
+20 1
+蓄电池传感器
+(cid:22355)(cid:18372)(cid:16111)(cid:8623)(cid:13230)(cid:10487)
+B B C C C C2 2 0 0 B B O O G G C C 3 3 9 9- - A A B B C C C C 2 2 0 0 B B A A O O G G C C 9 9 9 9 - -A A B B C C C C 2 2 0 0B B B B U U - -R R D D C C 9 91 1 0 0 LIN 1 1 5 51 1 -9 9
+57 3 3 LIN
+57 3 3

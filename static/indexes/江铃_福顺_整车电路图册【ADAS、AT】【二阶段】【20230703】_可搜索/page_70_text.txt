@@ -1,0 +1,183 @@
+=== 第70页 ===
+江 江 铃 铃福 福 顺 顺 发发动动机机电电子子控控制制 2266--44
+EMS 151-1 151-3
+E (cid:40) G (cid:42) R (cid:53) 阀 (cid:26767) E (cid:40) V (cid:57) 1 A (cid:36) 1 5 5 + (cid:14) 1 1 - -4 4 C C 1 1 1 1 1 13 3 E E C C A A 6 67 7 W W H H - - R R D D C C 1 1 1 1 0 04 4 6 a a 7 (cid:40)(cid:48) E(cid:40)G (cid:54) (cid:42)R(cid:53)执(cid:3)(cid:13558)行(cid:23259)器(cid:10487) T (cid:55) V (cid:57) (cid:14)+ A (cid:36) 1 执 (cid:3) 5 (cid:13558) 1 行 - (cid:23259) 1 (cid:10487) 器 15 (cid:14) + 1-3 C 8 C 8 1 1 1 1 0 04 4 a a E E E C C C A A A0 0 0 8 8 9 B G U B N U -YE o C C 1 1 1 1 3 3 4 8 4 B M (cid:48) + (cid:14) T 1 (cid:55) 1 5 V 5 (cid:57) 1 A 1 (cid:36) - - 传 4 4 (cid:8623) 感 (cid:13230) 器 (cid:10487)
+EVA- 1 E E C C A A 8 8 B 8 Y Y E E 67 EGR执行器 T (cid:55) - V (cid:57) A (cid:36) 执 (cid:3)(cid:13558) 行 (cid:23259)(cid:10487) 器 (cid:16) 9 U ECA09 GN-YE 5 1 M (cid:48) - (cid:16)
+(cid:40)(cid:57)(cid:36)(cid:16) 5 88 (cid:40)(cid:42)(cid:53)(cid:3)(cid:13558)(cid:23259)(cid:10487)(cid:16) ECA16 BU-0G
+V (cid:57) S (cid:54) E E (cid:40) V N (cid:49) P S (cid:54) 6 5 6 E E E E C C C C A A A A 4 9 4 9 0 8 0 8 B G B G Y U U Y - - - - G Y Y G E E N N 4 8 4 8 0 0 位 位 (cid:8668) 置 置 (cid:20989) 传 传 (cid:8623) 感 感 (cid:13230) 位 位 (cid:8668) (cid:8668) 器 器 (cid:10487) 置 置 (cid:20989) (cid:20989) 信 (cid:18372) 电 传 传 (cid:8623) (cid:8623) 号 (cid:16671) 源 感 感 (cid:13230) (cid:13230) 器 (cid:10487) (cid:10487) 器 (cid:18372) (cid:13876) 电 接 (cid:16671) (cid:10687) 源 地 1 9 1 9 6 7 6 7 E E E C C C A A A 1 9 9 6 7 7 V B V T U T - - - Y Y O E E G 2 3 3 2 T T (cid:55) (cid:55) P P (cid:51) (cid:51) S S (cid:54) (cid:54) (cid:3) (cid:3) (cid:24) (cid:42) 5 G (cid:57) V (cid:49) N (cid:39) D
+G (cid:40) N (cid:57)(cid:51) D 2 E E C C A A 7 78 8 R R D D - - Y Y E E 9 9 8 8 位 (cid:8668) 置 (cid:20989) 传 (cid:8623) 感 (cid:13230) 位 (cid:8668) 器 (cid:10487) 置 (cid:20989) 接 (cid:8816) 传 (cid:8623) (cid:9862) 地 感 (cid:13230)(cid:10487) 器 (cid:8816) 信 (cid:9862) 号 5 5 4 4 E EC C A A 5 5 4 4 B BN N 6 6 T (cid:55)(cid:51) P (cid:54) S
+增 (cid:11053) 压 (cid:9754) 器 (cid:10487) 位 (cid:8668) 置 (cid:20989) 传 (cid:8623) 感 (cid:13230) 器 (cid:10487) (cid:42) 1 (cid:49) 1 5 (cid:39) 5 1 1 - -3 3 C 4 1 4 422 ECA02 YE 7 7 8 8 (cid:8668)(cid:20989)(cid:8623)(cid:13230)(cid:10487)(cid:13876)(cid:10687) B (cid:37) _ (cid:66) D (cid:39) _ (cid:66) L (cid:47)(cid:44) I (cid:49) N 8 C C 2 1 1 1 1 0 0 4 4b b E E C C K K8 8 2 2 A AB B U U - -G G N N C C 3 3 9 E E C C K K 8 82 2 B B B B U U- G GN N C C 2 20 0 L (cid:47) I (cid:44)(cid:49) N 发 1 (cid:9824) 5 电 1 (cid:18372) -3 (cid:14793) 机
+V V (cid:57) (cid:57) G (cid:42) G (cid:42) T (cid:55) T (cid:55) + (cid:14) - (cid:16) C 5 1422 5 E E E C C C A A A 0 0 0 1 2 1 G Y G N E N - -W W H H B 2 2 V V (cid:57) (cid:57) G G (cid:42) (cid:42) T T (cid:55) (cid:55) 执 执 (cid:3) (cid:3) (cid:13558) (cid:13558) 行 行 (cid:23259) (cid:23259) 器 器 (cid:10487) (cid:10487) - (cid:16) (cid:14) + 82 电 (cid:18372) 发 子 (cid:9824) (cid:11743) 动 2 控 (cid:9527) (cid:13878) 2 机 6 6 (cid:14793) (cid:9413) 制 - ， -3 3 E E EC E E K F F 8 0 04 7 4 A A A Y V V E T T - - - V Y Y T E E 2 2 9 7 7 EC E E K F F 8 0 04 7 4 B B B V B V T T U - -Y Y E E C C 1 1 8 8 2 21 1 3 a 3 1 a V (cid:57) B (cid:37) 1 空 1 (cid:19721) 1 5 5 5 1 1 1 气 (cid:16035) - - - 3 2 2 流 (cid:16336)(cid:25694) 量 (cid:8623) 传 (cid:13230) 感 (cid:10487) 器
+4 1 温度传感器信号 ECK87A YE-VT ECK87B BU FOUT
+ECA17 BN (cid:16568)(cid:12597)(cid:8623)(cid:13230)(cid:10487)(cid:8816)(cid:9862) 86 5 5 (cid:41)(cid:50)(cid:56)(cid:55)
+VSENS ECA17 BN 位置传感器电源 86 ECK86A LG 5 ECK86B LG 5
+(cid:57)(cid:54)(cid:40)(cid:49)(cid:54) 1 1 1 7 7 (cid:8668)(cid:20989)(cid:8623)(cid:13230)(cid:10487)(cid:18372) 传 (cid:16671) 感器接地 ECK86A LG ECK86B LG GND
+GND E E C C A A 5 57 7 W W H H- R RD D 位置传感器接 (cid:8623) 地 (cid:13230)(cid:10487)(cid:13876)(cid:10687) 8 8 7 7 ECK76A BU-0G 6 6 ECK76B BU-0G 4 4 (cid:42)(cid:49)(cid:39)
+V (cid:42) G (cid:49) T (cid:39) 2 2 E E C C A A T 77 7 B B U U - -G G N N 5 5 7 7 位 (cid:8668) 置 (cid:20989) 传 (cid:8623) 感 (cid:13230) 空 (cid:19721) 器 (cid:10487) 气 (cid:16035) 信 (cid:13876) 流 (cid:16336) 号 (cid:10687) 量 (cid:25694)(cid:24112) 计 (cid:8816) 信 (cid:9862) 号 7 7 6 6 ECK76A BU-OG 4 4 ECK76B BU-OG 2 2 I (cid:44)(cid:36) A (cid:55) T
+(cid:57)(cid:42)(cid:55) 3 3 7 7 7 7 (cid:8668) 踏 (cid:20989) 板 (cid:8623) 位 (cid:13230) 置 (cid:10487) 传 (cid:8816) 感 (cid:9862) 器1电源 E EC C K K 4 4 8A 8A G G N N C C 1 1 1 1 - -E E E E C C K K4 4 8 8 Y Y E E - - R R D D C C 2 2 7 7 0 0 1 1 VSENS APP1 加 (cid:9519) 速 (cid:25262) 踏 (cid:24734) 板 (cid:14862) 位 (cid:8668) 置 (cid:20989)(cid:8623) 传 (cid:13230) 感 (cid:10487) 器
+水 (cid:16067) 温 (cid:16568) 传 (cid:8623) 感 (cid:13230) 器 (cid:10487) 1 1 5 5 1 1 - -4 4 C1716 ECA100 BN 踏 (cid:24734) (cid:24734) 板 (cid:14862) (cid:14862) 位 (cid:8668) (cid:8668) 置 (cid:20989) (cid:20989) 传 (cid:8623) (cid:8623) 感 (cid:13230) (cid:13230) 器 (cid:10487) (cid:10487) (cid:20) (cid:20) 1 (cid:18372) (cid:8816) 信 (cid:16671) (cid:9862) 号 4 3 4 8 2 8 E E C C K K 3 3 2 2A ARD R - D Y -Y E E C C 1 1 1 1 - - 3 2 F 3F 1 E E C C K K3 3 2 2 A A B B U U 2 2 A (cid:36) (cid:57) P (cid:51) (cid:54) P (cid:51) (cid:40) (cid:20) (cid:49) 1 (cid:54)(cid:3)(cid:36)(cid:51)(cid:51)(cid:20) 1 1 5 5 1 1 - -9 9
+(cid:14) C 1 1716 E E C C A A 1 9 00 9 B B U N -GN 110000| 冷 (cid:9286) 踏 却 (cid:9731) (cid:24734) 板 液 (cid:16449) (cid:14862) 位 温 (cid:16568) (cid:8668) 度 置 (cid:12597) (cid:20989) 传 传 (cid:8623) (cid:8623) 感 感 (cid:13230) (cid:13230) 器 (cid:10487) 器 (cid:10487) 信 (cid:8816) (cid:20) 1 (cid:13876) 接 号 (cid:9862) (cid:10687) 地 6 3 5 2 E EC CK K6 6 5 5 A A B B U U - - G G N N 2 21 0 E E C C K K 6 65 5 G G Y Y 3 4 G (cid:42) N (cid:49) D (cid:39) (cid:3) A (cid:36) P (cid:51) P (cid:51) 1 (cid:20)
+(cid:16) 2 2 ECA99 BU-GN 9 9 9 9 冷 (cid:9286) 却 (cid:9731) 踏 液 (cid:16449) 板 温 (cid:16568) 位 度 (cid:12597) 置 传 (cid:8623) 传 感 (cid:13230) 感 (cid:10487) 器 器 (cid:13876) 接 2接 (cid:10687) 地 地 65 E E C C K K 6 66 6 A A W W H H 20 E E C C K K 6 66 6L L G G 3 GND APP2
+(cid:24734)(cid:14862)(cid:8668)(cid:20989)(cid:8623)(cid:13230)(cid:10487)(cid:21)(cid:13876)(cid:10687) 66 19 5 (cid:42)(cid:49)(cid:39)(cid:3)(cid:36)(cid:51)(cid:51)(cid:21)
+E (cid:40) G (cid:42) R (cid:53) 下 (cid:8346) 游 (cid:16583) 温 (cid:16568) 度 (cid:12597) 传 (cid:8623) 感 (cid:13230) 器 (cid:10487) 115511--44 C1719 ECA58 GN-WH 踏板位置传感器2信号 66 E E C C K K 3 33 3 A A V V T T - -Y Y E E 19 E E C C K K3 3 3 3BN BN 5 APP2
+C1719 ECA58 GN-WH 传感 (cid:24734) 器 (cid:14862) 信 (cid:8668)(cid:20989) 号 (cid:8623)(cid:13230)(cid:10487)(cid:21)(cid:8816)(cid:9862) 3 3 3 3 1 1 8 8 66 (cid:36)(cid:51)(cid:51)(cid:21)
+(cid:14) 34 (cid:8623)(cid:13230)(cid:10487)(cid:8816)(cid:9862) ECK49ABU-GN ECK49RD-WH
+1 ECA53GN-BK 34 踏板位置传感器2电源 ECK49A BU-GN ECK49 RD-WH VSENS APP2
+ECA53 GN-BK 传感 (cid:24734) 器 (cid:14862) 接 (cid:8668)(cid:20989) 地 (cid:8623)(cid:13230)(cid:10487)(cid:21)(cid:18372)(cid:16671) 4 4 9 9 1 17 7 1 (cid:57)(cid:54)(cid:40)(cid:49)(cid:54)(cid:3)(cid:36)(cid:51)(cid:51)(cid:21)
+(cid:16) 2 2 5 5 3 3 (cid:8623)(cid:13230)(cid:10487)(cid:13876)(cid:10687) E E C C K K4 4 5 5 A AG G N N C C 1 1 1 1 - -E E E E C C K K4 4 5 5 L L G G - - B B K K C C 1 1 9 91 1 0 0 燃 (cid:17490) 油 (cid:16200) 温 (cid:16568)(cid:12597) 度 (cid:8623) 传 (cid:13230) 感 (cid:10487) 器
+ECA33 GN-WH 燃 (cid:17490) 油 (cid:16200) 温 (cid:16568) 度 (cid:12597) 传 (cid:8623) 感 (cid:13230)(cid:10487) 器 (cid:8816) 信 (cid:9862) 号 45 13 (cid:14) 151-8
+ECA33 GN-WH ! 辅助信号输入 45 13 1 151-8
+3 3 0 0 (cid:25108)(cid:9528) 燃 (cid:8816) 油 (cid:9862) 温 (cid:25122) 度 (cid:9204) 传感器接地 E E C CK K 0 O 7 7 A A G G N N - -W W H H E EC C K K 0 0 7 7 W W H H
+(cid:17490)(cid:16200)(cid:16568)(cid:12597)(cid:8623)(cid:13230)(cid:10487)(cid:13876)(cid:10687) 15 2 (cid:16)
+接地 7 15 2
+蒿 (cid:15536)(cid:10726) P P C C A A N N L L 0 02 2 W W H H C C 1 1 1 1 0 04 4 3 b 3 b 3 3 C (cid:13876) A (cid:10687) NL 压 (cid:9754) 差 (cid:12413) 传 (cid:8623) 感 (cid:13230) 器 (cid:10487) 信 (cid:8816) 号 (cid:9862) 3 3 0 0 E E C C K K 3 30 0 A AB B N N 9 9 E E C C K K 3 30 0 W W H H - - B BK K C C 1 1 7 74 4 3 9 3 9 D (cid:39) P (cid:51) F (cid:41) P (cid:51) 压 1 (cid:9754) 51 差 (cid:12413) -8 传 (cid:8623)(cid:13230) 感 (cid:10487) 器
+1 (cid:25257) (cid:20960) 4- (cid:8816) (cid:20843) 2 P P C C A A N N H H 0 02 2 B B U U 1 1 4 4 6 C (cid:38) A (cid:36)(cid:49) N (cid:16)(cid:47) H 压 (cid:9754) 差 (cid:12413) 传 (cid:8623) 感 (cid:13230) 器 (cid:10487)(cid:13876) 接 (cid:10687) 地 2 2 5 5 E E C C K K2 2 5 5 A A W W H H - - G G N N 1 10 0 E E C C K K 2 25 5 W W H H - - G G N N 2 2 S (cid:54) I (cid:44)(cid:42) G (cid:53) R (cid:55) T (cid:49) N 151-8
+14-2 U 1 13 3 (cid:38)(cid:36)(cid:49)(cid:16)(cid:43) 压 (cid:9754) 差 (cid:12413) 传 (cid:8623) 感 (cid:13230)(cid:10487) 器 (cid:18372) 电 (cid:16671) 源 41 E E C C K K 4 41 1 A A G G N N - - B BK K 7 E E C C K K 4 41 1 G G N N - -B B K K 1 6 V (cid:57) R (cid:53) E (cid:40)(cid:41) F
+41 7 1
+8 4
+8 4
+ECA09 GN-YE
+ECA09 GN-YE
+U 5
+9 1
+ECA16 BU-0G
+ECA16 BU-OG
+1 1 6 6 3 3
+ECA97 VT-YE
+ECA97 VT-YE
+9 9 7 7 2 2
+ECA54 BN
+ECA54 BN
+5 5 4 4 6 6
+C C 1 1 1 1 0 0 4 4b b E E C C K K8 8 2 2 A AB B U U - -G G N N C C 3 3 E E C C K K 8 82 2 B B B B U U- G GN N C C 2 20 0
+82 9
+82 9
+发动机， EF04A VT-YE
+电 (cid:18372) 子 (cid:9824) (cid:11743)2 控 (cid:9527) (cid:13878)6 (cid:14793) (cid:9413) 制 -3 E E EF04A VT-YE 27
+26-3 27
+ECK87A YE-VT
+ECK87A YE-VT
+3
+3
+ECK87B BU
+ECK87B BU
+86 5
+86 5
+ECK86A LG
+ECK86A LG 5
+ECK86B LG 5
+ECK86B LG
+87 6
+87 6
+ECK76A BU-0G
+ECK76A BU-OG 4
+4
+ECK76B BU-0G
+ECK76B BU-OG
+4 4 8 8 ECK32ARD-YE C11- 3 3F ECK32A BU 2 2
+ECK32A RD-YE C11-F ECK32A BU (cid:57)(cid:54)(cid:40)(cid:49)(cid:54)(cid:3)(cid:36)(cid:51)(cid:51)(cid:20)
+APP1
+(cid:36)(cid:51)(cid:51)(cid:20)
+GND APP1
+(cid:42)(cid:49)(cid:39)(cid:3)(cid:36)(cid:51)(cid:51)(cid:20)
+GND APP2
+(cid:42)(cid:49)(cid:39)(cid:3)(cid:36)(cid:51)(cid:51)(cid:21)
+APP2
+(cid:36)(cid:51)(cid:51)(cid:21)
+VSENS APP2
+(cid:57)(cid:54)(cid:40)(cid:49)(cid:54)(cid:3)(cid:36)(cid:51)(cid:51)(cid:21)
+32 21
+32 21
+ECK65A BU-GN
+ECK65A BU-GN 4
+ECK65 GY
+ECK65 GY
+65 20
+65 ECK66A WH 20
+ECK66A WH 3
+ECK66LG 3
+ECK66 LG
+66 19
+66 19
+ECK33A VT-YE
+ECK33A VT-YE 5
+ECK33BN 5
+ECK33 BN
+33 18
+33 18
+ECK49ABU-GN
+ECK49A BU-GN 66
+ECK49RD-WH
+ECK49 RD-WH
+45 13
+45 13
+ECKO7A GN-WH
+ECK07A GN-WH 1
+ECK07 WH
+ECK07 WH
+15
+7 15
+ECK30ABN
+ECK30A BN
+30
+30 9 9
+ECK25A WH-GN
+ECK25A WH-GN 9 3
+3
+ECK25 WH-GN
+ECK25 WH-GN (cid:39)(cid:51)(cid:41)(cid:51)
+SIGRTN
+(cid:54)(cid:44)(cid:42)(cid:53)(cid:55)(cid:49)
+VREF
+(cid:57)(cid:53)(cid:40)(cid:41)
+25 10
+25 10
+ECK41A GN-BK
+ECK41A GN-BK 2
+2
+ECK41 GN-BK
+ECK41 GN-BK 6
+67
+1 67
+ECA8BYE
+ECA88 YE
+5 88
+5 88
+ECA40 BU-GN
+ECA40 BU-GN
+6 6 4 40 0
+ECA98 GY-YE
+ECA98 GY-YE
+98
+2 98
+ECA78 RD-YE
+ECA78 RD-YE
+2
+5 2
+ECA01 GN-WH
+ECA01 GN-WH
+5 B
+4 1
+ECA17 BN
+ECA17 BN
+17
+1 17
+ECA57 WHRD
+ECA57 WH-RD
+2 57
+2 ECAT7 BU-GN 57
+ECA77 BU-GN
+1 11000
+ECA99 BU-GN
+ECA99 BU-GN 0|
+34
+1 34
+ECA53GN-BK
+ECA53 GN-BK
+!
+30
+30
+(cid:14)
+(cid:16)
+(cid:14)
+(cid:16)

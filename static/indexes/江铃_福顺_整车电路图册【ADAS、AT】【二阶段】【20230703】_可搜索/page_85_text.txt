@@ -1,0 +1,143 @@
+=== 第85页 ===
+44-1 喇叭 / 点烟器 /USB 江铃福顺
+(cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785)
+(cid:11)(cid:51)(cid:41)(cid:37)(cid:12) 11-4
+F5
+(cid:27)(cid:19)(cid:36) 13-1
+(cid:37)(cid:38)(cid:48) 151-10
+(cid:36)(cid:38)(cid:38)(cid:20854)(cid:18372)(cid:10487)(cid:25122)(cid:9353)
+27
+(cid:26817)(cid:18790)(cid:13620)(cid:24053)(cid:20854)(cid:18372)(cid:10487)(cid:25122)(cid:9353)
+24
+151-5
+A50DP
+DR
+D50DP
+DR
+(cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785)
+(cid:11)(cid:54)(cid:53)(cid:37)(cid:12) 11-4
+F98 F51
+(cid:23)(cid:19)(cid:36) (cid:24)(cid:36) 13-1 13-5
+PD05
+B31RP KB-DR A31FP KB-DR A72CCB NG-GO
+3 1
+5 2 13-7
+PF13
+2 C2207a (cid:28007)(cid:8669)(cid:27266)(cid:10262)(cid:9852)(cid:20) 151-8 (cid:28007)(cid:8669)(cid:27266)(cid:10262)(cid:9852)(cid:21) 151-8
+(cid:9436)(cid:17224) (cid:17262)(cid:10487) C1192 C1191
+(cid:14) (cid:14)
+1 1
+(cid:16) (cid:16)
+2 2
+1 C2207a
+B72DG_A
+KB
+G2D115-B GD17
+10-4 10-6
+A71DG_B
+KB
+F49
+(cid:20)(cid:19)(cid:36) 13-1
+A94FP
+DR
+F53
+(cid:21)(cid:19)(cid:36) 13-7
+D42ECB
+C42ECB
+D94FP
+NG-TV
+NG-TV
+DR
+B42ECB NG-TV A52RP
+B52RP
+TV
+TV
+A35FP
+HW
+C52RP
+B71DG_B
+TV
+KB
+(cid:53)(cid:21)(cid:24) 1 3 (cid:10262)(cid:9852)(cid:20854)(cid:18372)(cid:10487)
+F94 13-7
+(cid:21)(cid:19)(cid:36) 13-7 2 5 4
+PF49
+BCE24A BCE24
+VT-GN PR25
+B49FP
+A49FP
+DR-HW
+DR-HW
+(cid:53)(cid:20)(cid:22) (cid:44)(cid:42)(cid:21)(cid:18)
+(cid:36)(cid:38)(cid:38)
+(cid:20854)(cid:18372)(cid:10487)
+39 C22-B 41 C22-A
+10 C2115
+(cid:14469)(cid:26414)(cid:12744)(cid:20150)
+A89FSP NG-HW C15FP
+DR
+A15FP
+DR
+44-1 喇叭/点烟器/USB 江铃福顺
+蓄电池[ 蓄电池
+接线盒 接线盒
+(PFB) (SRB)
+11-4 11-4
+R13 R25
+F5 F94 F98 3 1 W I A G C 2 C / A F49 W 1 3 喇 13- 叭 7 继电器 F53
+80A 20A 40A 继电器 10A 20A
+13-1 13-7 13-1 d 5 2 13-7 13-5 13-1 5 13-7
+D05A PD050 PF94B QdHMR138RD-BK PSF98A NGHW VELd RD-BK BCC27A NGG0 PF51C PF51A PF49A F490D BCE28 NGTVPR25A PF3A
+品 品 5
+PD05
+BCM 151-10 PF13 PF49
+C2102c
+C2102c
+ACC继电器输出 27
+C2102e BCE24A BCE24
+C2102e
+防盗报警继电器输出
+24 VT-GN PR25
+BCE24D
+N9-1A
+39 C22B 41 C22-A
+BCE24C
+PF94A QdHM N9-IA PR25B PR25C
+5 5
+2 C2207a 10C2115
+本 高低音喇叭1 151-8 高低音喇叭2 151-8 前点 时钟弹簧
+烟器 喇 (cid:10262) 叭 (cid:9852) 信 (cid:8816)(cid:9862) 号 C1192 C1191
+L 151-5 引训
+2 2
+1 C2207a
+B_GD17A B_GD17B
+AGD27B
+益 益
+益
+G2D115-B GD17
+10-4 ÷10-6
+3
+3 11 W
+d
+5 2
+5 2
+QdHMR138RD-BK PSF98A NGHW VELd RD-BK BCC27A
+B31RP KB-DR A31FP KB-DR A72CCB DR-HW A89FSP NG-HW
+PF13
+PF13 RD-BK PSF98A NGHW VELd
+KB-DR A89FSP NG-HW A31FP PSF98A
+A89FSP PF51A
+A15FP
+DR F490D
+D94FP
+DR PF3A
+A35FP
+27
+27
+C2102e
+C2102e
+C
+(cid:16)
+(cid:16) 引 训

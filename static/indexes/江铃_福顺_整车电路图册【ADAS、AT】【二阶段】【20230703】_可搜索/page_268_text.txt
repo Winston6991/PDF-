@@ -1,0 +1,125 @@
+=== 第268页 ===
+江铃福顺 整体系统原理图 161-28
+盲点监测系统
+(cid:37)(cid:38)(cid:48)
+C2102c
+(cid:44)(cid:42)(cid:20)(cid:20854)(cid:18372)(cid:10487)
+15
+(cid:27014)(cid:25165)(cid:8394)(cid:14793) C415 (cid:44)(cid:42)(cid:49) 14
+(cid:9858)(cid:9885)(cid:8623)(cid:13230)(cid:10487)
+C417b
+(cid:37)(cid:14) (cid:8816)(cid:9862) (cid:9858)(cid:9885)(cid:8816)(cid:9862) 1 8
+(cid:42)(cid:49)(cid:39)
+A51CCB DR-HW E15FP
+DR
+A99FSP NG-HW
+PF92A PF92G PF92Z RD RD RD
+PF92X PA08
+RD YE
+B_GD26X
+BK
+PA10
+(cid:9858)(cid:8380)(cid:9885)(cid:8816)(cid:9862)
+GN 10
+B_GD26Z
+(cid:42)(cid:49)(cid:39)
+BK 13
+PA09
+(cid:12405)(cid:8380)(cid:9885)(cid:8816)(cid:9862) BU 10
+A15FP
+DR
+PF51
+C39-B C44-E 33 1
+C44-E
+4
+A29FP DR-HW F41RP DR-HW
+PR14
+PF92
+(cid:9858)(cid:8380)(cid:9885)(cid:8623)(cid:13230)(cid:10487)
+PF92Y C416
+(cid:37)(cid:14)
+RD 1
+B_GD26Y
+BK
+(cid:12405)(cid:8380)(cid:9885)(cid:8623)(cid:13230)(cid:10487)
+PF92W C414
+(cid:37)(cid:14) RD 1
+B_GD26W B_GD26G B_GD32HA B_GD32GA
+BK B_GD26 BK BK BK
+A41RP
+DR
+江铃福顺 整体系统原理图 161-28
+盲点监测系统
+绫婆
+(cid:22355)(cid:18372)(cid:16111)
+S(cid:13876)R(cid:20814)B(cid:18785))
+(cid:11)(cid:54)(cid:53)(cid:37)(cid:12)
+R14
+I(cid:53)G(cid:20)1(cid:23)
+55A 3 1 V (cid:44)(cid:42)(cid:20) 8A 5A
+继电器
+F92 (cid:20854)(cid:18372)(cid:10487) F99 F51
+(cid:24)(cid:36) (cid:23)(cid:19)(cid:36) (cid:24)(cid:36)
+5 2
+WH-RD
+PF92A PR14F WH-RD PR14A BCC15A WH-RD PF51E PSF99A WH-GN PF51A
+品 品 品
+PR14 PF51 BCM
+C2102c
+IG1继电器
+15
+雷达主机
+C39-B PF92A C44-E PF92G PF92 PF92Z C415 C4MP15 CCANH06 33 RD RD RD 14 IGN C (cid:38)(cid:36) A (cid:49) N (cid:66)(cid:43) H 11 C4MP15 P CC K ANH06 模 通(cid:15536) 块 (cid:10726)讯 11 PK (cid:25257)(cid:24126)
+CCANL06 网络
+CAN CCANL06 1(cid:20960)4-(cid:20843)1
+(cid:38)(cid:36)(cid:49)(cid:66)(cid:47) 12 PK-WH 14-1
+右后传感器 12 PK-WH
+PF92X C417b C4MP17 PA08
+B+ C4MP17
+信号 右后信号
+RD 2 YE 8
+B_GD26X
+GND'
+BK
+3
+右中后传感器
+PF92Y C416 C4MP16 PA10
+B+ 信号 C4MP16 右中后信号
+RD (cid:8816)(cid:9862) 2 GN
+2
+B_GD26Y B_GD26Z
+GND' GND
+(cid:42)(cid:49)(cid:39) 3B BK 13
+3
+左中后传感器
+PF92W C414 C4MP14 PAD09
+B+ 信号 C4MP14 左中后信号
+RD (cid:8816)(cid:9862) 2 BU 放 L
+B_GD26W B_GD26G C44-E、 B_GD32HA B_GD32GA
+GND
+(cid:42)(cid:49)(cid:39) BK B_GD26 BK BK BK
+33 RNG1
+RNG1
+3 1 V
+5 2
+WH-RD PR14A
+DR-HW A41RP PSF99A WH-GN
+PF51A
+A99FSP NG-HW A15FP
+DR 品 PSF99A W
+A99FSP
+GN
+GN 10
+B_GD26Z
+B_GD26Z G
+BK 13
+BK 13
+PAD09
+PA09 左
+BK 13
+BK 13
+PAD09
+PA09 左
+D 2
+B_GD26W
+B_GD26W

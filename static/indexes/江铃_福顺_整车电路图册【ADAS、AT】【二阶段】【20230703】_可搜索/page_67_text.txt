@@ -1,0 +1,205 @@
+=== 第67页 ===
+26-1 发动机电子控制 江铃福顺
+A10FE
+DR
+ER01
+A30FE DR-HW
+60FE UB
+B50FE DR-HW D10RE
+DR
+C10RE
+DR
+B13FSE
+DR
+C13FSE
+DR
+A13FSE
+DR
+81FSE
+kB
+F34 F25 F31 F18 (cid:20)(cid:19)(cid:36) (cid:22)(cid:19)(cid:36) (cid:22)(cid:19)(cid:36) (cid:25)(cid:19)(cid:36) 13-4 13-2 13-2 13-1
+15 C2102c ESF31
+(cid:44)(cid:42)(cid:20) 继电(cid:10487) 2 C1270 输(cid:9353) 滤清 + (cid:10487)(cid:9519) 热(cid:10487)
+- 151-8
+(cid:40)(cid:48)(cid:54) 151-1 C1104b 1 C1270
+(cid:17224)(cid:17146)(cid:12687)(cid:9218)(cid:46)(cid:47)(cid:20)(cid:24) 75 (cid:18372)(cid:16671) 91
+(cid:17490)(cid:16200)(cid:9519)(cid:17276)(cid:20854)(cid:18372)(cid:10487)
+20
+(cid:18372)(cid:16671)(cid:22)
+5
+(cid:18372)(cid:16671)(cid:21) 3
+(cid:18372)(cid:16671)(cid:20)
+1
+(cid:51)(cid:38)(cid:48)(cid:20854)(cid:18372)(cid:10487)
+69
+(cid:27411)(cid:17276)(cid:10989)(cid:15536)(cid:10726) 151-1 151-3
+C1513a C1513a
+(cid:13878)(cid:9413)(cid:54)(cid:55) (cid:42)(cid:51)(cid:38) (cid:18372)(cid:16671) 57 2 4
+(cid:42)(cid:51)(cid:38)(cid:48)(cid:3)(cid:44)(cid:39)(cid:8816)(cid:9862) (cid:42)(cid:51)(cid:41)(cid:37) (cid:18372)(cid:16671) 53 1 5 (cid:27411)(cid:17276)(cid:10989) (cid:13876)(cid:10687) (cid:42)(cid:49)(cid:39) C1513b C1E243 27 3 (cid:9519)(cid:17276)(cid:18372)(cid:16671) (cid:18372)(cid:16671) 3 1
+(cid:13876)(cid:10687)(cid:20) C1E244 2 (cid:9519)(cid:17276)(cid:18372)(cid:16671) (cid:18372)(cid:16671) 1 1 (cid:13876)(cid:10687)(cid:21) C1E245 4 (cid:9519)(cid:17276)(cid:18372)(cid:16671) (cid:18372)(cid:16671) (cid:13876)(cid:10687)(cid:22) 4 1 6 C1E246
+(cid:9519)(cid:17276)(cid:18372)(cid:16671) (cid:18372)(cid:16671)
+6 1
+A96KCE KB-DR
+F7 F6 (cid:21)(cid:19)(cid:36) (cid:20)(cid:19)(cid:36) 13-2 13-2
+D10RE HW-DR
+(cid:53)(cid:20) 3 1 30 86 (cid:8394)(cid:20854) F3 (cid:18372)(cid:10487) (cid:20)(cid:19)(cid:36) 13-5 13-2 5 2 87 85
+52FE DR
+A21RE
+B21RE
+UB-HW
+DR-HW
+02KCE
+NB
+C30FE
+B30FE
+DR-HW
+DR-HW
+(cid:53)(cid:20)(cid:21) (cid:16755)(cid:16532)(cid:10487) F99 (cid:20854)(cid:18372)(cid:10487) (cid:23)(cid:19)(cid:36) 13-5 13-2
+EF03
+A51CCB DR-HW A41RP
+B41RP
+DR
+DR
+A99FSP NG-HW AB41RP DR
+F51 (cid:20)(cid:19)(cid:36) 13-5
+A15FP
+DR
+E15FP
+DR
+(cid:53)(cid:20)(cid:23) 1 3 (cid:44)(cid:42)(cid:20) (cid:20854)(cid:18372)(cid:10487) F38 (cid:24)(cid:36) 13-3 13-3 2 5
+PR14 15 C11-e PF51
+1 C11-E
+EF38 LG
+EF34 WH-RD
+ECK20 BN
+EF07C RD-WH
+EF07B RD-WH
+EF06A BU EF07
+ECK69A
+RD-BK
+ECK57A GN-YE EF03D WH-RD
+ECK53 GN-WH ESF18 BK
+ECK27 PK CE243A RD-BK C11-W CE243B RD-BK A_GD11C BK A
+CE244A WH-BN CE244B WH-BN A_GD11D BK A_GD11A BK B CE245A WH CE245B WH A_GD11B BK A_GD11 C CE246A BU-WH CE246B BU-WH
+D
+D71DG_A KB
+(cid:54)(cid:53)(cid:37) 11-4 (cid:40)(cid:45)(cid:37) 11-4
+A
+(cid:9824)(cid:9527)(cid:14793) (cid:18372)(cid:11743)(cid:13878)(cid:9413) 26-3
+G1D131A
+10-8
+G11 10-3
+C10RE DR
+D
+(cid:9824)(cid:9527)(cid:14793) (cid:18372)(cid:11743)(cid:13878)(cid:9413) 26-3
+E10RE DR
+C
+(cid:9824)(cid:9527)(cid:14793) (cid:18372)(cid:11743)(cid:13878)(cid:9413) 26-3
+B10RE DR
+26-1 发动机电子控制 江铃福顺
+SRB 11-4 EJB 11-4
+R14 R12 R1
+3 IG1 3 1 滤清器 30 86 W 主继 F 1 1 5 0 3- 1 A 5 自 2 继 13- 电 3 器 F 1 9 3 9 5 F 5 1 3 3 A - 8 3 F 1 1 3 0 3- 4 A 4 F 3 1 2 0 3- 5 A 2 d 5 2 自 继 13- 电 2 器 F 1 3 32 F 2 7 32 F 1 6 3.2 F 5 1 F 1 (cid:24)3 3 5 5 (cid:36) A - - 2 2 d 87 85中 1 电 3- 器 5 F 3 1 3 3 0 1 - A 2 F 1 1 3 8 1
+PR14BA
+PF51A PF51E BCC15A WH-RD PR14A PSF99A N9-HM 品 EF25 ER12A WH-BU ECK20 EFO3C WH-RD EF03AWH-RDERO1DRDWH EF06 EF05B Qd-HMER01D 0L083 VLO3 ECK69A RD ESF31B ESF31C ESF31A ESF18
+品 品 品 品 孟 品 显 显 益
+PR14
+R14B 15 C11e EF03 O PF51 15C2102c 品 ER12B DR-HW ERO1 ESF31 BCM
+IG1 1 (cid:37) 51 (cid:38) - (cid:48) 10 大 YC11-E 2 C1270 继电器 151-10 输出 滤清 EF03B DR-HW ER01B 3L083 0L083 器加 显 热器
+151-8
+EMS 151-1 C1104b EF38LG A1GD17D C1270 A B B E E C D 点火开关KL?5
+电源 9 7 1 5 EF34 WH-RD 益 电 发 2 子 6 动 - 控 3 机 制 电 (cid:18372) 发 (cid:9824) 2子 (cid:11743) 动 6 (cid:9527) 控 (cid:13878)- (cid:14793) 2 机 (cid:9413) 制 发 (cid:18372) 电 (cid:9824) 2(cid:11743) 动 子 (cid:9527) 6(cid:13878) 控 机 (cid:14793) -(cid:9413) 制 2 发 电 2 子 动 6- 控 机 3 制 发 电 2 子 动 6- 控 机 3 制 26-2 26-2
+G1D131A
+ECK20BN ÷10-8
+燃油加热继电器
+20
+EF07C RD-WH
+电源3
+5
+EF07B RD-WH
+电源2
+EF06A BU EF07 电源1}
+ECK69A
+PCM继电器 69 RD-BK
+预热塞模块 151-1 151-3
+ECK57A GN-YE C1513a C1513a EF03D WH-RD
+控制ST GPC 电源
+57 ECK53 GN-WH ESF18 BK
+GPCMID信号 GPFB 电源
+53 ECK27PK 5 预热塞 接地 GND C1513b CE243A RD-BK C11-W CE243B RD-BK C1E243 27 ALGD11C BK 3 加热电源 电源 接地1 3 CE244AWH-BN A CE244B WH-BN C1E244
+A_GD11D BK A_GD11A BK 加热电源 电源 接地2 A_GD11B BK ●1 A_GD11 专1 G 10 1 - 1 3 加热电源 CE245A WH B c CE245B WH C1E245 电源 接地3 6 CE246A BU-WH CE246B BU-WH C1E246 加热电源 电源
+6 D'
+F51
+F51
+10A
+1(cid:20)3(cid:19)-(cid:36)5
+13-5 R14
+3 I(cid:53)G(cid:20)1(cid:23)
+1 3 继(cid:44)(cid:42)电(cid:20)器
+自
+(cid:20854)(cid:18372)(cid:10487)
+13-3
+2 13-3
+2 5 F99
+1F3995
+(cid:23)(cid:19)(cid:36)
+13-5
+PF51E
+E15FP
+DR 品
+ESF31C
+C13FSE
+DR ESF31A
+A13FSE
+DR
+3 1
+3 1
+自
+d
+5 2
+5 2
+0L083
+C10RE
+显
+DR
+O VLO3
+A10FE
+DR
+WH-RDERO1D
+DR-HW D10RE
+F03
+EF03
+5
+5 EF07B RD-WH
+EF07B RD-WH
+3 E E F F0 0 6 6 A A B B U U E E F F 0 07 7
+1
+ECK69A
+ECK69A
+57
+57 ECK53 GN-WH 2
+ECK53 GN-WH
+5 5 3 3 ECK27PK 1
+ECK27 PK
+3 3 CE244AWH-BN A A
+CE244A WH-BN CE244B WH-BN C1E2414
+CE244B WH-BN C1E244 电源
+(cid:18372)(cid:16671)
+电源
+(cid:18372)(cid:16671)
+电源
+(cid:18372)(cid:16671)
+电源
+B
+1 CE245A WH B
+CE245A WH CE245B WH C1E2415
+CE245B WH C1E245
+c
+4 CE246A BU-WH C
+CE246A BU-WH CE246B BU-WH C1E2461
+CE246B BU-WH C1E246
+A_GD11D BK
+2 A_GD11D BK
+●
+4A _ G D 1 1 B B K
+A _ G D 1 1 B B K

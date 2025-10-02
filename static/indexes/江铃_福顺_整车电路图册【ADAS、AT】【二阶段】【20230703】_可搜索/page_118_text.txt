@@ -1,0 +1,85 @@
+=== 第118页 ===
+江铃福顺 遥控无钥匙进入与报警系统 117-2
+江铃福顺 遥控无钥匙进入与报警系统 117-2
+PEPS 151-10
+(cid:51)(cid:40)(cid:51)(cid:54) 151-10
+C2028c PEC2 0G C2016 PEPS高性能天线
+仪 (cid:8569) 表 (cid:23287) 台 (cid:9855) 高 (cid:28007) 性 (cid:12982) 能 (cid:21388) 天 (cid:11192) 线 (cid:20814)(cid:14) + 2 C2028c PEC2 OG C2016 (cid:14) ( 1 (cid:51) (cid:11)(cid:8569) 仪 5 (cid:40) 1(cid:23287) (cid:51) 表 -5 (cid:54) (cid:9855) 台 (cid:28007) (cid:12) ) (cid:12982)(cid:21388)(cid:11192)(cid:20814)
+2 PEC3 WH 1 151-5
+PEC3 WH
+仪表台高性能天线-
+(cid:8569)(cid:23287)(cid:9855)(cid:28007)(cid:12982)(cid:21388)(cid:11192)(cid:20814)(cid:16) 3 2 (cid:16)
+3 2
+PECO6A BU C22-A PECO6B BU C3AB PEC06C BU C505 左前
+左 (cid:12405) 前 (cid:9436) 高 (cid:28007) 性 (cid:12982) 能 (cid:21388) 天 (cid:11192) 线 (cid:20814)(cid:14) + 6 PEC06A BU C22- 2 A 9 PEC06B BU C3A 2 -B 0 PEC06C BU C505 (cid:14) 高 1 (cid:12405) (cid:28007)51 性 (cid:9436) (cid:12982)-1 能 (cid:21388)6(cid:11192) 天 (cid:20814) 线
+6 PEC12A YE 29 PEC12BYE 20 PEC12CYE 1 151-16
+PEC12A YE PEC12B YE PEC12C YE
+左前高性能天线-
+(cid:12405)(cid:9436)(cid:28007)(cid:12982)(cid:21388)(cid:11192)(cid:20814)(cid:16) 12 28 21 2 (cid:16)
+12 28 21 2
+PEC10A WH PEC10B WH C39B PEC10 WH C3303 PEPS高性能天线
+后左低频天线+ PEC10A WH PEC10B WH C39-B PEC10 WH C3303 ( (cid:51) 左 (cid:40)(cid:51) 后 (cid:54)(cid:28007) ) (cid:12982)(cid:21388)(cid:11192)(cid:20814)
+(cid:9885)(cid:12405)(cid:8669)(cid:27424)(cid:11192)(cid:20814)(cid:14) 10 2 15 (cid:14) 1(cid:6628)51(cid:12405)-1(cid:9885)2(cid:6629)
+10 PEC11A GN 2← PEC11B GN 15 PEC11 GN 1 151-12
+PEC11A GN PEC11B GN PEC11 GN
+后左低频天线-
+(cid:9885)(cid:12405)(cid:8669)(cid:27424)(cid:11192)(cid:20814)(cid:16) 11 3 14 2 (cid:16)
+11 3 14 2
+PEC08B BN C22-B PECOBC BN C3BB PEC08C BN C602 右前
+右前高性能天线+! PEC08B BN C22-B PEC08C BN C3B-B PEC08C BN C602 高 (cid:9858) 性 (cid:9436) 能天线
+(cid:9858)(cid:9436)(cid:28007)(cid:12982)(cid:21388)(cid:11192)(cid:20814)(cid:14) 8 29 17 (cid:14) 1(cid:28007)51(cid:12982)-1(cid:21388)7(cid:11192)(cid:20814)
+8 29 17 1 151-17
+PEC09B GN PECO9CGN PEC09C GN
+PEC09B GN PEC09C GN PEC09C GN
+右前高性能天线-
+(cid:9858)(cid:9436)(cid:28007)(cid:12982)(cid:21388)(cid:11192)(cid:20814)(cid:16) 9 28 18 2 (cid:16)
+9 28 18 2
+后右高性能天线- P P E E C C 4 4A A B B U U P P E E C C 4 4B B B B U U C C 3 3 9 9- A A P P E E C C4 4BU BU C C 3 3 3 3 0 04 4 P ( (cid:51) 右 E (cid:40) P (cid:51) 后 S (cid:54) 高 ) (cid:28007) 性 (cid:12982) 能 (cid:21388) 天 (cid:11192)(cid:20814) 线
+(cid:9885)(cid:9858)(cid:28007)(cid:12982)(cid:21388)(cid:11192)(cid:20814)(cid:16) 53 14 2 (cid:16) 1(cid:11)(cid:9858)51-(cid:9885)13(cid:12)
+4 PEC5A YE 53 PEC5B YE 14 PEC5 YE 2 151-13
+后右高性能天线+ PEC5A YE PEC5B YE PEC5 YE
+(cid:9885)(cid:9858)(cid:28007)(cid:12982)(cid:21388)(cid:11192)(cid:20814)(cid:14) 5 54 15 (cid:14)
+5 54 15 1
+2
+2 PEC3 WH 1
+PEC3 WH
+6 29
+6 29
+PEC12A YE
+PEC12A YE 20
+PEC12BYE 20
+PEC12B YE 1
+PEC12CYE
+PEC12C YE
+12 28
+12 28
+PEC10A WH
+PEC10A WH
+10 2
+10 2←
+PEC11A GN
+PEC11A GN 15
+PEC11B GN 15
+PEC11B GN PEC11 GN 1
+PEC11 GN
+8 29
+8 29
+PEC09B GN
+PEC09B GN 17
+17
+PECO9CGN
+PEC09C GN 1
+PEC09C GN
+PEC09C GN
+9 28
+9 28
+PEC4A BU
+PEC4A BU
+53
+4 53
+PEC5A YE
+PEC5A YE 14
+PEC5B YE 14
+PEC5B YE 2
+PEC5 YE 2
+PEC5 YE

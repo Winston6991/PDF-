@@ -1,0 +1,150 @@
+=== 第88页 ===
+江铃福顺 辅助约束系统 46-2
+江铃福顺 辅助约束系统 46-2
+仪 (cid:8569) 表 (cid:23287) 台 (cid:9855)(cid:12687) 开 (cid:9218) 关 1 1 5 5 1 1 - -5 5 B (cid:37)(cid:38) C (cid:48) M 1 1 5 5 1 1 - -1 1 0 0
+C1118BCC01B C22-A BCC01A C2102c
+危险警示开关LED C1118 BCC01B C22-A BCC01A C2102c 危险警示开关LED输出
+-----(cid:9728)(cid:26872)(cid:24053)(cid:19401)(cid:12687)(cid:9218)(cid:47)(cid:40)(cid:39) 8 BN 52 BN (cid:9728)(cid:26872)(cid:24053)(cid:19401)(cid:12687)(cid:9218)(cid:47)(cid:40)(cid:39)(cid:25122)(cid:9353)
+8 BN 52 BN 1
+BCCO2B C22-B BCC02A
+BCC02B C22-B BCC02A
+白 (cid:18700) 天 (cid:11192) 模 (cid:15536) 式 (cid:12702) 信 (cid:8816)(cid:9862) 号 14 GN-BU 9 GN-BU 2 白 (cid:18700) 天 (cid:11192) 模 (cid:15536) 式 (cid:12702) 输 (cid:25122)(cid:9353) 出
+14 GN-BU 9 GN-BU 2
+BCD19A BCD19A C2102d
+BCD19A BCD19A C2102d
+危险警告灯开关 危险警告灯开关输入
+(cid:9728)(cid:26872)(cid:24053)(cid:9945)(cid:17150)(cid:12687)(cid:9218) 3
+3
+B
+B
+N
+N
+5
+5
+1
+1
+B
+B
+N
+N
+1
+1
+9
+9
+1-(cid:9728),(cid:26872)(cid:24053)(cid:9945)(cid:17150)(cid:12687)(cid:9218)(cid:25122)(cid:9204)
+组合开关
+(cid:20819)(cid:9879)(cid:12687)(cid:9218)
+时钟弹簧 151-5
+巡航信号- C C 1 1 1 1 7 71 1 b b S S W W M M 0 03 3 C C 2 2 1 1 1 1 5 5 (cid:14469) 巡 (cid:26414) 航 (cid:12744) 信 (cid:20150) 号- 151-5 驾 (cid:27917) 驶 (cid:27909)(cid:9959) 员 (cid:11800) 安 (cid:9207) 全 (cid:16035) 气 (cid:10585) 囊 1 1 5 5 1 1 - -5 5
+(cid:12400)(cid:21689)(cid:8816)(cid:9862)(cid:16) 1 1 5 5 G SG N WN - M-B B OK K 4 1 14 4 (cid:12400)(cid:21689)(cid:8816)(cid:9862)(cid:16) (cid:16) (cid:16)
+里程信号 SWM04 里程信号
+(cid:25691)(cid:19610)(cid:8816)(cid:9862) 1 G G N N - -R R D D 1 1 (cid:25691)(cid:19610)(cid:8816)(cid:9862) (cid:14) (cid:14)
+SWM12
+SWM12
+里程- 里程-
+(cid:25691)(cid:19610)(cid:16) 3 YE 3 (cid:25691)(cid:19610)(cid:16)
+3 SYWEM13 3
+巡航信号2 SWM13 巡航信号2
+(cid:12400)(cid:21689)(cid:8816)(cid:9862)(cid:21) 16 VT 15 (cid:12400)(cid:21689)(cid:8816)(cid:9862)(cid:21) 安全气囊模块 151-9
+16 VT 15 C2115g SR10A C22-B SR10B C2114a (cid:11800)(cid:9207)(cid:16035)(cid:10585)(cid:15536)(cid:10726) 151-9
+气囊+ C2115g SR10A C22-B SR10B C2114a
+(cid:16035)(cid:10585)(cid:14) 驾驶员前气囊+
+YE-WH 52 YE-WH 10 (cid:27917)(cid:27909)(cid:9959)(cid:9436)(cid:16035)(cid:10585)(cid:14)
+1 YE-WH 52 YE-WH 10←
+气 (cid:16035) 囊 (cid:10585) - (cid:16) 22 V S S
+V
+R T R
+T
+1 G
+-
+1
+G
+1 1 N
+N
+A A 4
+4
+4
+4
+S V S
+V
+R T R
+T
+1 -
+-
+1
+G
+1 G 1
+N
+B B N 1
+1
+1
+1
+驾 (cid:27917) 驶 (cid:27909) 员 (cid:9959) 前 (cid:9436) 气 (cid:16035) 囊 (cid:10585) - (cid:16)
+驾驶员安全带预紧器 151-12
+(cid:27917)(cid:27909)(cid:9959)(cid:11800)(cid:9207)(cid:12469)(cid:27411)(cid:20406)(cid:10487) 151-12 C3120a SR16A C39-B SR16A
+C3120a SR16A C39-B SR16A
+驾驶员安全带预紧-
+(cid:16) BU-GN 26 BU-GN 16 (cid:27917)(cid:27909)(cid:9959)(cid:11800)(cid:9207)(cid:12469)(cid:27411)(cid:20406)(cid:16)
+1 SBRU1-G7NA 26
+S
+B
+R
+U
+1
+-G
+7
+N
+A
+16
+SR17A SR17A 驾驶员安全带预紧+
+(cid:14) 22 G G N N - -B B K K 2 2 5 5 G G N N - -B B K K 吉 1 17 7 (cid:27917)(cid:27909)(cid:9959)(cid:11800)(cid:9207)(cid:12469)(cid:27411)(cid:20406)(cid:14)
+8 BN 52 BN
+8 BN 52 BN 1
+BCCO2B C22-B BCC02A
+BCC02B C22-B BCC02A
+14 GN-BU 9
+14 GN-BU 9
+BCD19A
+BCD19A GN-BU 2
+GN-BU 2
+BCD19A C2102d
+BCD19A C2102d
+巡航信号-
+(cid:12400)(cid:21689)(cid:8816)(cid:9862)(cid:16)
+里程信号
+(cid:25691)(cid:19610)(cid:8816)(cid:9862)
+里程-
+(cid:25691)(cid:19610)(cid:16)
+巡航信号2
+(cid:12400)(cid:21689)(cid:8816)(cid:9862)(cid:21)
+15 GN-BK 14
+15 SGWNM-BOK4 14
+SWM04
+GN-RD 1
+1 GN-RD 1
+SWM12
+SWM12
+3 YE 3
+3 SYWEM13 3
+SWM13
+YE-WH 52
+1 YE-WH 52
+SR11A
+SR11A YE-WH 10
+YE-WH 10←
+SR11B
+SR11B
+BU-GN 26
+1 SBRU1-G7NA 26
+SR17A BU-GN 16
+BU-GN 16
+SR17A
+SR17A
+驾驶员前气囊+
+(cid:27917)(cid:27909)(cid:9959)(cid:9436)(cid:16035)(cid:10585)(cid:14)
+驾驶员前气囊-
+(cid:27917)(cid:27909)(cid:9959)(cid:9436)(cid:16035)(cid:10585)(cid:16)
+驾驶员安全带预紧-
+(cid:27917)(cid:27909)(cid:9959)(cid:11800)(cid:9207)(cid:12469)(cid:27411)(cid:20406)(cid:16)
+驾驶员安全带预紧+
+(cid:27917)(cid:27909)(cid:9959)(cid:11800)(cid:9207)(cid:12469)(cid:27411)(cid:20406)(cid:14)

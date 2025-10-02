@@ -1,0 +1,51 @@
+=== 第105页 ===
+90-3 转向信号灯 / 制动灯 / 危险警告灯 江铃福顺
+C1108
+C1109
+A61DG_A
+KB
+C1108 A_GD16E BK
+(cid:25083)(cid:9888)(cid:17150)(cid:16) BCA13C GN-RD 10 9 (cid:25083)(cid:9888)(cid:17150)(cid:14) A_GD16G BK (cid:9211)(cid:9216)(cid:16) A_GD16 BCD36E GN-WH 6 (cid:8668)(cid:20989)(cid:17150)(cid:14) 4
+G1D129
+10-5
+(cid:37)(cid:38)(cid:48) 150-10
+A131DG_A
+KB
+(cid:12405)(cid:11190)(cid:17150)(cid:20819) 151-7
+(cid:25083)(cid:9888)(cid:8816)(cid:9862)(cid:17150)(cid:18)(cid:9413)(cid:9527)(cid:17150) (cid:18)(cid:3)(cid:9728)(cid:26872)(cid:24053)(cid:9945)(cid:17150) A 90-2 (cid:25083)(cid:9888)(cid:8816)(cid:9862)(cid:17150)(cid:18)(cid:9413)(cid:9527)(cid:17150) B (cid:18)(cid:3)(cid:9728)(cid:26872)(cid:24053)(cid:9945)(cid:17150) 90-2
+(cid:9858)(cid:11190)(cid:17150)(cid:20819) 151-8 (cid:25083)(cid:9888)(cid:8816)(cid:9862)(cid:17150)(cid:18)(cid:9413)(cid:9527)(cid:17150) BCD36FS GN-WH (cid:18)(cid:3)(cid:9728)(cid:26872)(cid:24053)(cid:9945)(cid:17150) D (cid:8668)(cid:20989)(cid:17150)(cid:14) C1109 A_GD17H BK
+90-2 4 (cid:25083)(cid:9888)(cid:17150)(cid:16)
+10
+A_GD17I BK (cid:25083)(cid:9888)(cid:8816)(cid:9862)(cid:17150) BCA15C GN-RD (cid:9211)(cid:9216)(cid:16) 6 A_GD17 (cid:18)(cid:9413)(cid:9527)(cid:17150) C (cid:25083)(cid:9888)(cid:17150)(cid:14)
+(cid:18)(cid:3)(cid:9728)(cid:26872)(cid:24053)(cid:9945)(cid:17150) 9
+90-2
+G1D131
+10-6 (cid:28007)(cid:8668)(cid:9416)(cid:25077)(cid:17150) 151-18 BCA11C C39-B BCA11CE BCA11CE C483 C483 B_GD32CD B_GD32CE
+(cid:14) (cid:42)(cid:49)(cid:39) B_GD32 GY 57 GY GY 2 1 BK BK
+G4D149
+10-8
+AG23DG_A
+HW-KB
+90-3 转向信号灯/制动灯/危险警告灯 江铃福顺
+左大灯组 151-7
+C1108 A_GD16E BK
+转向灯-
+转向信号灯/制动灯 BCA13C GN-RD C1108 10 /危险警告灯 A 转向灯+ A_GD16G BK 90-2 9 公共- OA_GD16 转向信 / 号 危 灯 险 / 警 制 告 动 灯 灯 B BCD36E GN-WH 位置灯+ 6 V9LQ9V 90-2 4
+益
+G1D129
+÷10-5
+右大灯组 151-8
+转向信号灯/制动灯 BCD36FS GN-WH C1109 /危险警告灯 D 位置灯+ C1109 A_GD17H BK 90-2 4 转向灯-
+10
+A_GD171 BK
+转向信号灯 公共- AGD131A● ALGD17 BCA15C GN-RD 6 /制动灯 C 转向灯+ /危险警告灯 9
+90-2
+益
+G1D131
+BCM 150-10
+÷10-6
+高位刹车灯 151-18 高位刹车灯输出 C C 2 2 1 1 0 0 2 2 a a B B C C A A 1 1 1 1A A B B C C A A 1 1 1 1 BCA11C C39-B、 BCA11CE C C 44 4 - 4 D - 、 D BCA11CE C483 GND C483 B_GD32CDC C 4 4 4 4 - -D D B_GD32CE OB_GD32
+(cid:28007)(cid:8668)(cid:9416)(cid:25077)(cid:17150)(cid:25122)(cid:9353) 1 1 1 1 G G Y Y GY 57 GY 7 7 GY 2 1 BK 8 BK A_GD32GA
+BK-WH
+G4D149
+吉10-8

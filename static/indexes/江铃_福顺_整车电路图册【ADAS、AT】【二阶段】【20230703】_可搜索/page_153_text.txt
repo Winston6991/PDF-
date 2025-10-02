@@ -1,0 +1,566 @@
+=== 第153页 ===
+150-9 接插件视图 江铃福顺
+150-9 接插件视图 江铃福顺
+C1231 C1229
+C1231 C1229
+12B637 12B637
+12B637 12B637
+电电磁磁阀阀 挡挡位位开开关关
+④
+321
+4 3 2 1
+2 2 4 4 1199
+18 13
+18 13
+12 针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+12 7 1 TCU42 RD 0.75 5V
+1 TCU42 RD 0.75 5V
+6 6 1 2 TCU34 BK 0.75 GND
+2 TCU34 BK 0.75 GND
+3 TCU41 OG 0.75 PWM
+3 TCU41 OG 0.75 PWM
+4 TCU40 VT-YE 0.5 PWMK
+4 TCU40 VT-YE 0.5 PWMK
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1
+1
+T
+T
+C
+C
+U
+U
+0
+0
+6
+6B
+B W
+W
+H
+H
+-
+-R
+R
+D
+D 0
+0
+.
+.5
+5 A
+A
+正正极极
+2
+2
+T
+T
+C
+C
+U
+U
+1
+11
+1
+C
+C Y
+Y
+E
+E
+-
+-R
+R
+D
+D 0
+0
+.
+.5
+5 B
+B
+正正极极
+3
+3
+T
+T
+C
+C
+U
+U
+1
+1
+2
+2B
+B B
+B
+U
+U
+0
+0
+.
+.5
+5 D
+D
+正正极极
+4 4 T T C C U U 0 0 6 6C C W W H H - -R R D D 0 0 . .5 5 EE正正极极
+5 6 5 6 T T T T C C C C U U U U 1 1 1 11 1 2 2 D C D C Y Y E B E B - - U U R R D D 0 0 0 0 . . . . 5 5 5 5 C S C S L 正 L 正 U U 正 极极 正 极 极 C 1 C 2 1 1 B 2 2 6 3 3 3 2 2 7
+7 TCU45 YE-RD 0.5 A负极 12B637
+9 8 7 8 T T T T C C C C U U U U 0 4 4 0 5 9 9 8 Y G Y Y E Y E E - - - - R B B BN D N K 0 00 0 . ..7 . 7 5 55 5 B D A B 负 负 负 负极 极 极 极 发发电电机机
+1 1 1
+9
+1 0 0 T T
+T
+T C C
+C
+C U U
+U
+U 4 0
+4
+4 4
+8
+4 8
+GB
+V
+Y
+B
+-K
+TK
+BK
+0 0
+0
+0 . .
+.
+. 7
+5
+5 5 5 E C
+D
+E 负 负 负
+负
+极 极 极
+极
+-
+11 TCU08 VT 0.75 C负极
+1
+12
+2 T
+T
+C
+C
+U
+U
+3
+33
+3 B
+B
+K
+K
+-
+-G
+G
+Y
+Y 0
+0
+.
+.7
+7
+5
+5 S
+S
+L
+L
+U
+U
+负负极极
+2 1
+1 13 3 T T C C U U 1 1 1 1E E Y Y E E - -R R D D 0 0 . .5 5 S S L L T T 正正极极 2 1
+1
+14
+4 T
+T
+C
+C
+U
+U
+0
+0
+6
+6D
+D W
+W
+H
+H
+-
+-R
+R
+D
+D 0
+0
+.
+.5
+5 S
+S
+1
+1
+正正极极
+15 TCU38 YE 0.75 油温传感器正极
+1
+15
+6 T
+T
+C
+C
+U
+U
+4
+38
+3
+VYTE
+0
+0
+.
+.7
+7
+5
+5 输
+油
+入
+温
+转
+传
+速
+感
+传
+器
+感
+正
+器
+极
+正极
+1
+16
+7 T
+T
+C
+C
+U
+U
+1
+4
+1
+3
+B
+YEV-TRD
+0
+0.
+.
+7
+5
+5
+驻
+输
+车
+入
+电
+转
+磁
+速
+阀
+传
+正
+感
+极
+器正极
+17 TCU11B YE-RD 0.5 驻车电磁阀正极
+1 18 8 T T C C U U 5 53 3 V V T T - -Y Y E E 0 0 . .5 5 输输出出转转速速传传感感器器正正极极
+1 19 9 T T C C U U 1 10 0 W W H H 0 0 . .7 7 5 5 SSLLTT负负极极
+2
+2
+2 1 0
+0 T
+T T C
+C
+C U
+U
+U 4
+4
+46 9
+6 V
+V
+T
+Y T
+-
+- E Y
+Y
+E
+E
+0
+0
+0 .
+.
+. 7 5
+5
+5
+S
+油 S
+1
+1 温
+负负
+传
+极极
+感器负极 针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+21 TCU49 YE 0.75 油温传感器负极 1 ECK82B BU-GN 0.5 LIN
+2 22 2 T T C C U U 6 60 0 G G N N 0 0 . .5 5 输输入入转转速速传传感感器器负负极极 2 1 ECK82B BU-GN 0.5 未 LIN 使用
+2 23 3 T T C C U U 3 3 6 6 B B K K - -G G Y Y 0 0 . .7 7 5 5 驻驻车车电电磁磁阀阀负负极极 2 - - - 未使用
+2 2 4 4 T T C C U U 6 6 2 2 Y Y E E - -B B K K 0 0 . .5 5 输输出出转转速速传传感感器器负负极极
+C1231
+C1231
+12B637
+12B637
+电电磁磁阀阀
+2 2 4 4 1199
+18 13
+18 13
+12
+12 7
+6
+6 1
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1 T C U 0 6 B W H - R D 0 . 5 A 正正极极
+1 T C U 0 6B W H -R D 0 .5 A
+2 T C U 1 1 C Y E - R D 0 . 5 B 正正极极
+2 T C U 11 C Y E -R D 0 .5 B
+3 T C U 1 2 B B U 0 . 5 D 正正极极
+3 T C U 1 2B B U 0 .5 D
+4 4 T T C C U U 0 0 6 6C C W W H H - -R R D D 0 0 . .5 5 EE正正极极
+5 5 T T C C U U 1 11 1 D D Y Y E E - -R R D D 0 0 . .5 5 CC正正极极
+6 TCU12C BU 0.5 SLU正极
+6 TCU12C BU 0.5 SLU正极
+7 TCU45 YE-RD 0.5 A负极
+7 TCU45 YE-RD 0.5 A负极
+9 8 8 T TT C CC U UU 0 409 9 8 Y GY E YE - --B B BN N K 0 00 . ..7 7 55 5 B D B 负 负 负极 极 极
+9 T C U 4 8 GBY-KBK 0 .5 D 负 极
+1 0 T C U 4 4 0 . 5 E 负 极
+1 0 T C U 44 VBTK 0 . 5 E 负 极
+1 1 T C U 0 8 0 . 7 5 C 负 极
+11 TCU08 VT 0.75 C负极
+1 2 T C U 3 3 B K - G Y 0 . 7 5 S L U 负负极极
+12 T C U 33 B K -G Y 0 .7 5 S L U
+1 3 T C U 1 1 E Y E - R D 0 . 5 S L T 正正极极
+13 T C U 1 1E Y E -R D 0 .5 S L T
+1 4 T C U 0 6 D W H - R D 0 . 5 S 1 正正极极
+14 T C U 0 6D W H -R D 0 .5 S 1
+15 TCU38 YE 0.75 油温传感器正极
+15 T C U 38 VYTE 0 .7 5 油 温 传 感 器 正 极
+1 6 T C U 4 3 0 . 7 5 输 入 转 速 传 感 器 正极
+16 T C U 4 3 YEV-TRD 0. 7 5 输 入 转 速 传 感 器正极
+1 7 T C U 1 1 B 0 . 5 驻 车 电 磁 阀 正 极
+17 TCU11B YE-RD 0.5 驻车电磁阀正极
+1 18 8 T T C C U U 5 53 3 V V T T - -Y Y E E 0 0 . .5 5 输输出出转转速速传传感感器器正正极极
+1 19 9 T T C C U U 1 10 0 W W H H 0 0 . .7 7 5 5 SSLLTT负负极极
+2 0 T C U 4 6 V T - Y E 0 . 5 S 1 负负极极
+20 T C U 46 V T -Y E 0 .5 S 1
+21 TCU49 YE 0.75 油温传感器负极
+21 TCU49 YE 0.75 油温传感器负极
+2 22 2 T T C C U U 6 60 0 G G N N 0 0 . .5 5 输输入入转转速速传传感感器器负负极极
+2 23 3 T T C C U U 3 3 6 6 B B K K - -G G Y Y 0 0 . .7 7 5 5 驻驻车车电电磁磁阀阀负负极极
+2 2 4 4 T T C C U U 6 6 2 2 Y Y E E - -B B K K 0 0 . .5 5 输输出出转转速速传传感感器器负负极极 C1229
+C1229
+12B637
+12B637
+挡挡位位开开关关
+321
+④
+4 3 2 1
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1 TCU42 RD 0.75 5V
+1 TCU42 RD 0.75 5V
+2 TCU34 BK 0.75 GND
+2 TCU34 BK 0.75 GND
+3 TCU41 OG 0.75 PWM
+3 TCU41 OG 0.75 PWM
+4 TCU40 VT-YE 0.5 PWMK
+4 TCU40 VT-YE 0.5 PWMK
+C1232
+C1232
+12B637
+12B637
+发发电电机机
+-
+2 1
+2 1
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1 ECK82B BU-GN 0.5 LIN
+1 ECK82B BU-GN 0.5 LIN
+2 未使用
+2 - - - 未使用
+8
+8
+2
+2
+针针脚脚
+1
+1
+2
+2 电电路路
+TCU42
+TCU42
+TCU34
+TCU34 线线色色
+RD 0
+RD 0
+BK 0
+BK 0 规规格格
+.75 5V
+.75 5V
+.75 GND
+.75 GND 线线路路功功能能 区区分分条条件件
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1
+1 TCU06B
+TCU06B WH-RD
+WH-RD 0.5 A
+0.5 正正极极
+A
+2
+2 TCU11C
+TCU11C YE-RD
+YE-RD 0.5 B
+0.5 正正极极
+B
+3
+3 TCU12B
+TCU12B BU
+BU 0.5
+0.5 D 正正极极
+D
+4
+4 TCU06C
+TCU06C WH-RD
+WH-RD 0 0 . .5 5 E E正正极极
+5
+5 TCU11D
+TCU11D YE-RD
+YE-RD 0.5
+0.5 CC正正极极
+6
+6 TCU12C
+TCU12C BU
+BU 0.5
+0.5 SLU正极
+SLU正极
+7
+7 TCU45
+TCU45 YE-RD
+YE-RD 0.5 A
+0.5 负极
+A负极
+8
+8 TCU09
+TCU09 YE-BN
+YE-BN 0.75 B
+0.75 负负极极
+B
+9
+9
+10
+10 TCU48
+TCU48
+TCU44
+TCU44 GY-BK
+GBY-KBK
+BK 0.5
+0.5
+0.5 E
+0.5 D负极
+D负极
+负极
+E负极
+11
+11
+12
+12 TCU08
+TCU08
+TCU33
+TCU33 VT
+VT
+BK-GY
+BK-GY 0.75
+0.75
+0.75
+0.75 C负极
+C负极
+S L U 负负极极
+S L U
+13
+13 TCU11E
+TCU11E YE-RD
+YE-RD 0.5
+0.5 S L T 正正极极
+S L T
+14
+14 TCU06D
+TCU06D WH-RD
+WH-RD 0.5
+0.5 S 1 正正极极
+S 1
+15
+15 TCU38
+TCU38 YE
+YE 0.75
+0.75 油温传感器正极
+油温传感器正极
+16
+16 TCU43
+TCU43 VT
+VT 0.75
+0.75 输入转速传感器正极
+输入转速传感器正极
+17
+17 TCU11B
+TCU11B YE-RD
+YE-RD 0.5
+0.5 驻车电磁阀正极
+驻车电磁阀正极
+18
+18 TCU53
+TCU53 VT-YE
+VT-YE 0.5
+0.5 输输出出转转速速传传感感器器正正极极
+19
+19 TCU10
+TCU10 WH
+WH 0.75
+0.75 SSLLTT负负极极
+20
+20 TCU46
+TCU46 VT-YE
+VT-YE 0.5 S
+0.5 1 负负极极
+S 1
+21
+21 TCU49
+TCU49 YE
+YE 0.75
+0.75 油温传感器负极
+油温传感器负极
+22
+22 TCU60
+TCU60 GN
+GN 0.5
+0.5 输输入入转转速速传传感感器器负负极极
+23
+23 TCU36
+TCU36 BK-GY
+BK-GY 0.75
+0.75 驻驻车车电电磁磁阀阀负负极极
+24
+24 TCU62
+TCU62 YE-BK
+YE-BK 0.5
+0.5 输输出出转转速速传传感感器器负负极极
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1
+1 ECK82B
+ECK82B BU-GN
+BU-GN 0.5 LIN
+0.5 LIN
+2
+2 - - 未使用
+- 未使用

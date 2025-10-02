@@ -1,0 +1,173 @@
+=== 第117页 ===
+117-1 遥控无钥匙进入与报警系统 江铃福顺
+(cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785)
+(cid:11)(cid:54)(cid:53)(cid:37)(cid:12)
+11-4
+3 1 F98
+(cid:23)(cid:19)(cid:36) 13-1 5 2
+(cid:51)(cid:40)(cid:51)(cid:54) 151-10
+C2028a (cid:44)(cid:42)(cid:49)(cid:21)(cid:20854)(cid:18372)(cid:10487)(cid:13878)(cid:9413) C2028a
+24 (cid:44)(cid:42)(cid:49)(cid:21)(cid:17733)(cid:12944)(cid:9820)(cid:27671)
+6 (cid:44)(cid:42)(cid:49)(cid:20)(cid:17733)(cid:12944)(cid:9820)(cid:27671)
+19 BCANH08 (cid:38)(cid:36)(cid:49)(cid:66)(cid:43) 8 YE
+(cid:44)(cid:42)(cid:49)(cid:20)(cid:20854)(cid:18372)(cid:10487)(cid:13878)(cid:9413) BCANL08 11
+(cid:38)(cid:36)(cid:49)(cid:66)(cid:47)
+9 BU
+(cid:18372)(cid:16671) (cid:40)(cid:54)(cid:51) 151-1 2 (cid:13876)(cid:10687)
+15 GD26 C1001a ECK54A 10-2
+(cid:8939)(cid:25077)(cid:17150)(cid:12687)(cid:9218)(cid:8816)(cid:9862)
+30 WH-RD
+(cid:36)(cid:37)(cid:54) 151-1
+C1001a ECK54A (cid:8939)(cid:25077)(cid:17150)(cid:12687)(cid:9218)(cid:8816)(cid:9862)
+18 WH-RD
+(cid:9413)(cid:9527)(cid:12687)(cid:9218) 151-9
+C2208 ECK54B ECK54DC22-A EMSK54C (cid:8939)(cid:25077)(cid:17150)(cid:12687)(cid:9218)(cid:8816)(cid:9862) (cid:9416)(cid:25077)(cid:24734)(cid:14862)(cid:12687)(cid:9218) 4 WH-RD S2CB08 WH-RD 60 WH-RD 16 (cid:9824)(cid:9527)(cid:14793)(cid:13878)(cid:9413)(cid:9700)(cid:9170)(cid:37) 151-1
+C1104b ECK54A C11-E ECK54C
+(cid:8939)(cid:25077)(cid:17150)(cid:12687)(cid:9218)(cid:8816)(cid:9862) 54 WH-RD 4 WH-RD
+(cid:37)(cid:38)(cid:48) 151-1 GD27
+10-2
+C2102d
+(cid:11827)(cid:9236)(cid:21339)(cid:14590)(cid:17150)(cid:25122)(cid:9353) 23
+A89FSP NG-HW A31RP KB-DR D42AEP
+EY
+C15FP
+DR
+(cid:53)(cid:20)(cid:22) (cid:44)(cid:42)(cid:21)(cid:63) (cid:36)(cid:38)(cid:38)
+(cid:20854)(cid:18372)(cid:10487)
+S2BF98
+PF51
+D15FP
+DR
+C42AEP
+EY
+A51FP
+NB
+A69FSP NB
+F96
+(cid:25)(cid:19)(cid:36) 13-6
+A57FP
+NB
+F75
+(cid:20)(cid:19)(cid:36) 13-9
+X51RP EY-DR
+F93
+(cid:24)(cid:36) 13-6
+B60AEP DR-NB
+PEA06A
+BN-RD
+A15FP
+DR
+F51
+(cid:20)(cid:19)(cid:36) 13-6
+PF55
+A55FP
+DR
+E55FP
+DR
+(cid:53)(cid:20)(cid:24) 1 3 (cid:44)(cid:42)(cid:21) F55 (cid:20854)(cid:18372)(cid:10487)
+(cid:21)(cid:24)(cid:36) 13-6 13-6 13-7 2 5
+PF15
+E15FP
+DR
+B11AEP HW-DR A41RP DR A99FSP NG-HW
+F99
+(cid:23)(cid:19)(cid:36) 13-5
+PR14
+Y41RP HW
+F85
+(cid:24)(cid:36) 13-5
+B91AEP DR-HW
+117-1 遥控无钥匙进入与报警系统 江铃福顺
+蓄电池
+接线盒 区 (SRB)
+11-4
+R14 R13 R15
+F55 F75 自 1 1 3 3 I 继 (cid:53) (cid:44)(cid:42) G(cid:20) 电 (cid:20) 1(cid:23) 器 F99 F85 F98 3 W I A G C 2 C \ F51 自 1 3 I 继 G 电 2 器 F96 F93 25A 10A 1 (cid:20854) 3- (cid:18372) 5 (cid:10487) 40A 5A 40A 继电器 10A 13-6 60A 5A
+13-6 13-9 2 5 13-5 13-5 13-5 13-1 5 2 13-7 13-6 2 5 13-6 13-6 2 5
+PR14A PSF99A NGHWPR14Y PSF98A NGHWPR13A PSF96A
+: RD哭 PF5A PF55E PF75A PF51E PEA11B RDWH PEA198 WH-RD PEA240 PF51C pE51D PEA24C PF15A PR15X DYE PEA06B BND
+显 孟 品 S2BF98 岁 岁 孟 PR14
+PF55 PF51 PF15
+P P E E A A2 2 4 4 PEPS 151-10
+PEA24B C22A、 PEA24A C2028a
+Y P E EA24B C22-A 19 Y P E EA24A 2 红 4 IGN2继电器控制 C2028aPEA06A C C 2 2 2 2 - -A A
+YE C22-1A9 P Y E E A19A IGN2状态反馈 6 BN-RD 26
+C22-A 18 W P H EA - 1 R 9 D A 19 IGN1状态反馈 BCANH08 26
+C C 2 22 2 -A A 18 P W P E E H A A - 1 R 11 1 D A A CAN_H 8 YE 模 通 (cid:15536) (cid:25257) 讯 块 (cid:10726) (cid:24126) IGN1继电器控制 BCANL08 网络
+2 25 5 R R D D - -W W H H 11 CAN 1 (cid:20960) 4 (cid:20843) 4
+PF75B 9 BU 14-4
+R P R F D D 75B 1 电 (cid:18372) 源 (cid:16671) 接地 A A _ _ G G D D 2 2 6 6C C A A
+C22A PF75D PF75C (cid:13876)(cid:10687) 14 BK
+ESP 151-1 C22 2 -A 2 0 0 R P R F D D 75 P D P F F 7 75 5R P R D F D 75 2 C 电源 接地 14 A A B . _ K G G D D 2 2 6 6D D A A A A _ _ G G D D 2 2 6 6A A B B 15 BK A_GD26-A BK GD26
+C1001a ECK54A BK A_GD26-ABK 10-2 停车灯开关信号
+30 WHRD
+ABS 151-1 PEA22 C2033 一 (cid:8335) 键 (cid:26557)(cid:9918) 启 (cid:9527) 动 (cid:12687) 开 (cid:9218) 关 1 1 5 5 1 1 - -5 5
+C1001a PEA22 C2033
+停车灯开关信号 18 W E H C - K5 R 4 D A 启 (cid:9918) 动 (cid:9527)(cid:12687) 开 (cid:9218) 关 (cid:20) 1 2 2C 2 22028b Y PYE E EB8 8 8 启 (cid:9918)(cid:9527) 动 (cid:12687) 开 (cid:9218) 关 (cid:20) 1
+启动开关2 C2028b PEB8 启动开关2
+制动开关 151-9 (cid:9918)(cid:9527)(cid:12687)(cid:9218)(cid:21) 8 8 P B BE U UB5 1 (cid:9918)(cid:9527)(cid:12687)(cid:9218)(cid:21)
+C2208 ECK54B ECK54D C22-A EMSK54C IGN指示灯 PEB5 绿色指示灯
+停车灯开关信号 4 WHRD S2CB08 WH-RD 60 WHRD 16 刹车踏板开关 (cid:44)(cid:42)(cid:49)(cid:13718)(cid:19401)(cid:17150) 5 5 W P W P E E H H B B 6 6 2 2 (cid:20878)(cid:21761)(cid:13718)(cid:19401)(cid:17150) 发动机控制单元B 151-1 A (cid:36) C (cid:38) C (cid:38) 指 (cid:13718) 示 (cid:19401) 灯 (cid:17150) 6 6 W W H H - - B BU U 6 6 琥 (cid:18100) 珀 (cid:17999) 色 (cid:21761) 指 (cid:13718)(cid:19401) 示 (cid:17150) 灯 PEB13
+C1104b ECK54A C11-E、 ECK54C 启停开关参考地 PEB13 启停开关参考地1
+停车灯开关信号 (cid:9918)(cid:8939)(cid:12687)(cid:9218)(cid:9809)(cid:21138)(cid:10687) 1 1 3 3 O OG G 4 4 (cid:9918)(cid:8939)(cid:12687)(cid:9218)(cid:9809)(cid:21138)(cid:10687)(cid:20)
+54 WH-RD 4 WHRD A_GD27E A_GD27D
+A_GD27E A_GD27D GND
+BCM 151-1 GD27 BK A_GD27 BK 2 (cid:42)(cid:49)(cid:39) ÷10-2 BK A_GD27 BK 3
+C2102d BCD23A C22B BCD23AC BCD23XA
+室内背景灯输出 BCD23A C22-B BCD23AC BCD23XA PWR
+23 BN 10 BN BCD23 BN 5 (cid:51)(cid:58)(cid:53) BN 10 BN BCD23 BN 5
+区
+3
+3 1 W
+5 2
+5 2
+PF55E
+E55FP
+DR PEA11B
+B11AEP
+品
+DR PR14A PSF99A NGHWPR14Y
+A41RP A99FSP NG-HW Y41RP : RDWH PEA198
+DR HW
+HW-DR B91AEP
+PR14
+PR14 PSF99A
+A99FSP PSF98A NGHWPR13A
+A89FSP NG-HW A31RP KB-DR RD哭 WH-RD PEA240
+D42AEP DR-HW
+S2BF98
+S2BF98 PSF98A
+A89FSP PF51C
+C15FP A15FP
+EY DR 岁 pE51D
+D15FP
+DR PSF96A
+A69FSP
+PR15X
+NB
+X51RP
+NB 孟 PSF96A
+A69FSP
+RD
+RD 1
+PF75C
+PF75C
+14 BK
+14 BK
+A.GD26DA
+A_GD26DA
+22 YE 8
+2C22028b PYEEB8 8
+C2028b PEB8
+8 BU
+8 PBEUB5 1
+PEB5
+5 5 W W H H 2 2
+PEB6
+PEB6
+6 6 W W H H - - B BU U 6 6
+PEB13
+PEB13
+18
+A

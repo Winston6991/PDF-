@@ -1,0 +1,146 @@
+=== 第252页 ===
+江铃福顺 整体系统原理图 161-12
+手动空调控制系统-前空调控制系统
+R15 3 1 IG2继电器
+F96 60A 13-6 5 2 A69FSP DR A51FP DR-HW A61CCB DR-NB D15FP DR F72 5A 13-6 A27FP DR D51RP DR F51 5A 13-5 A15FP DR
+蓄电池
+接线盒
+(SRB)
+11-5
+前控制面板 151-15
+13-6 F95 F80 40A 5A 13-9 13-5 BCANH04 C222c CAN_H YE 6 BCANL04 CAN_L BU 7 PF80A C22-A PF80H PF80 PF80G C22-C_2 SBB80F C2101 PCB电源+（IGN） PF51 BK-YE 11 BK-YE BK-YE 3 GY-RD 23
+PF15
+PSF95A PSF95B SB195QS2B159BPSF95C PCB电源+（BATT） BCM RD RD 12 BN-RD RD 21 IGN2 IGN1 鼓风机继电器 151-15 继电器 继电器 16 输出回路 输出回路 C2446 SB195S 电源+（BATT）
+1 RD-YE PF72BS C22-B PF72B C22-C_2 SBB72F SBB72A 18B518 C2446 CH432A
+继电器线圈+继电器线圈- 鼓风机继电器控制-低 PF72 RD 22 RD 4 VT-RD GY-RD 4 5 BN-BK 25 ACJ03 鼓风机+ 3 RD
+鼓风机电机 151-15 VBC01A C2123 C2123
+- + YE 2 1
+调速模块 151-15 C2182 C2182 ACA24
+输出 反馈 调速模块反馈信号 1 4 PK 11 A_GD27A C22-C_2 A_GD27E S2D115 A_GD27D ACA11 接地 CONR 调速模块控制端 BK 17 BK BK 3 2 BN 24
+G2D115-A A_GD27C 10-4 接地 BK 32
+发动机控制单元(EMS)151-1 空调压力开关 151-1 C1104b ECK11 C1423 C1423 A_GD12B
+空调压力切断开关常闭 NC HP 接地 11 YE 1 3 BK GD12 ECK52 ACA16A C11-E ACA16B C22-B 10-4 CH422C C22-C_2 CH422A 空调压力切断开关常开 NO MP AC AC输出请求 52 YE 2 4 GN-WH 28 BN 23 BN 10 OG-BK 16
+E15FP DR A41RP DR
+R14 1 3 IG1
+继电器 F99 13-5 40A 13-5 2 5 PR14 K41RP DR-HW 模块 通信 网络 14-4
+C22-B 38
+A51CCB DR-HW A99FSP NG-HW
+江铃福顺 整体系统原理图161-12
+手动空调控制系统-前空调控制系统
+蓄电池
+热)
+11-5
+R15 R14
+F72 F96 3 1 图 I 1 G 3 2 -6 继电器 F51 F95 WL 1 3 I 继 G 电 1 器 F80 F99 前控制面板 151-15
+5 13 A -6 6 13 0 - A 6 d 5 13 A -5 4 1 0 3 A 9 13-5 1 5 3 A -5 4 13 0 - A 5 i 楚楼 BCANH04。C222c 5 2' 2 5 CAN_H PF72A 显 PR15D 品 SF964 品 VGLd DRHW BCC164 Qd-Na PF51D 显 PF1A 品 P51E BCC15A WH-RD PR14A 品 PR14WHRD PSF9 P A F N 8 G 0 HW A C22-A PF80H PF80PF 网 8 14 0 - 络 G 4 C22-C2 Y B B S C B E U A B N 8 L 0F 04 C 6 2 7 101 CANL电源电 电 电 源+ 源 源 冷 冷 冷 冷 (+ - - 暖 暖 制 暖 暖 （ （ ( 伺 伺 制 伺 伺 制 制冷 服 服服 服 冷 冷 冷 时 电 电 时 时 电 电 时 机 机 ） ） 机 机 ) ) C 3 3 3 3 C 3 4 2 4 3 2 1 1 0 0 1 1 A A A A C C C C A A A A 3 3 3 3 4 3 4 3 V B V B T U T U - -B B K K A A C CA A 0 0 8 8 D D G G Y Y C C 2 2 2 2 5 6 3 32 5 6 2 冷 冷 冷 冷 冷暖 暖 暖 暖 暖伺 伺 伺 伺 伺 服 服 服 服 服 电 电 电电 电 机 机 阻 机 机 + - 接 （( + （ 制 ( 地 制 制 制 冷冷 冷 冷 时时 时 时 ）) ） ) 冷 伺 1 1 冷 伺5 5 1 1 暖 服 暖 服 - - 1 1 风 电 5 风 电 5 门 机 门 机 PF51 PR1 ● 4 BK-YE 11 BK-YE BK-YE 3 GY-RD 23 PCB电源+(IGN) ACA38 RD-0G 1 1 冷暖伺服电阻接地
+冷暖伺服电机反馈信号 ACA38 RD-OG 冶暖伺服电机反馈信号
+冷暖伺服电机反馈信号 38 2 冷暖伺服电机反馈信号
+PF15 38 2
+PSF95A C22-B PSF95B SB1950 S2B159BPSF95C AACCAA0011DD W W H H - - R RD D 冷暖伺服电阻电源+5V BCM RD 38 RD 12 BN-RD RD 21 PCB电源+(BATT) 3 3 冷暖伺服电阻电源+5V CC22110022 1 cc 6 i 一 输 I 继 出 G 电 N 回 2 器 路_ 输 继 出 TI 回 电 GN 路 器 1} ! 1 1 5 5 C C 2 2 1 1 0 0 2 2 c c 鼓风机继电器 151-15 C2446 SB195S 伺 伺 服 服 电 电 阻 阻电 电 源 源 + + 5 5 V V C C 2 2 H H 1 10 0 1 1 A A C C A A D 01 1 A A W W H H - - R RD D ACAD1 A A C C A A O 01 1 C C W W H H - - R RD D C C 2 22 2 2 2 8 3 a a 伺 伺 服 服 电 电阻 阻 电 电 源 源 + + 5 5 V V 伺 模 1 模 伺5 服 1 式 服 式 -1 电 风 电 风 5 门 机 机 门 电源+(BATT) RD-YE 1 ACA08AGY ACA01 ACADBC GY 3 151-15
+PF72BS C22-B PF72B C22-C2 SBB72F SBB72A 18B518 C2446 CH432A 伺伺服服电电机机电电阻阻接接地地 8 ACA08A GY ACA08 ACA08C GY 1 伺伺服服电电阻阻接接地地
+PF72 RD 22 RD VT-RD GY-RD 4 继电器线图+ 继电器线图- 5 BN-BK 25 鼓风机继电器控制低 8 ACA30 OG ACA08 1 ACA30 OG ACJ03 模模式式伺伺服服电电机机 30 5 模模式式伺伺服服电电机机++（(吹吹脸脸时时）) 鼓风机+ 3 RD 电电源源++（(吹吹脸脸时时）) 30 ACA31 YE-BK 5 模式伺服电机 ACA31 YE-BK 模式伺服电机-(吹脸时)
+鼓风机电机 151-15 电电源源 模 -- 式 （(吹 伺 吹 服 脸脸 电 时时 机 ）) 3 3 1 1 6 6 模式伺服电机-（吹脸时） VBC01A C2123 C2123 模模式式伺伺服服电电机机反反馈馈信信号号 37 A A C CA A 3 3 7 7 Y Y E E 2 模模式式伺伺服服电电机机反反馈馈信信号号
+YE 2 37 2
+C2182 调速模块 151-15 C2182 ACA24 A A C C A A 0 01 1 B B W W H H - - R RD D C C 2 2 2 2 0 3 0 6 6 3 内内外外伺伺服服电电阻阻电电源源++55VV 内 伺 1 1 内 伺5 5 1 1 外 服 外 服 - - 1 1 循 电 5 循 电 5 环 机 环 机
+输出 反馈 调速模块反馈信号 ACA01B GY A_GD27A C22-C2 A_GD27E S2D115 ALGD27D A P C K A11 11 ACA01B GY 1 内内外外伺伺服服电电阻阻接接地地 1 接地 CONR 调速模块控制端 ACA12 RD-BK BK 17 BK BK 3 BN 24 内内外外循循环环反反馈馈 12 ACA12 RD-BK 2 内内外外伺伺服服电电机机反反馈馈信信号号
+G2D115-A A_GD27C 12 2 ÷10-4 BK 32 接地 循循环环伺伺服服电电机机 36 A A C C A A3 3 6 6 R RD D 5 内内外外伺伺服服电电机机++((内内循循环环时时))
+发动机控制单元(EMS)151-1 C1104b ECK11 C1423 空调压力开关 151-1 C1423 A_GD12B 电电源源++ 循 循 （(内 环 环 内循 伺 伺 循 服 服 环环 电 电 时时 机 机 ）) 3 3 5 6 A A C CA A 3 3 5 5 O O G G - -W WH H 6 5 内内外外伺伺服服电电机机(-(内内循循环环时时)) 空调压力切断开关常闭 NCHP 接地 电电源源--（(内内循循环环时时）) 35 6
+11 YE 3 BK GD12 空调压力切断开关常开 52 E Y C E K52 2 NOMP AC A G C N A - 1 W 6 H A C11- 2 E 8 A B C N A16B C22- 2 B 3 吉10-4 B C N H422C C22- 1 C 0 2 O C G H - 42 B 2 K A 16 AC输出请求 传 传 感 感 器 器 - - 1 1 7 7 A AC C A A 1 1 7 7 W W H H C C 2 2 4 4 1 1 2 8 8 2 G G N ND D 前 传 1 1 前 传 5 5 1 1 蒸 感 蒸 感 - - 1 1 发 器 发 5 器 5 温温度度
+ACA39 YE-WH
+温温度度传传感感器器++ 39 ACA39 YE-WH 1 v V c CC C
+39 1
+BCM
+背 背 光 光 灯 灯 电 电源 源 + + 2 2 2 2 B B C C D D 2 2 3 3A A B B B BN N C C 2 2 2 2 5 - - C 5 C _2 2 B B C C D D2 2 3 3 AB AB B B N N B B C C D D 2 2 3 3 B B C C D D 2 23 3 A A C C B B N N C C 2 2 2 2 - - 1 B 1 B 0 0 B B C C D D 2 2 3 3A AB B N N C C 2 2 1 10 0 2 2 d 2 d 23 3 B B ac a k c l k i lig g h h t t + + 1 1 B 5 5 C 1 1- M - 1 1 0 0
+3 1
+3 1
+图
+d
+5 2'
+5 2
+WL 1 3
+1 3
+2 5
+2
+SF964
+VGLd
+A69FSP
+A51FP
+DR DR 品 品 PF1A
+A15FP
+DR 显 DR 品 P51E
+E15FP NGHW
+NG-HW
+1
+1
+GY-RD 23
+GY-RD 23
+SB1950 S2B159BPSF95C
+SB195QS2B159BPSF95C
+PK 11
+4 PK 11
+ACA11
+ACA11
+34 5
+34 5
+ACA33 BU
+ACA33 BU
+33 6
+33 6
+ACA08D GY
+ACA08D GY
+1
+ACA38 RD-0G 1
+ACA38 RD-OG
+1
+1
+38
+38
+C2H101 ACAD1A WH-RD
+C2H101 ACA01A WH-RD
+1
+ACA08AGY
+ACA08A GY ACAD1 3
+ACA01 3
+ACADBC GY
+ACA08C GY
+8
+8
+ACA30 OG
+ACA30 OG ACA08
+ACA08 1
+1
+30
+30
+ACA31 YE-BK
+ACA31 YE-BK 5
+5
+31
+31
+ACA37 YE
+ACA37 YE 6
+6
+12 2
+12 2
+ACA36 RD
+ACA36 RD
+36 5
+36 5
+ACA35 OG-WH
+ACA35 OG-WH
+17 2
+17 2
+ACA39 YE-WH
+ACA39 YE-WH GND
+GND
+vcC
+VCC
+IGN2 TIGN1}
+IGN2 IGN1
+一继继电电器器 继继电电器器
+输 出 回 路 _ 输输出出回回路路
+输 出 回 路
+!
+11 YE
+11 YE 1
+ECK52
+ECK52

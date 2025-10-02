@@ -1,0 +1,53 @@
+=== 第82页 ===
+江铃福顺 制动系统 42-4
+江铃福顺 制动系统 42-4
+ESP 151-1
+ESP 151-1
+右后
+右 (cid:9858) 后 (cid:9885) 轮 (cid:25085) 速 (cid:25262) 传 (cid:8623) 感 (cid:13230) 器 (cid:10487) + + 1 C 1 C 7 1 7 1 0 0 0 0 1 1 b b E E S S P P 1 17 7 A A Y Y E E - - R RD D C C 1 1 4 4 - - 1 F 1 F 8 8 0 E E S S P P 1 17 7 B B Y Y E E - -R R D D C C 4 4 4 4 0 06 6 2 a 2 a 右 (cid:9858) 后 (cid:9885) 轮 (cid:25085) 速 (cid:25262) 传 (cid:8623)(cid:13230) 感 (cid:10487) 器 + + 轮 1 1 (cid:9858) (cid:25085) 5 5 速 1 1 (cid:9885) (cid:25262) - -2 2 传 (cid:8623) 1 1 感 (cid:13230)(cid:10487) 器
+ESP29A RD-BU ESP29B RDBU
+右后轮速传感器- ESP29A RD-BU ESP29B RD-BU 右后轮速传感器.
+(cid:9858)(cid:9885)(cid:25085)(cid:25262)(cid:8623)(cid:13230)(cid:10487)- 29 19 (cid:9858)(cid:9885)(cid:25085)(cid:25262)(cid:8623)(cid:13230)(cid:10487)-
+29 19 1
+左 (cid:12405) 后 (cid:9885) 轮 (cid:25085) 速 (cid:25262) 传 (cid:8623) 感 (cid:13230) 器 (cid:10487) ++ 3 3 1 1 E E S S P P 3 31 1 A A B B U U - - Y Y E E 2 2 0 0 0 E ES S P P 3 3 1 1 A A Y YE E C C 4 4 4 4 0 04 4 2 a 2 a 左 (cid:12405) 后 (cid:9885) 轮 (cid:25085) 速 (cid:25262) 传 (cid:8623)(cid:13230) 感 (cid:10487) 器++ 左 轮 1 1 (cid:12405) (cid:25085)5 5 速 后 1 1 (cid:9885) (cid:25262)- -2 2 传 (cid:8623) 1 1 感 (cid:13230)(cid:10487) 器
+ESP18A WH ESP18B WH-RD
+ESP18A WH ESP18B WH-RD
+左 (cid:12405) 后 (cid:9885) 轮 (cid:25085) 速 (cid:25262) 传 (cid:8623) 感 (cid:13230) 器 (cid:10487) ·- 18 U 13 左 (cid:12405) 后 (cid:9885) 轮 (cid:25085) 速 (cid:25262) 传 (cid:8623) 感 (cid:13230) 器 (cid:10487) .-
+18 13 1
+C1105 右前
+右 (cid:9858) 前 (cid:9436) 轮 (cid:25085) 速 (cid:25262) 传 (cid:8623) 感 (cid:13230) 器 (cid:10487) + + 1 1 6 6 E E S S P P 1 16 6 V V T T - - B BK K C110 2 5 2 右 (cid:9858) 前 (cid:9436) 轮 (cid:25085) 速 (cid:25262) 传 (cid:8623)(cid:13230) 感 (cid:10487) 器 + + 轮 1 1 (cid:9858) (cid:25085) 5 5 速 1 1 (cid:9436) (cid:25262) - - 8 传 8 (cid:8623) 感 (cid:13230)(cid:10487) 器
+ESP04A PK
+ESP04A PK
+右前轮速传感器- 右前轮速传感器.
+(cid:9858)(cid:9436)(cid:25085)(cid:25262)(cid:8623)(cid:13230)(cid:10487)- 4 (cid:9858)(cid:9436)(cid:25085)(cid:25262)(cid:8623)(cid:13230)(cid:10487)-
+4 1
+左前
+左 (cid:12405) 前 (cid:9436) 轮 (cid:25085) 速 (cid:25262) 传 (cid:8623) 感 (cid:13230) 器 (cid:10487) ++ 1 1 9 9 oE E S S P P 1 19 9 A A O OG G C C 1 1 1 1 9 9 2 3 2 3 左 (cid:12405) 前 (cid:9436) 轮 (cid:25085) 速 (cid:25262) 传 (cid:8623)(cid:13230) 感 (cid:10487) 器 + + 轮 1 1 (cid:12405) (cid:25085)5 5 速 1 1 (cid:9436) (cid:25262) - - 7 传 7(cid:8623) 感 (cid:13230)(cid:10487) 器
+ESPO8A YE
+左 (cid:12405) 前 (cid:9436) 轮 (cid:25085) 速 (cid:25262) 传 (cid:8623) 感 (cid:13230) 器 (cid:10487) - - 8 ESP08A YE 左 (cid:12405) 前 (cid:9436) 轮 (cid:25085) 速 (cid:25262) 传 (cid:8623) 感 (cid:13230) 器 (cid:10487) .-
+8 1
+17 18
+17 18
+ESP29A RD-BU
+ESP29A RD-BU 2
+2
+ESP29B RDBU
+ESP29B RD-BU
+29 19
+29 19
+ESP31A BU-YE
+ESP31A BU-YE
+31 20
+31 20
+ESP18A WH
+ESP18A WH 2
+2
+ESP18B WH-RD
+ESP18B WH-RD
+16 2
+16 2
+ESP04A PK
+ESP04A PK
+1 1 9 9 22
+ESPO8A YE
+ESP08A YE

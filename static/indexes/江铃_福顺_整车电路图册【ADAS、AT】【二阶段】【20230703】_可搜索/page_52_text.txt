@@ -1,0 +1,102 @@
+=== 第52页 ===
+江铃福顺 配电 13-4
+江铃福顺 配电 13-4
+F12,F13,F22,F39,F40,F48,F56,F61,F62,F64
+F12，F13，F22，F39，F40，F48，F56，F61，F62，F64
+保
+(cid:8812)
+险
+(cid:26872)
+丝
+(cid:8364)(cid:20854)
+继
+(cid:18372)
+电
+(cid:10487)
+器
+(cid:13876)
+接
+(cid:20814)
+线
+(cid:18785)
+盒 (E(JEBJ)B) 1111--33
+常 !(cid:12487)1 1 电 3(cid:18372) 3 - - 源 1 (cid:16671)1 E R E R D R 0 0 1 1D D Y
+I RD
+尿素泵
+F F 5 5 5 5 A A E E F F 0 05 5 B B C C 1 1 1 1 - -Z Z E E F F 0 0 5 5B B C C 4 4 E E 3 36 6 5 5 (cid:11982) 继 (cid:20399) 电 (cid:16260) 器电源
+W W H H - - R R D D 2 2 2 2 W W H H - - B BK K 33 继电器电源
+EMS
+F6 10A EF06A C1104b (cid:40)(cid:48)(cid:54)
+F6 10A EF06A C1104b
+BU 电电源源11
+BU 1
+F7 20A EF07A EF07 EF07C
+F7 20A R E D F - 07 W A H E ● F : 07 R E D F0 - 7 W C H 5 电 电 源 源3 3
+RD-WH RD-WH 5
+F8 20A ER01B EF07B
+F8 20A R E R D R D 01B Z R E R D F D 0 - -W 7 W B H H 3 3 电电源源22
+HCU-PC
+E R E S D S F F 0 08 B A A E E ● S S F 1 F 0 08 8 E R E S D S F F 0 0 8 8 B B C C 1 1 1 1 2 - -E 2 E E R E S D S F F 0 0 8 8H H E E S S F F 0 0 8 8 E W E S H S F - F 0 0 R 8 8 D C C C C 1 1 2 2 0 0 6 1 1 (cid:43)r 电 (cid:38)- 电 (cid:56) 源 - 源 (cid:16)(cid:51)(cid:38)
+RD RD 22 RD WH-RD 6
+上游氮氧传感器
+ESF08B C1348 (cid:8345)(cid:16583)(cid:16061)(cid:16054)(cid:8623)(cid:13230)(cid:10487)
+ESF08B C1348
+WH-RD
+电电源源
+WH-RD 1
+IP-NOX氮氧化物
+ESF0BC C11-Z ESF0BX C4349 (cid:44)(cid:51)r(cid:16)(cid:49)-(cid:50)(cid:59)(cid:16061)(cid:16054)(cid:9637)(cid:17656)
+PR14BA C11-E, R P E R R D S D 1 F 4 08 B C C11 2 2 -Z 6 6 R E R D S D F08X C434 1 9 电电源源
+R P D R14BA C11-E R P D R14B NN
+RD 1 1 RD
+倒车灯开关
+F395A EF39A C11-A EF39B C1047m (cid:8865)(cid:25077)(cid:17150)(cid:12687)(cid:9218)
+F395A EF39A C11-A EF39B C1047m
+WH-RD 32 WH-RD 2 +
+WH-RD 32 WH-RD 2
+EMS
+F385A EF38 C1104b (cid:40)(cid:48)(cid:54)
+F385A
+L
+EF
+G
+38 C1104
+7
+b
+5
+点点火火开开关关KKLL1155
+LG 75
+燃油含水传感器
+F125A EF12A C11-E EF12B EF12 EF12C C1823 (cid:17490)(cid:16200)(cid:9914)(cid:16067)(cid:8623)(cid:13230)(cid:10487)
+F125A EF12A C11-E EF12B EF12 EF12C C1823 PWR
+Y Y E E - -R R D D 22 Y Y E E - -R R D D Y Y E E - -R R D D 1 PWR
+仪表台开关
+EF12D C22-A EF12E C1118 (cid:8569)r(cid:23287)-(cid:9855)(cid:12687)(cid:9218)
+Y EF E 1 - 2 R D D C22 5 -A 1 Y EF E 12E C111 1 8 2 电 电 源 源
+YE-RD 51 YE 12
+常电源
+!(cid:12487)13(cid:18372)-(cid:16671)1
+13-1
+I
+F55A
+F5 5A
+F6 10A
+F6 10A
+F7 20A
+F7 20A
+F8 20A
+F8 20A
+F395A
+F395A
+F385A
+F385A
+F125A
+F125A
+BU
+BU 1
+EF07A EF07 EF07C
+EF07A E ● F : 07 EF07C
+RD-WH 5
+RD-WH 5
+EF07B
+EF07B

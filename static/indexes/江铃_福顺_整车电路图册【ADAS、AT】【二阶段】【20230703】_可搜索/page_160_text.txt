@@ -1,0 +1,409 @@
+=== 第160页 ===
+江铃福顺 接插件视图150-16
+江铃福顺 接插件视图 150-16
+C2091 C2094
+C2091 C2094
+14K024 14K024
+14K024 14K024
+仪表屏幕开关 MP5
+仪表屏幕开关 MP5
+A2 A1
+B2(cid:31) B1(cid:31) C2(cid:31) C1(cid:31)
+1236 14 B4(cid:31) B3(cid:31) C4(cid:31) C3(cid:31)
+- 13 1 D11(cid:31)D9 D7(cid:31)D5D3D1(cid:31) B5(cid:31) C6 C5(cid:31)
+B6(cid:31) C8(cid:31) C7(cid:31)
+D12(cid:31)D10(cid:31)D8(cid:31)D6D4D2(cid:31)
+. E23 E21(cid:31)E19(cid:31)E17(cid:31)E15(cid:31)E13(cid:31) E11(cid:31)E9 E7 E5(cid:31)E3(cid:31)E1(cid:31)
+-
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1 未使用
+1 - - - 未使用
+2 2 ·- - - 未未使使用用 E24E22(cid:31)E20(cid:31)E18(cid:31)E16(cid:31)E14(cid:31) E12(cid:31)E10(cid:31)E8 E6(cid:31)E4(cid:31)E2(cid:31)
+3 3 - - - 未未使使用用
+4
+4 - - -
+未未使使用用
+5
+5 - - -
+未未使使用用
+6 7 8 9 6 7 8 9 I I I I C C C C 0 0 0 0 - - 8 9 8 9 A A A A G Y G Y - - N E E N 0 0 0 0 . . - - . . 5 5 5 5 未 未 燃 燃 未 未 燃 燃 使 使 油 油 使 使 油 油 液 用 用 液 用 用 液 液 位 位 位 位 传 传 传 传 感 感 感 感 器 器 器 器 · + - + 针针 A A B B A A B 2 1 1 2 脚脚 1 2 1 A A _ P P _ P P 电电 F G G F F F 5 D 5 D 5 5 路路 6 6 2 6 6 2 C B B 6 6 C D D 线线 B R R R R B 色 D D 色 K D D K 规 0 0 0 规 0 0 0 . . . . . . 7 7 7 格 7 7 7 格 5 5 5 5 5 5 接 B B 接 B B + + + + 地地 电 电 电 电 源 源 源 源 线线路路功功能能 区区分分条条件件
+1 1 1 1 1 1 1 1 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 1 0 4 5 8 2 6 7 1 1 9 3 0 1 2 0 2 3 4 5 6 7 8 9 0 1 2 3 3 A A B B B A B A P P _ C C _ C _ C P _ P I I F F G G A C A G G A F F A C 6 8 D N 1 N D 8 D 6 N D 1 N - - - - - - - 1 2 4 4 2 L 2 H 2 1 2 H 2 L A D B B D 8 0 A 8 8 0 8 0 0 D F F 7 7 7 7 D B B U G B B B U B Y G B B B B Y - - - - - - - - - - N N K K N U K K E E U N R R D D 0 0 0 0 0 0 0 0 0 0 0 0 0 0 . - . . . . . . . . - - - - - - - 7 . . . . . . 7 5 5 5 5 5 5 5 5 5 5 5 5 5 5 未 未 未 B 接 未 未 未 未 低 I 接 C C 未 低 未 未 B I 接 接 C C 未 未 未 未 G G + A + A A A 使 使 使 使 使 使 使 油 地 地 使 油 使 使 地 地 使 使 使 使 N N N N N N + + 用 用 用 用 用 用 用 压 _ 用 压 用 用 用 用 用 用 _ _ L L H H 状状况况 B C C B B B B C C C C C C C C C C C C C C B B B B B B 6 1 7 3 5 5 3 4 2 4 5 6 8 2 3 4 5 5 6 1 2 3 4 5 6 7 8 A A A A P A A P P A A A A A A _ A A A A A A A A A A _ P U U F U U F F U U U U U U G U U G U U U U U U U U F B B 7 7 B B 7 - C C C C C C D C C C C 7 C C C C D C C - 8 0 0 8 0 0 8 8 2 1 4 5 2 3 7 0 0 2 4 1 3 5 7 2 D 0 0 3 4 3 4 D D D D D 6 A A A A 6 6 8 A D A D A A 6 8 C B B B B C B B W W Y W W R W W W W R Y B B H H E H D H W G D E U B Y R R U W H H H H G R R B Y - - - - - - - - - - - - - - - H N E D D K E W D D K N W H Y G R R R R R W R W Y G E H D D D H E N D D H D H N 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 . . . . . . . . . . . . - - . . . . - 7 7 7 . . . . . . . . . . 7 7 7 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 接 左 右 右 左 未 摄 电 电 左 右 右 摄 左 未 摄 摄 电 电 接 左 右 左 右 右 左 右 左 前 后 前 后 像 使 前 后 地 前 像 源 源 使 像 像 源 源 地 前 后 前 后 前 后 前 后后 头 喇 喇 用 喇 喇 喇 喇 头 用 头 头 喇 喇 喇 喇 喇 喇 喇 喇 喇 喇 供供 电 叭 叭 叭 叭 叭 叭 叭 叭 叭 叭 电 叭 叭 叭 叭 叭 叭 电电 源 源 - - - - - - + + - - + + + + + + 输输 地 地 出出 不 带 不 带 带 灭 带 灭 灭 火 灭 火 火火 器器 器器 配配 配配 置置 置置
+2 2 2 2 2 2 4 5 6 4 5 6 - - - - - - - - - 未 未 未 未 未 未 使 使 使 使 使 使 用 用 用 用 用 用 D D D D D D D D 1 2 3 4 1 2 3 4 A A A A _ _ U U G G D D - D D - - 0 0 2 2 4 4 6 6 B B H H W W H H B B - - - - K K G G N N 0 0 0 0 . . . - - 7 . 7 5 5 5 5 未 未 接 摄 未 未 接 摄 使 像 使 地 使 使 地 像头 用 用 用 用 头视视频频信信号号输输出出- -
+D DD D 5 65 6 A A A A _ _ U U G G D D D D 0 0 2 2 5 5 6 6 B B E E W WB B H K KH 0 00 0 . . . . 5 5 5 5 接 摄摄 接 像 地 像 地 头头视视频频信信号号输输出出++
+D7 未使用
+D7 - - - 未使用
+D D 8 8 - - - 未未使使用用
+D9 未使用
+D9 - - - 未使用
+D
+D
+1
+10
+0
+- - -
+未未使使用用
+D11 BCANL05 BU 0.5 B-CAN-L
+D11 BCANL05 BU 0.5 B-CAN-L
+D12 BCANH05 YE 0.5 B-CAN-H
+D12 BCANH05 YE 0.5 B-CAN-H
+C2091
+C2091
+14K024
+14K024
+仪表屏幕开关
+仪表屏幕开关
+1236 14
+- 13 1
+.
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1 未使用
+1 - - - 未使用
+2 2 ·- - - 未未使使用用
+3 3 - - - 未未使使用用
+4 未未使使用用
+4 - - -
+5 未未使使用用
+5 - - -
+6 未未使使用用
+6 - - -
+7 7 - Y-E - 未 未使 使用 用
+8 IC0 8A 0. 5 燃 油 液 位传感器+
+8 IC08A YE 0.5 燃油液位传感器+
+9 IC09A GN 0.5 燃油液位传感器·
+9 IC09A GN 0.5 燃油液位传感器-
+1 1 0 0 - - - 未未使使用用
+1 1 I C 1 1 A G -N 0 . 7 5 低低油油压压状状况况
+11 IC 1 1 A G N 0 .7 5
+1 2 未未使使用用
+1 2 - - -
+13 未使用
+13 - - - 未使用
+14 PF62B BN 0-.5 B+
+14 PF62B BN 0.5 B+
+15 PF84D BU-RD 0.5 IGN+
+15 PF84D BU-RD 0.5 IGN+
+16 A_GD28D BK 0.5 接地
+16 A_GD28D BK 0.5 接地
+1 7 A _ G D 2 8 F B K 0 . 5 接接地地
+1 7 A _ G D 2 8F B K 0 .5
+18 BCANL07 BU 0.5 CANL
+18 BCANL07 BU 0.5 CAN_L
+19 BCANH07 YE 0.5 CAN_H
+19 BCANH07 YE 0.5 CAN_H
+20 未使用
+20 - - - 未使用
+2 2 1 1 - - .- 未 未 使 使 用 用
+2 2 未未使使用用
+2 2 - - -
+2 3 未未使使用用
+2 3 - - -
+2 4 未未使使用用
+2 4 - - -
+25 未使用
+25 - - - 未使用
+26 未使用
+26 - - - 未使用 C2094
+C2094
+14K024
+14K024
+MP5
+MP5
+B2(cid:31) B1(cid:31) C2(cid:31) C1(cid:31)
+A2 A1
+B4(cid:31) B3(cid:31) C4(cid:31) C3(cid:31)
+D11(cid:31)D9 D7(cid:31)D5D3D1(cid:31)
+B5(cid:31) C6 C5(cid:31)
+B6(cid:31) C8(cid:31) C7(cid:31)
+D12(cid:31)D10(cid:31)D8(cid:31)D6D4D2(cid:31)
+E23 E21(cid:31)E19(cid:31)E17(cid:31)E15(cid:31)E13(cid:31) E11(cid:31)E9 E7 E5(cid:31)E3(cid:31)E1(cid:31)
+-
+E24E22(cid:31)E20(cid:31)E18(cid:31)E16(cid:31)E14(cid:31) E12(cid:31)E10(cid:31)E8 E6(cid:31)E4(cid:31)E2(cid:31)
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+A A 1 1 A A _ _ G G D D 2 2 6 6D D B BK K 0 0 . .7 7 5 5 接接地地
+A A 2 2 P P F F 5 5 6 6B B R RD D 0 0 . .7 7 5 5 BB++电电源源
+B B 1 1 P P F F5 5 6 6 C C R RD D 0 0 . .7 7 5 5 BB++电电源源
+B2
+未未使使用用
+B2 - - -
+B BB 3 43 A A U U B B 0 03 3 B B W W H H 0 0 . .5 5 摄 摄像 像头 头供供 电电 输输 出出
+A U B 0 4 B G N 0 . 5 摄 像 头 电 源 地
+B4 AUB04B GN 0.5 摄像头电源地
+B B 5 5 P P F F 7 7 8 8D D W W H H - -R R D D 0 0 . .7 7 5 5 电 电 源 源 不不带带灭灭火火器器配配置置
+B B 5 5 P P F F 7 78 8 D D C C W W H H - -R R D D 0 0 . .7 7 5 5 电 电 源 源 带带灭灭火火器器配配置置
+B 6 A _ G D 2 6 B B K 0 . 7 5 接接地地
+B 6 A _ G D 2 6B BK 0 .7 5
+C 1 A U C 1 A B U - Y E 0 . 5 左 左前 前喇 喇叭叭 -
+CC 21 A A U U C C 2 1A D B YU -EY E 00 ..5 5 右 后 喇 叭 - -
+C2 AUC2D YE 0.5 右后喇叭-
+C C 3 3 A A U U C C 3 3A A Y Y E E - -W W H H 0 0 . .5 5 左左前前喇喇叭叭++
+C4 AUC4D RD 0.5 右后喇叭+
+C 4 A U C 4D R D 0-. .5 右 后 喇叭 +
+C 5 A U C 5 A WH - RD 0 5 右 前 喇 叭-
+C 5 A U C 5 A W H - RD 0 .-. 5 右 前 喇 叭 -
+C C 6 6 A A U U C C 0 0 6 6 R R D D 0 0 . 5 5 左 左后 后喇 喇 叭叭- -
+C7 AU-C7A WH-GN 0.5 右前喇叭+
+C7 AUC7A WH-GN 0.5 右前喇叭+
+C 8 A U C 0 8 R D - W H 0 . 5 左左后后喇喇叭叭 +
+C 8 A U C 08 R D -W H 0 .5 +
+D1 未使用
+D1 - - - 未使用
+D2 - 未使用
+D2 - - - 未使用
+D3 A_GD26H BK 0.75 接地
+D3 A_GD26H BK 0.75 接地
+D 4 A U D 0 4 B W H - G N 0 . 5 摄摄像像头头视视频频信信号号输输出出-
+D 4 A U D 0 4B W H -G N 0 .5 -
+D DD D 5 65 6 A A A A _ _ U U G G D D D D 0 0 2 2 5 5 6 6 B B E E W WB B H K KH 0 00 0 . . . . 5 5 5 5 接 摄摄 接 像 地 像 地 头头视视频频信信号号输输出出++
+D7 未使用
+D7 - - - 未使用
+D D 8 8 - - - 未未使使用用
+D9 未使用
+D9 - - - 未使用
+D 1 0 未未使使用用
+D 10 - - -
+D11 BCANL05 BU 0.5 B-CAN-L
+D11 BCANL05 BU 0.5 B-CAN-L
+D12 BCANH05 YE 0.5 B-CAN-H
+D12 BCANH05 YE 0.5 B-CAN-H
+B2(cid:31) B1(cid:31) C2(cid:31) C1(cid:31)
+1
+B4(cid:31) B3(cid:31) C4(cid:31) C3(cid:31)
+D3D1(cid:31)
+B5(cid:31) C6 C5(cid:31)
+B6(cid:31) C8(cid:31) C7(cid:31)
+D4D2(cid:31)
+(cid:31)E17(cid:31)E15(cid:31)E13(cid:31) E11(cid:31)E9 E7 E5(cid:31)E3(cid:31)E1(cid:31)
+(cid:31)18(cid:31)E16(cid:31)E14(cid:31) E12(cid:31)E10(cid:31)E8 E6(cid:31)E4(cid:31)E2(cid:31)
+针针脚脚
+1 电电路路 线线色色 规规格格 线线路路功功能能
+未使用 区区分分条条件件
+1
+2
+2 .
+-
+- -
+-
+- -
+- 未使用
+未未使使用用
+3
+3
+4
+4 ·
+-
+- -
+- -
+- 未未使使用用
+未未使使用用
+5
+5 - - - 未未使使用用
+6
+6 - - - 未未使使用用
+7
+7 - - - 未未使使用用
+8
+8 IC08A
+IC08A YE
+YE 0.5
+0.5 燃油液位传感器+
+燃油液位传感器+
+9
+9 IC09A
+IC09A GN
+GN 0.5
+0.5 燃油液位传感器·
+燃油液位传感器-
+10
+10 - - - 未未使使用用
+11
+11 IC11A
+IC11A GN
+GN 0.75
+0.75 低低油油压压状状况况
+12
+12 - - - 未未使使用用
+13
+13 - - - 未使用
+未使用
+14
+14 PF62B
+PF62B BN
+BN 0.5
+0.5 B+
+B+
+15
+15 PF84D
+PF84D BU-RD
+BU-RD 0.5
+0.5 IGN+
+IGN+
+16
+16 A_GD28D
+A_GD28D BK
+BK 0.5
+0.5 接地
+接地
+17
+17 A_GD28F
+A_GD28F -
+BK
+BK 0.5
+0.5 接接地地
+18
+18 BCANL07
+BCANL07 BU
+BU 0.5
+0.5 CANL
+CAN_L
+19
+19 BCANH07
+BCANH07 YE
+YE 0.5
+0.5 CAN_H
+CAN_H
+20
+20 - - -
+- 未使用
+未使用
+21
+21 - - - 未使用
+未使用
+22
+22 - - - 未未使使用用
+23
+23 - - .
+- 未未使使用用
+24
+24 - - - 未未使使用用
+25
+25 - - - 未使用
+未使用
+26
+26 - - - 未使用
+未使用
+针针脚脚 电电路路 -
+线线色色 规规格格 线线路路功功能能 区区分分条条件件
+A1
+A1 A_GD26D
+A_GD26D BK 0.75
+BK 0.75 接接地地
+A2
+A2 PF56B
+PF56B RD 0.75
+RD 0.75 BB++电电源源
+B1
+B1 PF56C
+PF56C RD 0.75
+RD 0.75 BB++电电源源
+B2
+B2 - - - 未未使使用用
+B3
+B3 AUB03B
+AUB03B WH 0.5
+WH 0.5 摄摄像像头头供供电电输输出出
+B4
+B4 AUB04B
+AUB04B GN 0.5
+GN 0.5 摄像头电源地
+摄像头电源地
+B5
+B5 PF78D
+PF78D WH-RD 0.75
+WH-RD 0.75 电源
+电源 不不带带灭灭火火器器配配置置
+B5
+B5 PF78DC
+PF78DC WH-RD 0.75
+WH-RD 0.75 电源
+电源 带带灭灭火火器器配配置置
+B6
+B6 A_GD26B
+A_GD26B BK 0.75
+BK 0.75 接接地地
+C1
+C1 AUC1A
+AUC1A BU-YE 0.5
+BU-YE 0.5 左左前前喇喇叭叭-
+-
+C2
+C2 AUC2D
+AUC2D YE 0.5
+YE 0.5 右后喇叭-
+右后喇叭-
+C3
+C3 AUC3A
+AUC3A YE-WH 0.5
+YE-WH 0.5 左左前前喇喇叭叭++
+C4
+C4 AUC4D
+AUC4D RD 0.5
+RD 0.5 右后喇叭+
+右后喇叭+
+C5
+C5 AUC5A
+AUC5A WH-RD 0.5
+WH-RD 0.5 右前喇叭-
+右前喇叭-
+C6
+C6 AUC06
+AUC06 RD 0.5
+RD 0.5 左左后后喇喇叭叭-
+-
+C7
+C7 AUC7A
+AUC7A WH-GN 0.5
+WH-GN 0.5 右前喇叭+
+右前喇叭+
+C8
+C8 AUC08
+AUC08 RD-WH 0.5
+RD-WH 0.5 左左后后喇喇叭叭 +
++
+D1
+D1 - - - 未使用
+未使用
+D2
+D2 - - - 未使用
+未使用
+D3
+D3 -
+A_GD26H
+A_GD26H BK 0.75
+BK 0.75 接地
+接地
+D4
+D4 AUD04B
+AUD04B -
+WH-GN 0.5
+WH-GN 0.5 摄摄像像头头视视频频信信号号输输出出-
+-
+D5
+D5 AUD05B
+AUD05B -
+WH 0.5
+WH 0.5 摄摄像像头头视视频频信信号号输输出出++
+D6
+D6 -
+A_GD26E
+A_GD26E BK 0.5
+BK 0.5 接接地地
+D7
+D7 - - - 未使用
+未使用
+D8
+D8 - - - 未未使使用用
+D9
+D9 - - - 未使用
+未使用
+D10
+D10 - - - 未未使使用用
+D11
+D11 BCANL05
+BCANL05 BU 0.5 B
+BU 0.5 -CAN-L
+B-CAN-L
+D12
+D12 BCANH05
+BCANH05 YE 0.5
+YE 0.5 B-CAN-H
+B-CAN-H

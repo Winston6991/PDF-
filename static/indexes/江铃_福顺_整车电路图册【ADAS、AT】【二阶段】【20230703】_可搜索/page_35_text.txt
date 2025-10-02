@@ -1,0 +1,43 @@
+=== 第35页 ===
+10-5 接地 江铃福顺
+G1D129
+A61DG_A
+KB
+A61DG_B
+KB
+10-5 接地 江铃福顺
+G1D129
+乘客舱
+左前雾灯 (cid:8423)(cid:11825)(cid:21696)
+(cid:12405)(cid:9436)(cid:27021)(cid:17150) 接线盒
+R18 (cid:13876)(cid:20814)(cid:18785)
+C 2 C 1 2 1 1 1 2 2 9 9 A A _ _G G D D 1 1 6F 6F B B K B B _ _ G G D D1 1 6 6 D D B B K K 4 4 雨 13 (cid:53) (cid:26999) 1 刮 3 - (cid:20) - (cid:9405)5 5 (cid:27) 继 (cid:20854) 电 (cid:18372) 器 (cid:10487) ( 1 1 (cid:11)1 S (cid:54) 1 - - R (cid:53) 5 5 B (cid:37) ) (cid:12)
+左侧转向灯 B_GD16C BK C1181 雨 (cid:26999) 刮 (cid:9405) 电 (cid:18372)(cid:14793) 机
+(cid:12405)(cid:8758)(cid:25083)(cid:9888)(cid:17150) B_GD160 B_GD16C BK C1181 55-3
+C C 1 1 9 9 1 13 3 A A _ _ G G D D 1 16 6 D D B BK K C C L L S S 2 22 2 A A _ _ G G D D 1 16 6 I 1 B BK K B_GD16 3 3 55-3
+2
+2 2
+左前大灯
+5(cid:12405)4-(cid:9436)1(cid:11190) 5(cid:17150)4-3
+54-1 54-3
+C1108 A_GD16H BK
+C1108 A_GD16H BK
+3
+3
+A_GD16G BK
+A_GD16G BK OA_GD16
+6 A_GD16
+6
+A_GD16C BK
+A_GD16C BK
+7
+7
+A_GD16E BK
+A_GD16E BK
+10
+10
+.G016A B_GD16A
+益
+G1D129
+÷1G511D-1729
+151-7

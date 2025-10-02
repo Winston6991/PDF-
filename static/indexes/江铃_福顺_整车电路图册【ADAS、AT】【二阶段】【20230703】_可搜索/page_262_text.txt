@@ -1,0 +1,143 @@
+=== 第262页 ===
+江铃福顺 整体系统原理图 161-22
+倒车灯
+(cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785) (cid:11)(cid:54)(cid:53)(cid:37)(cid:12)
+11-4
+(cid:48)(cid:55)(cid:25564)(cid:20989) (cid:37)(cid:38)(cid:48) 151-10
+C2102c
+(cid:44)(cid:42)(cid:20)(cid:20854)(cid:18372)(cid:10487) 15
+BCE03A C2102e
+(cid:8865)(cid:15090)(cid:12687)(cid:9218)(cid:6628)(cid:48)(cid:55)(cid:6629) C2102c BCANH02 GN-WH 3 (cid:38)(cid:36)(cid:49)(cid:66)(cid:43) (cid:15536)(cid:10726)
+21 YE (cid:25257)(cid:24126)
+BCANL02 (cid:20960)(cid:20843)
+(cid:38)(cid:36)(cid:49)(cid:66)(cid:47) 14-1
+9 BU
+C2102d CCANH01
+(cid:38)(cid:36)(cid:49)(cid:66)(cid:43) (cid:15536)(cid:10726)
+31 PK (cid:25257)(cid:24126)
+CCANL01 (cid:20960)(cid:20843)
+(cid:38)(cid:36)(cid:49)(cid:66)(cid:47) 14-1
+43 PK-WH
+C2102a B_GD24B
+(cid:37)(cid:38)(cid:48)(cid:10687)(cid:20)
+2 BK
+C2102c B_GD24C (cid:14335)(cid:11750)(cid:10687)
+12 BK
+C2102d A_GD24D B_GD24A
+(cid:37)(cid:38)(cid:48)(cid:10687)(cid:21)
+12 BK B_GD24 BK
+C2102b A_GD24F
+(cid:26743)(cid:26512)(cid:10687)
+20 BK
+C2102b A_GD24G A_GD24D
+(cid:37)(cid:38)(cid:48)(cid:10687)(cid:20)
+2 BK B_GD24-1 BK
+GD24
+B93FE DR-HW
+(cid:53)(cid:20)(cid:23) 3 1 (cid:44)(cid:42)(cid:20)
+(cid:20854)(cid:18372)(cid:10487) F99
+(cid:23)(cid:19)(cid:36)
+5 2
+BCE03C BCE03B
+GN-WH GN-WH
+A51CCB DR-HW E15FP
+DR
+A99FSP NG-HW
+F39
+(cid:24)(cid:36)
+A93FE DR-HW
+(cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785) (cid:11)(cid:40)(cid:45)(cid:37)(cid:12)
+11-4
+F51
+(cid:24)(cid:36)
+A15FP
+DR
+F60
+(cid:21)(cid:24)(cid:36)
+32 C11-A
+PF51
+2 C1047m (cid:17150)(cid:18372)(cid:16671)(cid:21)(cid:11)(cid:14452)(cid:26755)(cid:23259)(cid:25077)(cid:17150)(cid:6632) (cid:9416)(cid:25077)(cid:17150)(cid:6632)(cid:9885)(cid:27021)(cid:17150)(cid:6632)(cid:8865)(cid:25077)(cid:17150)(cid:12)
+(cid:12405)(cid:9885)(cid:11190)(cid:17150) 150-42 (cid:8865)(cid:25077)(cid:17150) + (cid:12687)(cid:9218) C2102a BCA08ABCA08 BCA08B C39-B BCA08E C4422t C4422t A_GD32C A_GD32L
+151-4 (cid:8865)(cid:25077)(cid:17150)(cid:25122)(cid:9353) 8 BN BN 53 BN 8 (cid:8865)(cid:25077)(cid:17150)(cid:14) (cid:8865)(cid:25077)(cid:17150)(cid:9)(cid:9885)(cid:27021)(cid:17150)(cid:16) 3 BK A_GD32 BK G4D149-B - (cid:9858)(cid:9885)(cid:11190)(cid:17150) 150-45 10-8
+BCA08C C39-A BCA08D C4422t C4422t A_GD33F A_GD33A
+(cid:8865)(cid:25077)(cid:17150)(cid:14) (cid:8865)(cid:25077)(cid:17150)(cid:9)(cid:9885)(cid:27021)(cid:17150)(cid:16) 1 C1047m BN 28 BN 8 3 BK A_GD33 BK RNG1 C11-A C11-E 10-9
+31 10
+A06FP
+DR
+C2102a
+1
+AB41RP
+B41RP
+DR
+DR
+1 C11-E
+PR14
+A41RP
+DR
+江铃福顺 整体系统原理图 161-22
+倒车灯
+蓄电池 踱婆
+接线盒 (EJB) (SRB)
+11-4 11-4
+R14
+5 3 图 I 继 G 电 1 器 F99 F5 F6
+40A
+EF39AQd-HM PR14BA PR14A BCC15A Qd-HM PF51E ------PSF9-9A- N9 - -HM PF51A PF60A
+品 品 品 品 品
+32 C1-A C11-E
+PR148 PF51
+EF39BQdHM MT配置
+品 BCM 151-10 C2102a
+2 C1047m 灯电源2(日间行车灯，
+PR14 刹车灯，后雾灯，倒车灯； 左后大灯 15042
+倒车灯 开关 C2102c C21022 BCADBA BCA08 BCAO8B C39-B BCA08E C44221 C4221 ALGD32C A_GD32L 151-4 IG1继电器 倒车灯输出 倒车灯+ 倒车灯&后雾灯-
+15 BN BN 53 BN BK A_GD32 BK G4D149-B 右后大灯 150-45 10-8 BCA08C C39-A BCA08D C44221 r--- C4422t A_GD33F AL_GD33A
+C1047m BN 28 BN 8 倒车灯+ 倒车灯&后雾灯-十 BK A_GD33 BK RNG1 BCE03C C11-A BCE03B C11-E BCE03A C2102e 10-9 倒档开关(MT) C2102c BCANH02
+GN-WH 31 GN-WH GN-WH 3 CAN_H市 21 YE 模 通 块 讯
+BCANL02 网络
+CAN_ 14-1
+9 BU
+C2102d CCANH01
+CAN_H 模块
+31 PK 通讯
+CCANL01 网络
+CAN出 14-1
+43 PK-WH
+C2102a B_GD24B
+BCM地1 BK
+C2102c B_GD24C
+数字地十 BK
+C2102d A_GD24D B GD2
+BCM地2, 下 BK B_GD24 BK
+C2102 ALGD24F
+门锁地
+20 BK
+A_GD24D
+C2102b AL_GD24G
+BCM地1中 BK B.GD24-1 BK
+GD24
+5
+F39
+(cid:24)(cid:36)
+5
+F39
+(cid:24)(cid:36)
+3
+3 1 图
+5 2
+------PSF9-9A- -
+N9 -HM
+PF51A
+A99FSP NG-HW A15FP
+DR 品 PSF99A
+A99FSP
+C
+；
+市
+2
+十
+,
+地
+中

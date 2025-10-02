@@ -1,0 +1,163 @@
+=== 第133页 ===
+148-1 车身控制模块 (BCM) 江铃福顺
+(cid:22355)(cid:18372)(cid:16111) (cid:22355)(cid:18372)(cid:16111) (cid:13876)(cid:20814)(cid:18785) (cid:13876)(cid:20814)(cid:18785)
+(SRB) (SRB)
+11-4 11-4
+3 1 F5 F98 F50 80A 40A 10A
+5 2
+BCM 151-10
+C2102a
+(cid:17150)(cid:18372)(cid:16671)2((cid:14452)(cid:26755)(cid:23259)(cid:25077)(cid:17150)(cid:6632)
+(cid:9416)(cid:25077)(cid:17150)(cid:6632)(cid:9885)(cid:27021)(cid:17150)(cid:6632)(cid:8865)(cid:25077)(cid:17150))
+C2102d
+13
+C2102c
+ACC(cid:20854)(cid:18372)(cid:10487)(cid:25122)(cid:9353) C2102b 27 (cid:26743)(cid:26512)(cid:18372)(cid:16671)
+ACC(cid:20854)(cid:18372)(cid:10487)(cid:10605)(cid:24202)(cid:8816)(cid:9862)(cid:25122)(cid:9204) C2102d 7 (cid:17150)(cid:18372)(cid:16671)4((cid:8668)(cid:20989)(cid:17150)&(cid:17627)(cid:17398)(cid:17150))
+C2102c
+C2102d C2102d
+C2102a
+C2102c
+C2102d C2102b
+A89FSP NG-HW C15FP DR A05FP DR-HW
+F54 30A
+A45FP DR
+F57 25A
+75FP DR
+F63 20A
+A36FP DR
+F60 25A
+A31FP KB-DR A72CCB NG-GO A06FP DR
+R13 IG2\ ACC (cid:20854)(cid:18372)(cid:10487)
+PF13
+(cid:17150)(cid:18372)(cid:16671)3((cid:12405)(cid:25083)(cid:17150)(cid:6632)(cid:9858)(cid:25083)(cid:17150))
+(cid:17150)(cid:18372)(cid:16671)1(cid:6628)(cid:28007)(cid:8668)(cid:9416)(cid:25077)(cid:17150)(cid:6629)
+D50DP DR
+F78 10A
+A87FP DR
+PF78B RD
+A50DP DR
+PD05
+C31RP KB-DR
+F67 10A 13-6
+1
+89-1 17
+(cid:25077)(cid:9236)(cid:17150)
+18
+21 PF78
+48
+BCANH02 CAN_H (cid:15536)(cid:10726) 21 YE (cid:25257)(cid:24126) BCANL02 (cid:20960)(cid:20843)
+CAN_L 14-4 9 BU
+CCANH01 CAN_H (cid:15536)(cid:10726) 31 PK (cid:25257)(cid:24126)
+CCANL01 (cid:20960)(cid:20843)
+CAN_L 14-3
+43 PK-WH
+A76FP DR
+3 1
+4 5 2
+B15FP DR
+PF51D
+RD
+A72RP
+72RP
+DR-NG
+DR-NG
+A31DCB NG
+R27 (cid:12677)(cid:25198) (cid:20854)(cid:18372)(cid:10487)
+A15FP DR
+148-1 车身控制模块(BCM) 江铃福顺
+蓄电池[ 蓄电池
+接线盒 接线盒 (SRB) (SRB)
+11-4 11-4
+R13 R27
+F98 F78 3 1 W I A G C Z C F67 3 1 W 延 继 迟 电器 F51 6A F63 5A 5A 5A 40A 10A 5 2 继电器 1 13 0 - A 6 4 5 2 5F 5 A A 51 20A
+PD05A QS00d PSF98A NGHWPF78A R13CRD PF13A 哭DR BCC27A NGG0 PF51C PF67A PR27AQd-N9 BCD13A F51B PF51A PF6OA pF57 PF54A PF5OA WHRD 品 品 品 品 品 PF51E BCM 品 RD 6 C39-A R PF D 51E A A 1 1 B4 4 C- - M 2 2
+PD05 PF13 6 C39-A PRFD51D BCM
+B BCM
+LZdd DRNG P P F F 5 5 1 1 RD B 1 1 4 4 - - 2 2
+BCM 151-10
+C2102a
+灯电源2(日间行车灯，
+剃车灯，后雾灯，倒车灯)
+ll
+C2102d 灯电源3(左转灯，右转灯) 89-1 17
+延时继电器输出
+车内灯 13 (cid:12677)(cid:14469)(cid:20854)(cid:18372)(cid:10487)(cid:25122)(cid:9353)
+灯电源1(高位刹车灯) C2102c 18
+ACC继电器输出 C2102b
+27 门锁电源 PF78B 21
+PF78 RD 7 AC 灯 C继 电 电 源 器 4( 回 位置 读 灯 信 & 号 牌 输 照 入 灯) C2102d 48
+仪 (cid:8569) 表 (cid:23287) 台 (cid:9855) 开 (cid:12687) 关 (cid:9218) C2102c BCANH02
+C C 1 1 1 1 1 18 8 B B C C C C O 0 1 1B B C C 2 2 2 2 - -A A B B C C C C 0 01 1 A A CAN_H 21 0 YE 模 通 块 讯 危 (cid:9728) 险 (cid:26872) 警 (cid:24053)(cid:19401) 示 (cid:12687) 开 (cid:9218) 关 L L E E D D 8 8 B B N N 5 52 2 B B N N 1 1 危 (cid:9728) 险 (cid:26872) 警 (cid:24053) 示 (cid:19401) 开 (cid:12687) 关 (cid:9218) LLEEDD (cid:25122) 输 C (cid:9353) 出 AN BCANL02 网 14 络 4
+白天模式信号 B B C C C C O 02 2 B B C C 2 2 2 2 - -B B B B C C C C O 0 2 2A A 白天模式输出 ◎ BU
+(cid:18700)(cid:11192)(cid:15536)(cid:12702)(cid:8816)(cid:9862) 14 GN-BU GN-BU 2 (cid:18700)(cid:11192)(cid:15536)(cid:12702)(cid:25122)(cid:9353) C21020 CCANH01
+14 B G C N D -B 1 U 9B 9 B G C N D - 1 BU 9A C2102d 2 CAN_H 模块 危险警告灯开关 BCD19B 红 BCD19A 危险警告灯开关输入 31 PK 通讯 (cid:9728)(cid:26872)(cid:24053)(cid:9945)(cid:17150)(cid:12687)(cid:9218) 3 BN 29 BN 19 (cid:9728)(cid:26872)(cid:24053)(cid:9945)(cid:17150)(cid:12687)(cid:9218)(cid:25122)(cid:9204) CCANL01 网络
+3 BN 29 BN 19 143
+CAN| 43 U PK-WH
+C2102a B_GD24B
+B_GD24B BCM地1
+BCM(cid:10687)1 BK
+2 BK
+C2102c B_GD24C
+B BC C B B 1 1 4 4 A A A AW W H H C C 2 2 1 1 0 02 2 b b 接地 数 (cid:14335)(cid:11750) 字 (cid:10687) 地 12 B B K _GD24C
+电 (cid:18372)1 1 (cid:9527) 动 0 0 0 0 (cid:19750) 窗 - -2 2 B BC CB B1 1 2 2 A A A ARD R - D B -B K K 1 1 1 1 4 4 2 2 电 (cid:13876) (cid:18372) (cid:10687) (cid:14793) 机 - B B C C M M 地 (cid:10687)2 2 C C 1 11 2 2 2 2 2 1 1 0 0 2 2 d b B B B B B B B _ _ K _ _ K K G G G G D D D D 2 2 2 2 4 4 4 4 F F D D B B _ _ G G D D 2 24 4 B B B B _ _ K K G G D D 2 2 4 4A A
+门锁地
+(cid:26743)(cid:26512)(cid:10687) 20 BK
+20 BK
+B_GD24G B_GD24D
+B_GD24G B_GD24D
+BCM地1r
+BCM(cid:10687)1 2 BK B_GD24-1 BK
+2 BK B_GD24-1 BK
+GD吉24
+GD24
+R13
+IRG13Z
+W
+IG2\
+ACC
+ACC
+继电器
+(cid:20854)(cid:18372)(cid:10487)
+3
+3 11
+5 2
+5 2 3
+3 11
+5 2
+5 2 W 3 3 11 W
+4 5 2
+4 5 2
+PSF98A
+A89FSP RD PF13A
+KB-DR A31FP PF67A PR27A
+A76FP A72RP
+DR DR 品 品
+6
+6 PF67A
+A76FP BCD13A
+DR-NG A31DCB Qd-N9
+C39-A
+C39-A F51B PF51A
+B15FP A15FP
+品
+NG DR
+)
+C
+8 BN 52 BN 1
+8 BN 52 BN 1
+BCCO2B C22-B BCCO2A
+BCC02B C22-B BCC02A
+14 GN-BU
+14 GN-BU 9
+BCD19B
+BCD19B 红 GN-BU 2
+GN-BU 2
+BCD19A C2102d
+BCD19A C2102d
+危险警示开关LED
+(cid:9728)(cid:26872)(cid:24053)(cid:19401)(cid:12687)(cid:9218)LED
+白天模式信号
+(cid:18700)(cid:11192)(cid:15536)(cid:12702)(cid:8816)(cid:9862)
+危险警告灯开关
+(cid:9728)(cid:26872)(cid:24053)(cid:9945)(cid:17150)(cid:12687)(cid:9218)

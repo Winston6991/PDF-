@@ -1,0 +1,153 @@
+=== 第103页 ===
+90-1 转向信号灯 / 制动灯 / 危险警告灯 江铃福顺
+(cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785)
+(SRB)
+11-4
+F57
+25A
+BCM 151-10
+C2102a
+(cid:17150)(cid:18372)(cid:16671)(cid:21)(cid:11)(cid:14452)(cid:26755)(cid:23259)(cid:25077)(cid:17150)(cid:6632)
+(cid:9416)(cid:25077)(cid:17150)(cid:6632)(cid:9885)(cid:27021)(cid:17150)(cid:6632)(cid:8865)(cid:25077)(cid:17150)(cid:12)
+75FP
+DR
+F63
+20A
+A36FP
+DR
+F60
+25A
+A06FP
+DR
+90-1 转向信号灯/制动灯/危险警告灯 江铃福顺
+蓄电池
+接线盒
+(SRB) 11-4
+5A F63 F57
+20A 25A
+PF6QA
+豆 PF57
+品
+BCM 151-10
+C2102a
+灯电源2(日间行车灯，
+!刹车灯，后雾灯，倒车灯) 1
+灯电源3(左转灯，右转灯)
+(cid:17150)(cid:18372)(cid:16671)(cid:22)(cid:11)(cid:12405)(cid:25083)(cid:17150)(cid:6632)(cid:9858)(cid:25083)(cid:17150)(cid:12) 17
+17
+灯电源1(高位刹车灯)
+(cid:17150)(cid:18372)(cid:16671)(cid:20)(cid:6628)(cid:28007)(cid:8668)(cid:9416)(cid:25077)(cid:17150)(cid:6629) 18
+18
+C2102c BCANH02
+CANH C2102c BCANH02 模块
+CAN_H 21 YE 通(cid:15536)讯(cid:10726)
+21
+B
+Y
+C
+E
+ANL02
+网(cid:25257)络(cid:24126)
+CANL BCANL02 1(cid:20960)4(cid:20843)4
+仪表台开关
+CAN_L 99 B
+B
+U
+U
+14-4
+(cid:8569)(cid:23287)(cid:9855)(cid:12687)(cid:9218) C2102d CCANH01
+危 (cid:9728) 险 (cid:26872) 警 (cid:24053)(cid:19401) 示 (cid:12687) 开 (cid:9218) 关 L L E E D D C 8 C 1 1 1 1 1 18 8 B B B C C N C C 0 0 1 1B B C C 2 2 2 2 - - 5 A A 2 B B B C C N C C O 0 1 1A A C C 2 2 1 1 0 02 2 c c 危 (cid:9728) 险 (cid:26872) 警 (cid:24053) 示 (cid:19401)(cid:12687) 开 (cid:9218) 关LLEEDD (cid:25122) 输 C (cid:9353) C 出 A AN N _H H 3 3 1 1 C2102d C P C P C K C K A A N N L H 0 0 1 1 模 通 网 (cid:15536) (cid:25257)络 (cid:10726) (cid:24126) 块 讯
+8
+B
+B
+C
+N
+CO2B
+C22-5B2
+B
+B
+C
+N
+CO2A
+1 C
+C
+A
+AN
+N
+_
+L
+L 43 P
+C
+K
+C
+-
+A
+W
+NL
+H
+01 1
+1
+(cid:20960)4
+4
+-
+-
+(cid:20843)
+3
+3
+白天模式信号 BCC02B C22-B BCC02A 白天模式输出 43 PK-WH
+(cid:18700)(cid:11192)(cid:15536)(cid:12702)(cid:8816)(cid:9862) 14 GN-BU 8 GN-BU 2 (cid:18700)(cid:11192)(cid:15536)(cid:12702)(cid:25122)(cid:9353)
+14 BGCND-1BU9B 9
+B
+G
+C
+N
+D
+-B
+1
+U
+9A C2102d
+2
+危险警告灯开关 BCD19B BCD19A C2102d 危险警告灯开关输入
+(cid:9728)(cid:26872)(cid:24053)(cid:9945)(cid:17150)(cid:12687)(cid:9218) 3 BN 29 BN 19 (cid:9728)(cid:26872)(cid:24053)(cid:9945)(cid:17150)(cid:12687)(cid:9218)(cid:25122)(cid:9204)
+3 BN 29 BN 19
+C2102a B_GD24B
+C2102a B_GD24B
+B B C C M M 地 (cid:10687) 1 1 2 BK
+2 BK
+C2102c B_GD24C
+C2102c B_GD24C
+数字地
+(cid:14335)(cid:11750)(cid:10687) 12 BK
+12 C2102d BB_KGD24D B_GD24A
+C2102d B_GD24D B_GD24A
+BCM地2
+BCM(cid:10687)2 12 BK B_GD24 BK
+12 C2102b B B _ K GD24F B_GD24 BK
+门锁地 C2102b B_GD24F
+(cid:26743)(cid:26512)(cid:10687) 20 BK
+20 BK
+C2102b B_GD24G B_GD24D
+C2102b B_GD24G B_GD24D
+BCM地1
+BCM(cid:10687)1 2 BK B_GD24-1 BK
+2 BK B_GD24-1 BK 专
+GD24
+GD24
+危险警示开关LED
+(cid:9728)(cid:26872)(cid:24053)(cid:19401)(cid:12687)(cid:9218)LED
+白天模式信号
+(cid:18700)(cid:11192)(cid:15536)(cid:12702)(cid:8816)(cid:9862)
+危险警告灯开关
+(cid:9728)(cid:26872)(cid:24053)(cid:9945)(cid:17150)(cid:12687)(cid:9218)
+2
+8 BN 52 BN
+8 B N C22-5B2 B N 1
+B C CO2B B C CO2A
+BCC02B C22-B BCC02A
+14 GN-BU 8
+14 BGCND-1BU9B 9
+BCD19B GN-BU 2
+GN-BU 2
+BCD19A C2102d
+BCD19A C2102d

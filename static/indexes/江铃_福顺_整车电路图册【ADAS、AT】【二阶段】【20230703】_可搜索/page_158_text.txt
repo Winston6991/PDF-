@@ -1,0 +1,292 @@
+=== 第158页 ===
+江铃福顺 接插件视图150-14
+江铃福顺 接插件视图 150-14
+C1118 C2006
+C1118 C2006
+14K024 14K024
+14K024 14K024
+仪表台开关 转向角度传感器
+仪表台开关 转向角度传感器
+-
+6 1
+9 1
+18 10
+18 10
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1 CCANL03 PK-WH 0.5 CANL
+1 CCANL03 PK-WH 0.5 CANL
+2 CCANH03 PK 0.5 CANH
+2 CCANH03 PK 0.5 CANH
+3 PF81B WH-RD 0.5 KL15
+针针 1 2 1 脚脚 B B E _ _ C 电电 G G K D D 1 路路 2 2 2 8 8 B B B R 线线 D B B - 色色 K K BK 规规 0 0 0 . . . 格格 5 5 5 接 接 地 地 线线路路功功能能 区区分分条条件件 4 5 3 4 5 B B _ _ P G G F D D 8 - 1 2 2 B 6 6 C C W B H B - - K K RD 0 0 0 . - . . 5 5 5 接 未 K 接 未 L 使 地地 使 15 用用
+3 2 3 B B E C C C D D K 1 1 1 9 2 9 B B B G G R N N D - - - W B W K H H 0 0 0 . . . 5 5 5 危危险险警警告告灯灯开开关关输输入入 6 6 - - - 未未使使用用
+4 4 E E S S P P 1 12 2 B B B B K K - -Y Y E E 0 0 . .5 5 EESSPPO OFFFF开开关关
+5 SWM06 BU 0-.5
+5 SWM06 BU 0.5
+6 6 B B C C D D 2 2 3 3X X B BN N 0 0 . .5 5 室室内内背背景景灯灯输输出出
+7 7 B B _ _ G G D D 2 2 8 8C C B BK K 0 0 . .5 5 接接地地
+8 8 B B C C C C -0 0 1 1B B B B -N N 0 0 .- .5 5 危危险险警警示示开开关关LLEEDD输输出出
+9 SWM4 RD 0.5
+9 SWM4 RD 0.5
+1
+1
+0
+0
+E
+E
+S
+S
+P
+P
+2
+2
+3
+3A
+A B
+BN
+N 0
+0
+.
+.5
+5 E
+E
+S
+S
+P
+P
+O
+O
+F
+F
+F
+F
+指指示示灯灯
+11 SWM05 PK 0.5
+11 SWM05 PK 0.5
+12 EF12E YE 0.5 电源
+12 EF12E YE 0.5 电源
+13 PF80E BK-YE 0.5 电源
+13 PF80E BK-YE 0.5 电源
+1
+1
+4
+4
+B
+B
+C
+C
+C
+C
+0
+0
+2
+2B
+B V
+V
+T
+T
+-
+-O
+O
+G
+G 0
+0
+.
+.5
+5 白白天天模模式式输输出出
+1
+1
+5
+5 - - -
+未未使使用用
+16 ACA34 GN 0.5 5,6,7配置
+1 1 1 7 6 7 A A A C C C A A A 3 3 3 8 4 8 W W GHN H 0 0 0 . . . 5 5 5 5 5 5 , , , 6 6 6 , , , 7 7 7配 配 配 置 置置
+18 未使用
+18 - - - 未使用
+C1118
+C1118
+14K024
+14K024
+仪表台开关
+仪表台开关
+9 1
+18 10
+18 10
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1 B_GD28B BK 0.5 接地
+1 B_GD28B BK 0.5 接地
+2 ECK12B RD-BK 0.5
+2 ECK12B RD-BK 0.5
+3 3 B B C C D D 1 1 9 9 B B G G N N - -W W H H 0 0 . .5 5 危危险险警警告告灯灯开开关关输输入入
+4 4 E E S S P P 1 12 2 B B B B K K - -Y Y E E 0 0 . .5 5 EESSPPO OFFFF开开关关
+5 SWM06 BU 0-.5
+5 SWM06 BU 0.5
+6 6 B B C C D D 2 2 3 3X X B BN N 0 0 . .5 5 室室内内背背景景灯灯输输出出
+7 7 B B _ _ G G D D 2 2 8 8C C B BK K 0 0 . .5 5 接接地地
+8 8 B B C C C C -0 0 1 1B B B B -N N 0 0 .- .5 5 危危险险警警示示开开关关LLEEDD输输出出
+9 SWM4 RD 0.5
+9 SWM4 RD 0.5
+1 0 E S P 2 3 A B N 0 . 5 E S P O F F 指指示示灯灯
+1 0 E S P 2 3A BN 0 .5 E S P O F F
+11 SWM05 PK 0.5
+11 SWM05 PK 0.5
+12 EF12E YE 0.5 电源
+12 EF12E YE 0.5 电源
+13 PF80E BK-YE 0.5 电源
+13 PF80E BK-YE 0.5 电源
+1 4 B C C 0 2 B V T - O G 0 . 5 白白天天模模式式输输出出
+1 4 B C C 0 2B V T -O G 0 .5
+1 5 未未使使用用
+1 5 - - -
+16 ACA34 GN 0.5 5,6,7配置
+1 1 1 7 6 7 A A A C C C A A A 3 3 3 8 4 8 W W GHN H 0 0 0 . . . 5 5 5 5 5 5 , , , 6 6 6 , , , 7 7 7配 配 配 置 置置
+18 未使用
+18 - - - 未使用 C2006
+C2006
+14K024
+14K024
+转向角度传感器
+转向角度传感器
+-
+6 1
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1 CCANL03 PK-WH 0.5 CANL
+1 CCANL03 PK-WH 0.5 CANL
+2 CCANH03 PK 0.5 CANH
+2 CCANH03 PK 0.5 CANH
+3 PF81B WH-RD 0.5 KL15
+3 PF81B WH-RD 0.5 KL15
+4 B _ G D 2 6 C B K 0 . 5 接接地地
+4 B _ G D 26 C BK 0 .5
+5 5 - - - 未未使使用用
+6 6 - - - 未未使使用用
+1
+18
+18
+10
+10
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1
+1 CCANL03
+CCANL03 PK-WH
+PK-WH -
+0.5
+0.5 CANL
+CANL
+2
+2 CCANH03
+CCANH03 PK
+PK 0.5
+0.5 CANH
+CANH
+3
+3 PF81B
+PF81B WH-RD
+WH-RD 0.5
+0.5 KL15
+KL15
+4
+4 B_GD26C
+B_GD26C BK
+BK 0.5
+0.5 接接地地
+5
+5 - - - 未未使使用用
+6
+6 - - - 未未使使用用
+针针脚脚 电电路路 线线色色 规规格格 线线路路功功能能 区区分分条条件件
+1
+1 B_GD28B
+B_GD28B BK
+BK 0.5
+0.5 接地
+接地
+2
+2 ECK12B
+ECK12B RD-BK
+RD-BK 0.5
+0.5
+3
+3 BCD19B
+BCD19B GN-WH
+GN-WH 0.5
+0.5 危危险险警警告告灯灯开开关关输输入入
+4
+4 ESP12B
+ESP12B BK-YE
+BK-YE 0.5
+0.5 EESSPPO OFFFF开开关关
+5
+5 SWM06
+SWM06 BU
+BU 0.5
+0.5
+6
+6 BCD23X
+BCD23X BN
+BN 0.5
+0.5 室室内内背背景景灯灯输输出出
+7
+7 B_GD28C
+B_GD28C BK
+BK 0.5
+0.5 接接地地
+8
+8 BCC01B
+BCC01B BN
+BN 0.5
+0.5 危危险险警警示示开开关关LLEEDD输输出出
+9
+9 SWM4
+SWM4 RD
+RD 0.5
+0.5
+10
+10 ESP23A
+ESP23A BN
+BN 0.5
+0.5 E S P O F F 指指示示灯灯
+E S P O F F
+11
+11 SWM05
+SWM05 PK
+PK -
+0.5
+0.5
+12
+12 EF12E
+EF12E YE
+YE 0.5
+0.5 电源
+电源
+13
+13 PF80E
+PF80E BK-YE
+BK-YE 0.5
+0.5 电源
+电源
+14
+14 -
+BCC02B
+BCC02B -
+VT-OG
+VT-OG -
+0.5
+0.5 白白天天模模式式输输出出
+15
+15 - - - 未未使使用用
+16
+16 ACA34
+ACA34 GN
+GN 0.5
+0.5 5,6,7配置
+5,6,7配置
+17
+17 ACA38
+ACA38 WH
+WH 0.5
+0.5 5 , 6 , 7配配置置
+5 ,6 , 7
+18
+18 - - - 未使用
+未使用

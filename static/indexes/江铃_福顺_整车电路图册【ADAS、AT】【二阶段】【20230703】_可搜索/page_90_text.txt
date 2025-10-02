@@ -1,0 +1,112 @@
+=== 第90页 ===
+江铃福顺 手动空调控制系统 54-2
+江铃福顺 手动空调控制系统 54-2
+前前空空调调控控制制系系统统
+前 (cid:9436) 控 (cid:13878) 制 (cid:9413) 面 (cid:27121)(cid:14862) 板 1 1 5 5 1 1 - -1 1 5 5
+电 (cid:18372) 源 (cid:16671) 冷 (cid:9286)+ (cid:14) 暖 ((cid:14629) (cid:6628) 制 伺 (cid:8649) (cid:9413) 冷 服 (cid:14748) (cid:9286) 电 时(cid:18372) (cid:14469) 机 (cid:14793) (cid:6629) ) 3 3 C 4 C 4 2 2 1 1 0 0 1 1 A A A C C C A A A 3 3 34 3 4 B V V U T T - -B B K K C C 2 2 2 2 3 3 5 2 5 2 冷 (cid:9286) 暖 (cid:14629)(cid:8649) 伺 (cid:14748) 服 (cid:18372) 电 (cid:14793) 机 (cid:14) + (cid:6628) ( (cid:9413) 制 (cid:9286) 冷 (cid:14469) 时 (cid:6629) ) 伺 冷 1 (cid:9286) (cid:8649) 1 5 5 1 服 1 暖 (cid:14629) (cid:14748)- -1 1 电 (cid:27485) (cid:18372) 风 5 5 (cid:26743) (cid:14793) 机 门
+ACA33 BU
+电 (cid:18372) 源 (cid:16671) 冷 (cid:9286)- (cid:16) 暖 (cid:6628) (cid:14629)( 伺 制 (cid:9413) (cid:8649) 服 冷 (cid:9286) (cid:14748) 电 (cid:14469) (cid:18372)时 机 (cid:6629) (cid:14793)) 3 3 3 3 ACA08D GY 6 6 冷 (cid:9286) 暖 (cid:14629) 伺 (cid:8649) 服 (cid:14748)(cid:18372) 电 (cid:14793) 机 (cid:16) - (cid:6628) ( (cid:9413) 制 (cid:9286) 冷 (cid:14469) 时 (cid:6629) )
+ACA08D GY
+冷暖伺服电阻接地
+1 (cid:9286)(cid:14629)(cid:8649)(cid:14748)(cid:18372)(cid:26826)(cid:13876)(cid:10687)
+1
+ACA3B RD0G
+ACA38 RD-OG
+冷暖伺服电机反馈信号 冷暖伺服电机反馈信号
+(cid:9286)(cid:14629)(cid:8649)(cid:14748)(cid:18372)(cid:14793)(cid:9820)(cid:27671)(cid:8816)(cid:9862) 38 2 (cid:9286)(cid:14629)(cid:8649)(cid:14748)(cid:18372)(cid:14793)(cid:9820)(cid:27671)(cid:8816)(cid:9862)
+38 2
+ACA01D WH-RD
+ACA01D WH-RD
+冷暖伺服电阻电源+5V
+3 (cid:9286)(cid:14629)(cid:8649)(cid:14748)(cid:18372)(cid:26826)(cid:18372)(cid:16671)(cid:14)(cid:24)(cid:57)
+3
+伺 (cid:8649) 服 (cid:14748) 电 (cid:18372)(cid:26826) 阻 (cid:18372) 电 (cid:16671) 源 (cid:14) + (cid:24) 5 (cid:57) V C 1 C 1 2 2H H 1 1 0 0 1 1 A A A C C C A A A 0 0 0 1 8 1 A A A G W W H Y H - - R R D D A A C C A A 0 0 1 1 A A A C C C A A A0 D O 1 B 1 C C C G W W H Y H - -R R D D C C 2 2 2 2 2 28 8 3 a 3 a 伺 (cid:8649) 服 (cid:14748)(cid:18372) 电 (cid:26826) 阻 (cid:18372) 电 (cid:16671) 源 (cid:14) + (cid:24) 5 (cid:57) V 伺 模 1 (cid:15536) (cid:8649) 1 5 5 服 1 1 式 (cid:12702) (cid:14748)- -1 1 电 (cid:27485) (cid:18372) 风 5 5 (cid:26743) (cid:14793) 机 门
+伺服电机电阻接地 ACA08A GY ACA08C GY 伺服电阻接地
+(cid:8649)(cid:14748)(cid:18372)(cid:14793)(cid:18372)(cid:26826)(cid:13876)(cid:10687) 8 ACA08 (cid:8649)(cid:14748)(cid:18372)(cid:26826)(cid:13876)(cid:10687)
+8 ACA08 1
+ACA30 OG
+ACA30 OG
+模式伺服电机 模式伺服电机+(吹脸时)
+(cid:15536)(cid:12702)(cid:8649)(cid:14748)(cid:18372)(cid:14793) 30 5 (cid:15536)(cid:12702)(cid:8649)(cid:14748)(cid:18372)(cid:14793)(cid:14)(cid:6628)(cid:9928)(cid:21447)(cid:14469)(cid:6629)
+电 (cid:18372) 源 (cid:16671) + (cid:14) ( (cid:6628) 吹 (cid:9928) 脸 (cid:21447) 时 (cid:14469)(cid:6629) ) 30 ACA31 YE-BK 5
+ACA31 YE-BK
+模式伺服电机 模式伺服电机-(吹脸时)
+电 (cid:18372) 源 (cid:16671) (cid:15536) (cid:16) - (cid:12702) (cid:6628) (吹 (cid:8649) (cid:9928) (cid:14748) (cid:21447) 脸 (cid:18372) (cid:14469) 时 (cid:14793) (cid:6629) ) 3 3 1 1 ACA37 YE 6 6 (cid:15536)(cid:12702)(cid:8649)(cid:14748)(cid:18372)(cid:14793)(cid:16)(cid:6628)(cid:9928)(cid:21447)(cid:14469)(cid:6629)
+ACA37 YE
+模式伺服电机反馈信号 模式伺服电机反馈信号
+(cid:15536)(cid:12702)(cid:8649)(cid:14748)(cid:18372)(cid:14793)(cid:9820)(cid:27671)(cid:8816)(cid:9862) 37 2 (cid:15536)(cid:12702)(cid:8649)(cid:14748)(cid:18372)(cid:14793)(cid:9820)(cid:27671)(cid:8816)(cid:9862)
+37 2
+ACA01B WH-RD C2206 内外循环
+ACA01B WH-RD C220 3 6 内 (cid:9236) 外 (cid:11173) 伺 (cid:8649) 服 (cid:14748) 电 (cid:18372)(cid:26826) 阻 (cid:18372) 电 (cid:16671) 源 (cid:14) + (cid:24) 5 (cid:57) V 伺 1 (cid:9236) (cid:8649)51 服 (cid:11173) (cid:14748)-1 (cid:12857) (cid:18372) 电 5 (cid:17982) (cid:14793) 机
+3 151-15
+ACA01B GY
+ACA01B GY 4 内外伺服电阻接地
+(cid:9236)(cid:11173)(cid:8649)(cid:14748)(cid:18372)(cid:26826)(cid:13876)(cid:10687)
+1
+ACA12 RDBK
+ACA12 RD-BK
+内 (cid:9236) 外 (cid:11173) 循 (cid:12857)(cid:17982) 环 (cid:9820) 反 (cid:27671) 馈 12 2 内 (cid:9236) 外 (cid:11173) 伺 (cid:8649) 服 (cid:14748) 电 (cid:18372) 机 (cid:14793) 反 (cid:9820)(cid:27671) 馈 (cid:8816) 信 (cid:9862) 号
+12 2←
+ACA36 RD
+电 (cid:18372) 源 (cid:16671)(cid:14) + 循 (cid:12857) (cid:6628) (内 环 (cid:17982) (cid:9236) 循 伺 (cid:8649) (cid:12857) (cid:14748) (cid:17982) 环 服 (cid:18372) (cid:14469) 电 时 (cid:14793) (cid:6629) 机 ) 3 3 6 6 A A C CA A 3 3 6 5 O R G D -WH 5 5 内 (cid:9236) 外 (cid:11173) 伺 (cid:8649) 服 (cid:14748) 电 (cid:18372) 机 (cid:14793) + (cid:14) ( (cid:11) 内 (cid:9236) 循 (cid:12857) 环 (cid:17982) 时 (cid:14469) ) (cid:12)
+电 (cid:18372) 源 (cid:16671) - (cid:16) 循 (cid:6628) (cid:12857) (内 环 (cid:9236) (cid:17982) 循 伺 (cid:12857) (cid:8649) 环 (cid:17982) (cid:14748) 服 (cid:14469) (cid:18372) 电 时 (cid:6629) (cid:14793) 机 ) 3 3 5 5 ACA35 OG-WH 6 6 内 (cid:9236) 外 (cid:11173) 伺 (cid:8649) 服 (cid:14748) 电 (cid:18372) 机 (cid:14793) - (cid:16) ( (cid:11)(cid:9236) 内 (cid:12857) 循 (cid:17982) 环时 (cid:14469) ) (cid:12)
+前蒸发温度
+传感器- A A C CA A 1 1 7 7 W WH H C C 2 2 4 4 1 18 8 GND 传 1 (cid:9436) (cid:8623)5 感 1 (cid:22343) (cid:13230)-1 (cid:9824) (cid:10487) 器 5 (cid:16568)(cid:12597)
+(cid:8623)(cid:13230)(cid:10487)(cid:16) 1 1 7 7 2 2 (cid:42)(cid:49)(cid:39) 151-15
+ACA39 YE-WH
+温度传感器+ ACA39 YE-WH VCC
+(cid:16568)(cid:12597)(cid:8623)(cid:13230)(cid:10487)(cid:14) 39 1 (cid:57)(cid:38)(cid:38)
+39 1
+BCM
+背光灯电源+ B B C CD D 2 2 3 3 AB AB B B N N C C 22 22 - - C C _ _ 3 2 . B B C C D D 2 2 3 3A A B B B B N N B B C C D D 2 2 3 3A A C CBN B N C2 C2 2 2- B B B BC C D D 2 2 3 3 A A B BN N C C 2 2 1 1 0 02 2 d d Backlight+ 1 (cid:37) 5 (cid:38) 1- (cid:48) 10
+(cid:21339)(cid:9176)(cid:17150)(cid:18372)(cid:16671)(cid:14) 2 2 2 2 5 5 B B C C D D 2 2 3 3 1 10 0 2 2 3 3 (cid:37)(cid:68)(cid:70)(cid:78)(cid:79)(cid:76)(cid:74)(cid:75)(cid:87)(cid:14) 151-10
+3 3 4 4 5 5
+ACA33BU
+ACA33 BU
+33 6
+33 6
+ACA08D GY
+ACA08D GY
+1
+1
+ACA3B RD0G
+ACA38 RD-OG
+1
+1
+38
+38
+C2H101 ACA01A WH-RD
+C2H101 ACA01A WH-RD
+1
+1
+ACA08A GY
+ACA08A GY ACA01 3
+ACA01 ACADBC GY 3
+ACA08C GY
+8
+8
+ACA30 OG
+ACA30 OG ACA08
+ACA08 1
+30
+30
+ACA31 YE-BK
+ACA31 YE-BK 5
+5
+3 1
+31 ACA37 YE
+ACA37 YE 6
+6
+4
+12 2
+12 2←
+ACA36 RD
+ACA36 RD
+36 5
+36 5
+ACA35 OG-WH
+ACA35 OG-WH
+17 2
+17 2
+ACA39 YE-WH
+ACA39 YE-WH

@@ -1,0 +1,60 @@
+=== 第113页 ===
+100-1 电动窗 江铃福顺
+F51 (cid:24)(cid:36)
+D15FP
+DR
+A61CCB DR-NB A51FP DR-HW A69FSP
+DR
+F96 (cid:25)(cid:19)(cid:36)
+A15FP
+DR
+(cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785)
+(cid:11)(cid:54)(cid:53)(cid:37)(cid:12)
+11-4
+PF51
+PF15
+B51RP EY-DR
+F106 (cid:22)(cid:19)(cid:36)
+A601FSP
+DR
+100-1 电动窗 江铃福顺
+蓄电池
+接线盒
+(SRB)
+11-4
+R15
+身 1
+3
+3
+I(cid:53)G(cid:20)2(cid:24)
+F51 继 (cid:44)(cid:42) 电 (cid:21) 器 F96 F106
+5A 6 (cid:20854)(cid:18372)(cid:10487) 60A 30A
+2 5
+2 5
+PF51D BCC16A BN-RDPF15A DRHW PSF96A PR158 RDYE SF106A VLSJd
+PF51
+PF15
+A
+A
+电动窗
+1(cid:18372)0(cid:9527)0-(cid:19750)2
+100-2
+16C2102c
+16 C2102c
+BCM
+(cid:37)(cid:38)(cid:48)
+IG2继电器
+(cid:44)(cid:42)(cid:21)(cid:20854)(cid:18372)(cid:10487)
+3
+身 1 3
+6
+2 5
+2 5
+PF51D
+D15FP
+DR DRHW PSF96A
+PR158
+DR-HW A69FSP B51RP
+DR PSF96A
+A69FSP

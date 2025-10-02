@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b630aa18-0164-484b-b5b1-1eae21d3451d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="33EKUeA0j5EZgtnv6jSuEl5JgQm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/utils/indexes/light_index_412-DFH1180E3.DFH5180CCYE3.DFH5180XXYE3系列汽车使用手册(D560.KR20.KR21.H1909).json" />
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="pdf_circuit_search" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\86135\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pdf_circuit_search" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\86135\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pdf_processor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pdf_circuit_search" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\86135\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\86135\PycharmProjects\pdf_circuit_search\utils\pdf_processor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search_engine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pdf_circuit_search" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\86135\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\86135\PycharmProjects\pdf_circuit_search\utils\search_engine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="synonym_handler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pdf_circuit_search" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\86135\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/synonym_handler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.synonym_handler" />
+        <item itemvalue="Python.pdf_processor" />
+        <item itemvalue="Python.search_engine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b630aa18-0164-484b-b5b1-1eae21d3451d" name="Default Changelist" comment="" />
+      <created>1758876808622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758876808622</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="230" y="67" width="1089" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1758879364404">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="230" y="67" width="1089" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.823@0.0.1549.823" timestamp="1758879364404" />
+    <state x="520" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1759208094593">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="520" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1549.823@0.0.1549.823" timestamp="1759208094593" />
+    <state x="93" y="93" width="1363" height="637" key="DiffContextDialog" timestamp="1759069752117">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="93" y="93" width="1363" height="637" key="DiffContextDialog/0.0.1549.823@0.0.1549.823" timestamp="1759069752117" />
+    <state x="256" y="174" key="FileChooserDialogImpl" timestamp="1759231591178">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="256" y="174" key="FileChooserDialogImpl/0.0.1549.823@0.0.1549.823" timestamp="1759231591178" />
+    <state width="1506" height="149" key="GridCell.Tab.0.bottom" timestamp="1759377870925">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state width="1506" height="149" key="GridCell.Tab.0.bottom/0.0.1549.823@0.0.1549.823" timestamp="1759377870925" />
+    <state width="1506" height="149" key="GridCell.Tab.0.center" timestamp="1759377870925">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state width="1506" height="149" key="GridCell.Tab.0.center/0.0.1549.823@0.0.1549.823" timestamp="1759377870925" />
+    <state width="1506" height="149" key="GridCell.Tab.0.left" timestamp="1759377870925">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state width="1506" height="149" key="GridCell.Tab.0.left/0.0.1549.823@0.0.1549.823" timestamp="1759377870925" />
+    <state width="1506" height="149" key="GridCell.Tab.0.right" timestamp="1759377870925">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state width="1506" height="149" key="GridCell.Tab.0.right/0.0.1549.823@0.0.1549.823" timestamp="1759377870925" />
+    <state x="284" y="54" key="SettingsEditor" timestamp="1758878762552">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="284" y="54" key="SettingsEditor/0.0.1549.823@0.0.1549.823" timestamp="1758878762552" />
+    <state x="468" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1759377548774">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="468" y="236" key="com.intellij.ide.util.TipDialog/0.0.1549.823@0.0.1549.823" timestamp="1759377548774" />
+    <state x="463" y="144" width="623" height="534" key="find.popup" timestamp="1759146280405">
+      <screen x="0" y="0" width="1549" height="823" />
+    </state>
+    <state x="463" y="144" width="623" height="534" key="find.popup/0.0.1549.823@0.0.1549.823" timestamp="1759146280405" />
+  </component>
+</project>

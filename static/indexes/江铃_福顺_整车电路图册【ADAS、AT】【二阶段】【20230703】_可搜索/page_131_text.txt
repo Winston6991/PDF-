@@ -1,0 +1,82 @@
+=== 第131页 ===
+147-1 盲点监测系统 江铃福顺
+147-1 盲点监测系统 江铃福顺
+保险丝
+继(cid:8812)电(cid:26872)器(cid:8364)
+(cid:20854)(cid:18372)(cid:10487)
+接线盒
+(cid:13876)(cid:20814)(cid:18785)
+( 1(cid:11)1(cid:54)S
+-
+R(cid:53)4 B(cid:37))(cid:12)
+11-4
+F6B
+5F6A8
+1(cid:24)3(cid:36)-9
+13-9
+右外后视镜 151-9
+(cid:9858)(cid:11173)(cid:9885)(cid:23637)(cid:26603) 151-9 C3331b A_GD17X A_GD17A
+C3331b A_GD17X A_GD17A
+接地
+(cid:13876)(cid:10687) 22 B B K K A A _ _ G G D D 1 1 7 7 B B K K ÷ G 1 G 1 0 D 0 D - - 1 9 9 1 7 7 B (cid:37) S (cid:54) D (cid:39) ( (cid:6628) 右 (cid:9858)(cid:6629) ) 1 1 5 5 1 1- - 2 2 0 0
+PARO2B C39-A PAR02B C44H PAR02A C402 C402 CCANH15
+B (cid:37) S (cid:54) D (cid:39) _ (cid:66) L (cid:47) E (cid:40)(cid:39) D+ (cid:14) 4 R P R D A D - R -O 0 0 G G 2B C39 2 2 - 1 A 1 R P R D A D - R -O 0 0 G 2 G B C44 7 -H 7 0 P O G A G R02A C40 2 2 2 B (cid:37) S (cid:54) D (cid:39) _ (cid:66) L (cid:47)(cid:40) E (cid:39) D (cid:14) + C (cid:38) _ (cid:66)(cid:38) C (cid:36) A (cid:49) N (cid:66)(cid:43) H 5 C 5 402 P C C PC K K C A A N N L H 1 15 5 模 通 网 (cid:15536) (cid:25257) 络 讯 块 (cid:10726) (cid:24126)
+C_CANL CCANL15 1 (cid:20960) 4 (cid:20843) 3
+(cid:38)(cid:66)(cid:38)(cid:36)(cid:49)(cid:66)(cid:47) 12 PK-WH 14-3
+B_GD33H 12 PK-WH
+B_GD33H
+接地
+B BK K 9 9 (cid:13876)(cid:10687) CAN_B_H M M C C A A H H 0 0 3 3A A
+(cid:38)(cid:36)(cid:49)(cid:66)(cid:37)(cid:66)(cid:43) 3 YE
+3 YE
+PF68EA PF68EA PF68D PF68 PF6BC MCAL03A
+G P G N F N 6 - -B 8 B E U U A 2 2 2 2 G P G N F N - 6 - B B 8E U U A 8 8 少 G P G N F N - 6 -B 8 B D U U PF68 G P G N F N - 6 - B B 8C U U 6 6 电 (cid:18372)(cid:16671) 源 C (cid:38) A (cid:36) N (cid:49) _ (cid:66) B (cid:37) _ (cid:66)(cid:47) L 1 1 0 0 B M B U U CAL03A
+BSD(左) 151-20
+(cid:37)(cid:54)(cid:39)(cid:6628)(cid:12405)(cid:6629) 151-20
+PF68BB C407 C407
+PF68B C407 电源 CAN_BL C407
+G G N N - - B BU U 6 6 (cid:18372)(cid:16671) (cid:38)(cid:36)(cid:49)(cid:66)(cid:37)(cid:66)(cid:47) 1 1 0 0
+B_GD33DC B_GD33HB B_GD33HA B_GD33G
+B_GD33DC B_GD33HB B_GD33HA B_GD33G 接地 CAN_B_H
+G B DB K 3K3 B B _ _G G D D 3 3 3 3 B B K K 1 B B K K B B _ _G G D D 3 3 3 3 B B K K 9 9 (cid:13876)(cid:10687) (cid:38)(cid:36)(cid:49)(cid:66)(cid:37)(cid:66)(cid:43) 3 3
+左 (cid:12405) 外 (cid:11173) 后 (cid:9885)(cid:23637) 视 (cid:26603) 镜 1 1 5 5 1 1 - -1 1 0 0 ÷ 1 G 1 0 0 D - - 9 3 9 3 B B B B _ _ K K G G D D 3 3 3 3F F 8 8 接 (cid:13876)(cid:10687) 地 C (cid:38) _ (cid:66) C (cid:38) A (cid:36) N (cid:49) _ (cid:66)(cid:43) H 5 5 C P C C P C C K K C A A A N N N H L H 1 1 16 6 6 网 模 通 (cid:15536) (cid:25257) 络 讯 块 (cid:10726) (cid:24126)
+C3326b PAL02B C39-A、 PAL02B PAL02A C_CANL CCANL16 1 (cid:20960) 4 (cid:20843) 3
+BSD_LED+ C3326b PAL02B C39-A PAL02B h PAL02A BSD_LED+ (cid:38)(cid:66)(cid:38)(cid:36)(cid:49)(cid:66)(cid:47) 12 U PK-WH 14-3
+(cid:37)(cid:54)(cid:39)(cid:66)(cid:47)(cid:40)(cid:39)(cid:14) 44 O O G G 2 2 3 3 O O G G 5 5 0 O G G 2 2 (cid:37)(cid:54)(cid:39)(cid:66)(cid:47)(cid:40)(cid:39)(cid:14) 12 PK-WH
+A_GD24X A_GD24A
+A_GD24X A_GD24A
+接地
+(cid:13876)(cid:10687) 2 BK A_GD24BK GD24
+2 BK A_GD24 BK 吉1G0D-294
+10-9
+RD-0G
+RD-OG 7 7
+PF68EA
+PF68EA
+少 0G 2
+OG 2
+B_GD33H
+B_GD33H
+BK 9
+BK 9
+PF68D PF68 PF6BC
+PF68D PF68 PF68C
+BK 9
+BK 9
+PF68 PF6BC
+PF68 PF68C
+GN-BU
+GN-BU
+B_GD33HA
+B_GD33HA
+BK B_GD33 BK 9
+BK B_GD33 BK 9
+B_GD33F
+B_GD33F
+BK 8
+BK 8
+PAL02A
+PAL02A B_GD33 BK 9
+B_GD33 BK 9
+B_GD33F
+B_GD33F

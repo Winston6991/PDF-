@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ short_filename }} - 查看与搜索</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        body { margin: 0; padding: 20px; font-family: "Microsoft YaHei", Arial, sans-serif; background: #f5f5f5; }
+        .container { max-width: 1600px; margin: 0 auto; }
+        
+        .top-bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; padding: 15px; background: white; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); flex-wrap: wrap; gap: 15px; }
+        .back-link { color: #3498db; text-decoration: none; font-size: 16px; display: flex; align-items: center; gap: 8px; transition: color 0.3s; }
+        .back-link:hover { color: #2980b9; }
+        
+        .search-container { display: flex; gap: 10px; width: 100%; max-width: 700px; }
+        .search-input { padding: 12px 15px; font-size: 16px; width: 100%; border: 1px solid #ddd; border-radius: 4px; transition: border 0.3s; }
+        .search-input:focus { border-color: #3498db; outline: none; }
+        .search-btn { padding: 12px 25px; background: #3498db; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; display: flex; align-items: center; gap: 8px; transition: background 0.3s; }
+        .search-btn:hover { background: #2980b9; }
+        
+        .meta-info { display: flex; flex-wrap: wrap; gap: 20px; padding: 15px; background: white; border-radius: 8px; margin-bottom: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .meta-item { display: flex; align-items: center; gap: 8px; color: #34495e; font-size: 15px; }
+        .meta-item i { color: #3498db; width: 20px; text-align: center; }
+        
+        /* 搜索结果样式 */
+        .search-results { background: white; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .results-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; padding-bottom: 15px; border-bottom: 1px solid #eee; }
+        .results-title { margin: 0; color: #2c3e50; display: flex; align-items: center; gap: 10px; }
+        .search-terms { font-size: 0.9em; color: #7f8c8d; margin-left: 10px; }
+        .search-terms span { color: #3498db; font-weight: 500; }
+        
+        .result-summary { padding: 15px; background: #f8f9fa; border-radius: 4px; margin-bottom: 20px; font-size: 15px; color: #34495e; }
+        .summary-highlight { color: #e74c3c; font-weight: 500; }
+        
+        .result-list { max-height: 300px; overflow-y: auto; padding-right: 10px; }
+        .result-item { padding: 15px; border-radius: 4px; margin-bottom: 10px; background: #fafbfc; border-left: 4px solid #ddd; transition: all 0.3s; cursor: pointer; }
+        .result-item:hover { background: #f1f8e9; transform: translateX(5px); }
+        /* 按相关度显示不同边框色 */
+        .result-item.high-relevance { border-left-color: #2ecc71; }  /* 高相关度：绿色 */
+        .result-item.medium-relevance { border-left-color: #f39c12; }  /* 中相关度：橙色 */
+        .result-item.low-relevance { border-left-color: #95a5a6; }  /* 低相关度：灰色 */
+        
+        .result-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+        .page-number { font-weight: 600; color: #2980b9; display: flex; align-items: center; gap: 5px; }
+        .relevance-tag { padding: 3px 8px; border-radius: 12px; font-size: 0.8em; font-weight: 500; }
+        .relevance-high { background: #e8f5e9; color: #27ae60; }
+        .relevance-medium { background: #fff3e0; color: #e67e22; }
+        .relevance-low { background: #f5f5f5; color: #7f8c8d; }
+        
+        .result-text { font-size: 14px; color: #34495e; line-height: 1.6; }
+        mark { background: #fff3cd; padding: 0 3px; border-radius: 2px; color: #d35400; }
+        
+        .no-result { padding: 30px; text-align: center; background: #fef2f2; border-radius: 4px; color: #dc3545; }
+        .no-result i { font-size: 36px; margin-bottom: 15px; }
+        
+        /* 搜索导航按钮 */
+        .search-navigation { display: flex; justify-content: center; gap: 15px; margin-top: 20px; }
+        .nav-btn { padding: 10px 25px; border: none; border-radius: 4px; cursor: pointer; font-size: 15px; display: flex; align-items: center; gap: 8px; transition: background 0.3s; }
+        .nav-btn.prev { background: #f1f5f9; color: #34495e; }
+        .nav-btn.prev:hover:not(:disabled) { background: #e2e8f0; }
+        .nav-btn.next { background: #3498db; color: white; }
+        .nav-btn.next:hover:not(:disabled) { background: #2980b9; }
+        .nav-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+        
+        /* PDF控制栏和容器样式 */
+        .pdf-section { background: white; border-radius: 8px; padding: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .pdf-controls { display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 20px; flex-wrap: wrap; }
+        .control-btn { padding: 10px 18px; border: 1px solid #ddd; border-radius: 4px; cursor: pointer; background: white; font-size: 15px; display: flex; align-items: center; gap: 8px; transition: all 0.3s; }
+        .control-btn:hover { background: #f8f9fa; border-color: #3498db; color: #3498db; }
+        
+        .page-info { padding: 10px 20px; background: #f1f5f9; border-radius: 4px; font-size: 15px; color: #34495e; min-width: 180px; text-align: center; }
+        .page-info span { font-weight: 600; color: #2980b9; }
+        
+        .zoom-controls { display: flex; gap: 10px; margin-left: 15px; padding-left: 15px; border-left: 1px solid #eee; }
+        
+        #pdf-container { width: 100%; height: 80vh; border: 1px solid #eee; border-radius: 4px; overflow: hidden; background: #fafbfc; position: relative; }
+        .pdf-loading { position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; background: rgba(255,255,255,0.8); z-index: 10; }
+        .pdf-loading i { font-size: 48px; color: #3498db; margin-bottom: 15px; animation: spin 2s linear infinite; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        
+        .pdf-fallback { padding: 50px; text-align: center; color: #7f8c8d; }
+        .pdf-fallback a { color: #3498db; text-decoration: none; }
+        .pdf-fallback a:hover { text-decoration: underline; }
+        
+        /* 特定PDF提示 */
+        .special-notice { background: #fff3e0; border-left: 4px solid #f57c00; padding: 12px 15px; margin-bottom: 20px; border-radius: 0 4px 4px 0; }
+        .special-notice p { margin: 0; color: #e65100; font-size: 14px; display: flex; align-items: center; gap: 8px; }
+        
+        @media (max-width: 1024px) {
+            .pdf-controls { gap: 10px; }
+            .control-btn { padding: 8px 12px; font-size: 14px; }
+            .page-info { padding: 8px 15px; min-width: 150px; }
+        }
+        
+        @media (max-width: 768px) {
+            .search-container { flex-direction: column; }
+            .result-header { flex-direction: column; align-items: flex-start; gap: 5px; }
+            .pdf-controls { flex-direction: column; align-items: stretch; }
+            .zoom-controls { margin: 10px 0 0; padding: 10px 0 0; border-left: none; border-top: 1px solid #eee; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- 顶部导航 -->
+        <div class="top-bar">
+            <a href="{{ url_for('index') }}" class="back-link">
+                <i class="fas fa-arrow-left"></i> 返回PDF列表
+            </a>
+            <form class="search-container" action="{{ url_for('view_pdf', pdf_filename=pdf_filename) }}" method="get">
+                <input type="text" class="search-input" name="keyword"
+                       placeholder="输入元器件名称（如：ABS控制器、轮速传感器、ESC关断开关）"
+                       value="{{ keyword if keyword else '' }}">
+                <button type="submit" class="search-btn">
+                    <i class="fas fa-search"></i> 搜索
+                </button>
+            </form>
+        </div>
+
+        <!-- 特定PDF提示 -->
+        {% if is_special_pdf %}
+        <div class="special-notice">
+            <p><i class="fas fa-info-circle"></i> 这是陕汽轩德翼3电路图专用搜索，已内置元器件与页码对应关系，搜索结果更加精准</p>
+        </div>
+        {% endif %}
+
+        <!-- 文件信息 -->
+        <div class="meta-info">
+            <div class="meta-item"><i class="fas fa-file-pdf"></i> 文件：{{ short_filename }}</div>
+            <div class="meta-item"><i class="fas fa-file-alt"></i> 总页数：{{ total_pages }} 页</div>
+            <div class="meta-item"><i class="fas fa-microchip"></i> 元器件总数：{{ total_components }} 个</div>
+            {% if keyword and search_result %}
+                <div class="meta-item"><i class="fas fa-search"></i> 搜索结果：{{ search_result.total }} 个匹配项</div>
+            {% endif %}
+        </div>
+
+        <!-- 搜索结果 -->
+        {% if keyword %}
+            <div class="search-results">
+                <div class="results-header">
+                    <h3 class="results-title">
+                        <i class="fas fa-search"></i> 搜索结果：「{{ keyword }}」
+                        {% if search_result and search_result.search_terms|length > 1 %}
+                            <span class="search-terms">（含同义词：<span>{{ search_result.search_terms|join('、')|replace(keyword.lower(), keyword) }}</span>）</span>
+                        {% endif %}
+                    </h3>
+                </div>
+
+                <!-- 有匹配结果 -->
+                {% if search_result and search_result.total > 0 %}
+                    <div class="result-summary">
+                        共找到 <span class="summary-highlight">{{ search_result.total }}</span> 个匹配项，按相关度排序
+                        {% if is_special_pdf %}
+                            （<span class="summary-highlight">精准匹配 > 模糊匹配</span>）
+                        {% else %}
+                            （<span class="summary-highlight">元件标题 > 元件描述/表格 > 普通文本</span>）
+                        {% endif %}
+                    </div>
+                    
+                    <div class="result-list" id="result-list">
+                        {% for result in search_result.results %}
+                            <div class="result-item 
+                                {% if result.relevance_score >= 3.5 %}high-relevance{% elif result.relevance_score >= 2.5 %}medium-relevance{% else %}low-relevance{% endif %}"
+                                data-page="{{ result.page_num }}" 
+                                data-index="{{ loop.index0 }}">
+                                <div class="result-header">
+                                    <span class="page-number">
+                                        <i class="fas fa-file-page"></i> 第{{ result.page_num }}页
+                                    </span>
+                                    <span class="relevance-tag 
+                                        {% if result.relevance_score >= 3.5 %}relevance-high{% elif result.relevance_score >= 2.5 %}relevance-medium{% else %}relevance-low{% endif %}">
+                                        {% if result.relevance_score >= 3.5 %}
+                                            高相关度（精准匹配）
+                                        {% elif result.relevance_score >= 2.5 %}
+                                            中相关度（模糊匹配）
+                                        {% else %}
+                                            低相关度
+                                        {% endif %}
+                                        （{{ result.relevance_score }}分）
+                                    </span>
+                                </div>
+                                <div class="result-text">
+                                    {{ result.highlighted_text|safe }}
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                    
+                    <div class="search-navigation">
+                        <button class="nav-btn prev" id="prev-result" disabled>
+                            <i class="fas fa-chevron-left"></i> 上一处
+                        </button>
+                        <button class="nav-btn next" id="next-result" {% if search_result.total <= 1 %}disabled{% endif %}>
+                            下一处 <i class="fas fa-chevron-right"></i>
+                        </button>
+                    </div>
+
+                <!-- 无匹配结果 -->
+                {% else %}
+                    <div class="no-result">
+                        <i class="fas fa-exclamation-circle"></i>
+                        <h3>未找到相关结果</h3>
+                        <p>请尝试其他关键词或检查PDF是否已正确处理</p>
+                    </div>
+                {% endif %}
+            </div>
+        {% endif %}
+
+        <!-- PDF预览区域 -->
+        <div class="pdf-section">
+            <!-- PDF控制栏 -->
+            <div class="pdf-controls">
+                <button class="control-btn" id="first-page"><i class="fas fa-angle-double-left"></i> 首页</button>
+                <button class="control-btn" id="prev-page"><i class="fas fa-angle-left"></i> 上一页</button>
+                <div class="page-info">
+                    第 <span id="current-page">1</span> 页 / 共 {{ total_pages }} 页
+                </div>
+                <button class="control-btn" id="next-page"><i class="fas fa-angle-right"></i> 下一页</button>
+                <button class="control-btn" id="last-page"><i class="fas fa-angle-double-right"></i> 末页</button>
+                
+                <div class="zoom-controls">
+                    <button class="control-btn" id="zoom-in"><i class="fas fa-search-plus"></i> 放大</button>
+                    <button class="control-btn" id="zoom-out"><i class="fas fa-search-minus"></i> 缩小</button>
+                    <button class="control-btn" id="zoom-reset"><i class="fas fa-compress-arrows-alt"></i> 重置缩放</button>
+                </div>
+            </div>
+
+            <!-- PDF容器 -->
+            <div id="pdf-container">
+                <div class="pdf-loading" id="pdf-loading">
+                    <i class="fas fa-spinner"></i>
+                    <p>PDF加载中...</p>
+                </div>
+                <object
+                    id="pdf-object"
+                    data="{% if is_special_pdf %}{{ url_for('serve_pdf', pdf_filename=pdf_filename) }}{% else %}{{ url_for('serve_pdf', pdf_filename=pdf_filename) }}#page=1{% endif %}"
+                    type="application/pdf"
+                    width="100%"
+                    height="100%"
+                >
+                    <div class="pdf-fallback">
+                        <i class="fas fa-file-pdf" style="font-size: 48px; margin-bottom: 20px;"></i>
+                        <h3>您的浏览器不支持PDF预览</h3>
+                        <p>请<a href="{{ url_for('serve_pdf', pdf_filename=pdf_filename) }}" target="_blank">点击下载PDF文件</a>查看</p>
+                    </div>
+                </object>
+            </div>
+        </div>
+    </div>
+
+    <!-- 交互脚本 -->
+    <script>
+        // 全局变量
+        const pdfObject = document.getElementById('pdf-object');
+        const pdfLoading = document.getElementById('pdf-loading');
+        const currentPageEl = document.getElementById('current-page');
+        const totalPages = {{ total_pages }};
+        let currentPage = 1;
+        let pdfLoaded = false;
+        let currentScale = 1.0;  // PDF缩放比例
+        let currentResultIndex = -1;
+        const totalResults = {{ search_result.total if search_result else 0 }};
+        const resultItems = document.querySelectorAll('.result-item');
+        const prevResultBtn = document.getElementById('prev-result');
+        const nextResultBtn = document.getElementById('next-result');
+        const isSpecialPdf = {{ 'true' if is_special_pdf else 'false' }};
+
+        // 检测PDF加载状态
+        pdfObject.onload = () => {
+            pdfLoaded = true;
+            pdfLoading.style.display = 'none';
+            // 恢复缩放比例
+            if (currentScale !== 1.0) {
+                adjustZoom(currentScale);
+            }
+        };
+        pdfObject.onerror = () => {
+            pdfLoading.innerHTML = '<i class="fas fa-exclamation-triangle"></i><p>PDF加载失败，请刷新页面重试</p>';
+            pdfLoading.style.background = 'rgba(255,248,248,0.8)';
+        };
+
+        // 跳转页面函数
+        function goToPage(pageNum) {
+            if (pageNum < 1 || pageNum > totalPages) {
+                alert('页码超出范围！');
+                return;
+            }
+
+            if (!pdfLoaded) {
+                alert('PDF正在加载中，请稍候...');
+                return;
+            }
+
+            try {
+                const pdfUrl = new URL(pdfObject.data);
+                pdfUrl.hash = `page=${pageNum}`;
+                pdfObject.data = pdfUrl.toString();
+
+                currentPage = pageNum;
+                currentPageEl.textContent = currentPage;
+                window.location.hash = `page=${pageNum}`;
+                
+                // 更新结果项高亮
+                highlightCurrentResult();
+            } catch (e) {
+                alert(`跳转失败，请手动切换到第${pageNum}页`);
+            }
+        }
+
+        // 缩放控制函数
+        function adjustZoom(scale) {
+            if (!pdfLoaded) return;
+            
+            // 限制缩放范围（0.5-3.0倍）
+            scale = Math.max(0.5, Math.min(3.0, scale));
+            currentScale = scale;
+            
+            // 适配不同浏览器的缩放方式
+            if (typeof pdfObject.zoom === 'number') {
+                pdfObject.zoom = scale;
+            } else if (pdfObject.contentDocument) {
+                // 部分浏览器通过contentDocument控制
+                const pdfDoc = pdfObject.contentDocument;
+                pdfDoc.body.style.transform = `scale(${scale})`;
+                pdfDoc.body.style.transformOrigin = 'top left';
+                pdfDoc.body.style.width = `${100 / scale}%`;
+            }
+        }
+
+        // 高亮当前结果
+        function highlightCurrentResult() {
+            resultItems.forEach((item, index) => {
+                if (parseInt(item.dataset.page) === currentPage && index === currentResultIndex) {
+                    item.style.background = '#e8f5e9';
+                    item.style.borderLeftColor = '#2ecc71';
+                } else {
+                    item.style.background = '';
+                    item.style.borderLeftColor = '';
+                }
+            });
+        }
+
+        // 搜索结果导航
+        function navigateResults(direction) {
+            if (totalResults <= 0) return;
+            
+            // 计算新索引
+            if (direction === 'next') {
+                currentResultIndex = (currentResultIndex + 1) % totalResults;
+            } else {
+                currentResultIndex = (currentResultIndex - 1 + totalResults) % totalResults;
+            }
+            
+            // 更新按钮状态
+            prevResultBtn.disabled = (currentResultIndex === 0);
+            nextResultBtn.disabled = (totalResults <= 1 || currentResultIndex === totalResults - 1);
+            
+            // 跳转到对应页面
+            const targetPage = parseInt(resultItems[currentResultIndex].dataset.page);
+            goToPage(targetPage);
+            
+            // 滚动到结果项
+            resultItems[currentResultIndex].scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+
+        // 绑定PDF控制栏按钮事件
+        document.getElementById('first-page').onclick = () => goToPage(1);
+        document.getElementById('last-page').onclick = () => goToPage(totalPages);
+        document.getElementById('prev-page').onclick = () => goToPage(currentPage - 1);
+        document.getElementById('next-page').onclick = () => goToPage(currentPage + 1);
+        
+        // 缩放按钮事件
+        document.getElementById('zoom-in').onclick = () => adjustZoom(currentScale + 0.1);
+        document.getElementById('zoom-out').onclick = () => adjustZoom(currentScale - 0.1);
+        document.getElementById('zoom-reset').onclick = () => adjustZoom(1.0);
+
+        // 绑定搜索结果项的跳转事件
+        resultItems.forEach((item, index) => {
+            item.onclick = () => {
+                currentResultIndex = index;
+                prevResultBtn.disabled = (currentResultIndex === 0);
+                nextResultBtn.disabled = (totalResults <= 1 || currentResultIndex === totalResults - 1);
+                goToPage(parseInt(item.dataset.page));
+            };
+        });
+
+        // 绑定结果导航按钮事件
+        prevResultBtn.onclick = () => navigateResults('prev');
+        nextResultBtn.onclick = () => navigateResults('next');
+
+        // 页面加载时检查URL中的页码
+        window.onload = () => {
+            const hash = window.location.hash;
+            if (hash.startsWith('#page=')) {
+                const pageNum = parseInt(hash.split('=')[1]);
+                if (!isNaN(pageNum) && pageNum >= 1 && pageNum <= totalPages) {
+                    currentPage = pageNum;
+                    currentPageEl.textContent = currentPage;
+                    // 延迟跳转，等待PDF加载
+                    setTimeout(() => goToPage(pageNum), 500);
+                }
+            }
+        };
+    </script>
+</body>
+</html>

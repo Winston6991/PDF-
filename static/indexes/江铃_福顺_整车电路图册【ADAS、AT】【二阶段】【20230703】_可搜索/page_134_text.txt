@@ -1,0 +1,127 @@
+=== 第134页 ===
+江铃福顺 车身控制模块 (BCM) 148-2
+A69FSP
+DR
+D51RP EY-DR
+BCM 151-10 C27FP
+DR
+蓄电池
+接线盒
+(SRB)
+11-4
+A B
+14-1 14-1 BCM BCM IGN2继电器输出回路
+16
+IGN1状态回读信号
+5
+IGN2状态回读信号
+IGN1继电器输出回路 6
+15
+LIN_BUS1 8
+LIN_BUS2
+20
+A99FSP NG-HW
+F99
+40A
+A41RP
+DR
+G41RP DR-HW
+F69
+5A
+A96FP
+DR
+PF69B
+PF69 RD
+E15FP
+DR
+A51CCB DR-HW
+R14 1 3 IG1 继电器 F96
+60A
+2 5
+A51FP DR-HW
+F72
+5A
+PF15
+A27FP
+DR
+PF72
+PR14
+D15FP
+DR
+A61CCB DR-NB
+江铃福顺 车身控制模块(BCM) 148-2
+蓄电池
+接线盒
+(SRB)
+11-4
+R14 R15
+自 1 3 I 继 G1 电器 F99 5 1 1 3 3 继 I R I 继 G G 1 电 2 2 电 5 器器 F96 F72 40A 60A 5A
+5 2 5
+2 5
+PF51E BCC15A WHRDPR14A PSF9A NGHW PR14G 品HWPF69A F51D BCC16A BNRDPF15A WHRD PSF96A PR150 RDYE PF72A
+品 品 显 品 品
+PF72
+PR14
+A B PF15 BCM 151-10 PF72C r-
+14-1 14-1 C2102c 品
+BCM BCM C2102c IGN2继电器输出回路 16
+PF69B
+PF69 RD 5 IGNI状态回读信号 C2102c
+C2102c
+IGN2状态回读信号
+6
+IGN1继电器输出回路 C2102b BCB13A BU 15 C2102b BCB13A BU
+点 点 火 火 开 开关 关 A 1 A 1 C 5 C 5 5 5 C 1 C 0 1 0 - -5 5 C C 6 2 7 7 6 2 0 0 3 32 2 B B B B P B B B B C K U C F C K C U C - - C 6 - C C - W W 2 W W 2 9 2 2 3 H H H H 2 3 2 H A A A A A 3 4 3 4 2 7 0 0 C C C 2 2 2 2 2 2 - - -A A B P B B B B B B B B F C K U C C K C U 6 C - - - C C - C W W 9 2 W W 2 2 3 H H 2 H 2 3 H H A A A A 2 2 2 2 2 3 3 2 6 A S S A C T T C C A A C 信 R R 信 T 侧 T 号 信 侧 信 号 拉 尾 前前 尾 拉 号 开 号 开 门 门 门 门 门 门 开 开 关关 开 开 开 开 开 开 关 关 锁 锁 锁 锁 锁 锁 闭 电 电 电 电 电 闭 电 四 锁 机 机 机 四 锁 机 机 机 门 输 输 门 输 输 输 输 输 输 锁 出 出 锁 出 出出 出 出 出! 1 1 1 1 1 1 1 1 7 9 5 7 9 5 3 3 C2102c B B B B B B B C C C C C C C C B B B B B B 1 1 1 1 1 1 1 7 5 9 8 5 9 7 A A A A A A A V R O B B V R D G T U T U D - - B - - W B W G K K H N H
+制动液位开关 K K 1 L L 5 1 1 1 5 5 -7 1 R P R D F D 69HA 5 5 6 6 C22-B R P R D F D 69H 1 10 0 IG IG N N 信信 后 号 后 号 背背 开开 门门 关关 状 闭 状 闭 态 锁 态 锁 开 开 开 开 后 关 关 关 后 关 输 背 输 背 输 输入 门 入入 门 入i 1 1 8 3 8 c C C c2 2 2 2 1 1 1 1 0 0 0 0 2 2 2 2 c d B B B C C C C C C 0 1 0 8 3 3 A A A V O V T T G - - - G G G N N N
+B O B O C G C G E - E - 2 B B 2 7 K 7 K S S C C 1 1 1 11 1 9 1 9 1 制 B 动 B R R A 液 A K K 位 E E 开关 L I S _S _ _ B B R RK K 1 M M 5 N N 1-7 C 2 C 2 1 1 1 1 1 1 9 9 B W B W C C H H E E 1 16 6 A A C C 2 2 1 1 0 02 2 e e 1 16 6 制制动动液液 右 侧 右 侧 位位 前 拉 前 拉 报报 门 门 门 门 警警 状 状 状状 检检 态 态 态态 测测 开 开 信信 开开 关 关 号号 关关 输 输 输 输 入 入 入 入 3 1 3 3 9 3 3 C2102c B B B B C C C C C C C C 3 1 3 1 9 3 3 A A 9 A A A A Y Y W W E E - - W W H H
+19 BCC17A VT-BK
+B B C C E E 2 2 7 7 B O B O G C C G - E E - B B 2 2 K 7 K 7 A A C C 2 2 1 10 0 2 2 e e 2 27 7 采 采 样 样 信 信 左左 左左 号 号 前前 前前 地 地 门门 门门 状状 SS 态 EE 态 TT 开 开 开 开 关 关 关 关 输 输 输 输 入 入 入 入 1 4 4 7C c C 2 2 2 1 1 1 0 0 0 2 2 2 d d c B B B B C C C C C D C D 3 0 1 0 7 4 6 4 A A A A V G V G T Y T Y - B B K K 1 中 中 1 1 1 3 控 3 控- -1 1门 门 锁 锁
+B O B O C G C G E - E - 2 B B 2 7 K 7 K C C C C 1 1 4 4 0 0 2 7 7 2 室 室 外 - 外 温 温度 度 传 传 感 感 器 器 1 1 5 5 1 1 + - - 1 1 C C 1 1 1 4 4 0 0 7 7 B G B G C N C N E E 3 30 0 A A C C 2 2 1 1 0 0 2 2e e 3 30 0 室 信 传 室 传 信 外 号 感 外 感 号 左左 温 输 器 温 器 输 前前 度度 入入 门门R 开 REE 开 S 关 SEE 关 T 信 T 前 开开 前 信号 门 关关 门 号输 闭 输输 闭 输入 入 锁 入 锁 入 ! 3 3 3 3 6 4 6 4 C2102c B B B C C C C C C 3 3 3 4 6 4 A A A B B V N N T - - - B W W K H H
+C2102d BCD21A BK
+C2102d BCD21A BK
+通 网 通 网 信 络 信 络 B P P B C K K C C - - C W O 0 W H 8 8 H B B C C 2 2 1 1 0 0 2 2 8 c c LN_
+前前
+BU
+门门
+S
+解
+1
+解锁锁开开关关信信号号输输入入!
+2 2 1 1 C C 2 2 1 1 0 0 2 2c c B B C C C C3 3 4 4 A A B B N N - -W W H H 模模 14 块块 6 B B C C C C 2 2 0 0A A LN_ 前前 B 门 U 门 S 闭 2 闭锁锁开开关关信信号号输输入入 3 3 4 4
+14-6 BU-RD 20
+BU-RD C21026 BCB17A BU
+C2102b BCB17A BU
+前前门门解解锁锁开开关关信信号号输输入入
+17
+17
+1 3
+1 3
+2 5
+2 5
+PSF9A NGHW PR14G
+A99FSP NG-HW G41RP
+DR 品 NGHW
+NG-HW WHRD PSF96A PR150
+DR-HW A69FSP D51RP
+DR 品 DR 品
+6
+50
+50
+ACC
+ACC
+KL15
+KL15
+7 BK-WH 40
+7 BK-WH 40
+BCC23A
+BCC23A BK-WH 2
+B B C K- C W 3 H A 22
+BCC23A 2
+A
+6 BU-WH 32 BU-WH 23
+6 P B F U 6 -W 9 H HA 37C22-B P B F U 6 -W 9H H 23
+PF69HA C22-B PF69H 2 I
+室
+!
+i
+- +

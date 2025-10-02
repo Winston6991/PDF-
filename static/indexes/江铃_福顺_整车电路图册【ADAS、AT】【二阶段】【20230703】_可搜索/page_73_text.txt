@@ -1,0 +1,108 @@
+=== 第73页 ===
+29-1 变速器控制 江铃福顺
+(cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785)
+(cid:11)(cid:54)(cid:53)(cid:37)(cid:12)
+11-4
+3 1
+F61 F70 F99 F51 (cid:24)(cid:36) (cid:24)(cid:36) (cid:23)(cid:19)(cid:36) (cid:24)(cid:36)
+13-9
+5 2
+A16FP
+DR
+A07FP DR-HW X41RP DR-HW
+(cid:51)(cid:40)(cid:51)(cid:54) 151-10
+C2028a
+(cid:44)(cid:42)(cid:49)(cid:20)(cid:20854)(cid:18372)(cid:10487)(cid:13878)(cid:9413)
+11
+(cid:54)(cid:38)(cid:56)
+PF70A C2029
+(cid:44)(cid:42)(cid:49)
+WH-RD 8
+PF61A
+(cid:37)(cid:14)
+GN-BK 7
+A_GD28
+GD28
+10-4
+PCANH08
+(cid:38)(cid:36)(cid:49)(cid:16)(cid:43) WH 4
+PCANL08
+(cid:38)(cid:36)(cid:49)(cid:16)(cid:47) GN 9
+A15FP
+DR
+(cid:53)(cid:20)(cid:23)
+(cid:44)(cid:42)(cid:20)
+(cid:20854)(cid:18372)(cid:10487)
+PF51
+A99FSP NG-HW A41RP
+DR
+B11AEP HW-DR E15FP
+DR
+29-1 变速器控制 江铃福顺
+蓄电池
+接线盒
+(SRB)
+11-4
+R14
+3 IG1
+F61 F70 F99 自 继电器 5A
+5A 5A 40A d 13-9
+5 2'
+PF61A PF70A WH-RD PR14X WH-RDV66Sd N9-HM PR14A PEA11B RDWH PF51E PF51A
+品
+PR14 PF51
+PR14
+PEPS 151-10
+C22-A PEA11A C2028a
+C22-A PEA11A
+IGN1继电器控制
+25 RD-WH 11
+25 RD-WH
+SCU
+C39-A PF70A C2029
+C39-A IGN
+22 WH-RD 8
+22
+PF61A
+B+
+21 GN-BK 7
+21
+A_GD28 A_GD28B
+A_GD28 A_GD28B
+BK A_GD28BK 3
+GD28 BK BK 3
+÷10-4
+PCANH08
+蓬墙 0 CAN-H
+(cid:15536)(cid:10726) 网(cid:25257)
+(cid:20960)
+络(cid:8816)
+(cid:20843) P
+W
+C
+H
+ANL08
+4
+142 CAN-L
+14-2 GN 9
+3
+3 1
+d
+5 2'
+5 2
+3
+3 1
+d
+5 2'
+5 2
+WH-RDV66Sd N9-HM PR14A
+DR-HW A99FSP NG-HW A41RP N9-HM
+NG-HW PF51A
+A15FP
+DR
+WH-RD
+8
+WH-RD 8
+PF61A
+PF61A

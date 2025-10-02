@@ -1,0 +1,96 @@
+=== 第56页 ===
+江 江 铃 铃福 福 顺 顺 配 配电 电 1 1 3 3 - - 8 8
+F52,F73,F74,F76,F77,F103
+F52，F73，F74，F76，F77，F103
+保险丝继电器接线盒(SRB) 11-5
+保 (cid:8812) 险 (cid:26872) 丝 (cid:8364)(cid:20854) 继 (cid:18372) 电 (cid:10487) 器 (cid:13876) 接 (cid:20814) 线 (cid:18785) 盒 (cid:3)(cid:11)(cid:54) ( (cid:53) SR (cid:37) B (cid:12) ) 1 1 1 1 - -5 5 (cid:8812)(cid:26872)(cid:8364)(cid:20854)(cid:18372)(cid:10487)(cid:13876)(cid:20814)(cid:18785) F7 (cid:3)(cid:11) 3 (cid:54) (cid:53) 1 (cid:37) 0 (cid:12) A 11-5 PF73A C1108 左 (cid:12405) r前 (cid:9436) -大 (cid:11190) -灯 (cid:17150) -
+常 1(cid:12487)3 电 (cid:18372)- 源 7(cid:16671) F73 (cid:20)(cid:19)(cid:36) W P
+W
+F H
+H
+73A C110 1
+1
+8
+1
+1 远光 (cid:25195)(cid:9176) 灯 (cid:17150) + (cid:14)
+(cid:20)V(cid:22)(cid:16)(cid:26) 右前大灯
+(cid:57) F74 10A PF74A C1109 (cid:9858)r(cid:9436)--(cid:11190)-(cid:17150)-
+F74 (cid:20)(cid:19)(cid:36) PF74A C1109
+远光灯+
+BN 11 (cid:25195)(cid:9176)(cid:17150)(cid:14)
+P B R N 17C 11
+PR17C
+WH
+PWRH17B
+PR17B
+R17 WH
+WH
+(cid:53)(cid:20)(cid:26)
+远光灯
+继 (cid:25195) 电 (cid:9176)(cid:17150) 器 11-5
+(cid:20854)(cid:18372)(cid:10487) 11-5
+F F 1 1 0 0 3 3 (cid:22) 3 (cid:19) 0 (cid:36) A P W P S H S F F R 1 1 0 0 D 3 3A A P P S S F F 1 1 0 03 3 P W P S H S F - F 1 1 R 0 0 D 3 3 C C 13-1 3 3 5 5 P P R R 1 17 7 A A
+WH-RD WH-RD E(cid:20)(cid:22)(cid:16)(cid:20) WH PR17
+(cid:40) WH PR17 BCM
+BCE05A C2102e (cid:37)(cid:38)(cid:48)
+1 1 2 2 Y B Y E C E - - E W W 0 H 5 H A C2102 5 5 e 远 (cid:25195) 光 (cid:9176) 灯 (cid:17150) 继 (cid:20854) 电 (cid:18372)(cid:10487) 器
+R22
+13-1 (cid:53)(cid:21)(cid:21)
+(cid:20)G
+(cid:42)
+(cid:22)(cid:16)(cid:20) 近
+继 (cid:25184) (cid:20854)
+光
+(cid:9176) (cid:18372) 电
+灯
+(cid:17150) (cid:10487) 器 1 1 1 1 - -5 5
+W-
+BCE08A
+BCE08A
+近光灯继电器
+2 VTBK 8 (cid:25184)(cid:9176)(cid:17150)(cid:20854)(cid:18372)(cid:10487)
+1 2 VT-BK 8
+PR22A PR22
+PSF103C PR22A PR22
+PSF103C 5 BU-YE
+WH-RD 3 5 BU-YE
+WH-RD 3 PR22B
+PR22B
+BU-YE
+PBRU2-Y2EC
+PR22C
+BU-YE 右前大灯
+F76 10A PBFU7-Y6EA C1109 (cid:9858)(cid:9436)(cid:11190)(cid:17150)
+F76 (cid:20)(cid:19)(cid:36) PF76A C1109
+BU-YE 8 近 (cid:25184) 光 (cid:9176) 灯 (cid:17150) + (cid:14)
+BU-YE 8
+左前大灯
+F77 10A PF77A C1108 (cid:12405) r (cid:9436) - (cid:11190)(cid:17150)
+F77 (cid:20)(cid:19)(cid:36) PF77A C1108 近光灯+
+BU-YE 8 (cid:25184)(cid:9176)(cid:17150)(cid:14)
+BU-YE 8
+(cid:58)
+13-9
+(cid:20)(cid:22)(cid:16)(cid:28)
+WH
+PWRH17B
+PR17B
+WH
+WH
+PR17A
+PR17A
+YE-WH
+YE-WH 5 5
+BCE08A
+BCE08A
+BU-YE
+BU-YE
+PR22B
+PR22B
+BU-YE
+PBRU2-Y2EC
+PR22C
+WH-RD
+WH-RD
+PSF103C
+PSF103C

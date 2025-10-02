@@ -1,0 +1,105 @@
+=== 第95页 ===
+81-1 雨刮器和洗涤器 江铃福顺
+(cid:53)(cid:20)(cid:27) 3 1 (cid:26999)(cid:9405)
+(cid:20854)(cid:18372)(cid:10487) 4 5 2
+D61DG_B
+KB
+A32ECB
+HW
+B94FP
+DR
+A81RP KB-DR
+F49 (cid:20)(cid:19)(cid:36) 13-1
+A94FP
+DR
+A52ECB
+GO
+A22BCB HW-NG
+(cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785)
+(cid:11)(cid:54)(cid:53)(cid:37)(cid:12)
+11-4
+(cid:37)(cid:38)(cid:48)
+低速 关闭 前雨刮 继电器 继电器 自动停止 前洗涤
+10 23 25 C2102e 22 C2102b
+4 5 2 C1181
+(cid:26999)(cid:9405)(cid:18372)(cid:14793) 低速 高速 间歇
+接地
+3 C1181
+C61DG_B
+A61DG_B
+KB
+KB
+1 C1114
+(cid:16294)(cid:16435) (cid:14) (cid:18372)(cid:14793)
+-
+2 C1114
+B_GD16
+G1D129A
+10-5
+C42DG_A
+A42DG_A
+KB
+KB
+F101 (cid:22)(cid:19)(cid:36) 13-7 13-7 13-7
+A_GD24
+G2D133A
+10-7
+A101FSP EY-DR
+(cid:53)(cid:20)(cid:28) 3 1 (cid:26999)(cid:9405)
+(cid:28007)(cid:25262) (cid:20854)(cid:18372)(cid:10487) 4 5 2
+A91RP NB-HW B91RP
+DR
+A01ECB DR-GO C94FP
+DR
+81-1 雨刮器和洗涤器 江铃福顺
+蓄电池
+接线盒 (SRB)
+11-4
+R18 R19 BCM
+3 3 F101 图 继 雨 电 刮 器 W 雨 高速 刮 F49
+30A 13-7 继电器 10A 13-7 4 5 2 4 5 2' 13-7 13-1 低速 关闭 前雨刮 继电器 继电器自动停止 前洗涤
+PSF101A B_GD160 10 23 25 C2102e 22 C2102b
+RDYE CE23A PF49B PR18A PR19A Na-HM 86Ldd CE104OG-RD PF49C PF49A 哭DR
+益 显 品 BCE25A CB22A GN-WH
+吕
+PF49
+PF49
+4 5 2 C1181 C1114
+雨刮电机 洗涤
+低速 高速 间歇 1 1 5 5 1 1 - -7 7 + 电 151 机 -7
+151-7
+接地
+3 C1181 2C1114
+B_GD16C A_GD24C
+益
+B_GD16 A_GD24
+B_G016A A_GD24A
+G1D129A G2D133A
+÷ 10-5 吉10-7
+3
+3 1
+图
+4 5 2
+4 5 2 3
+3 1 W
+4 5 2'
+4 5 2
+B_GD160
+D61DG_B RDYE
+EY-DR KB 益 PF49B PR18A PR19A
+哭DR
+B94FP A81RP KB-DR A91RP
+HW DR PR18A PR19A
+哭DR
+A81RP KB-DR A91RP
+DR 哭DR
+KB-DR Na-HM 86Ldd
+NB-HW B91RP CE104
+A01ECB
+DR OG-RD PF49C
+DR-GO C94FP PF49A
+A94FP
+DR 显
+5
+5

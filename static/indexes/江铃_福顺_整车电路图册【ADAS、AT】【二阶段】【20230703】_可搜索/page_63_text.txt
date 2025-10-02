@@ -1,0 +1,34 @@
+=== 第63页 ===
+14-5 通信网络模块 江铃福顺
+14-5 通信网络模块 江铃福顺
+BBSSDD
+(cid:6628)
+(左
+(cid:12405)(cid:6629)
+)151
+1
+-
+51
+2
+-2
+0
+0 BSD(右)
+私 (cid:19536) 有 (cid:14744)C C A A N N _ _ H H C C 4 4 3 0 07 7 M M C C A A H H0 0 3 3 A A Y YE E C C 4 4 0 0 3 2 2 私 (cid:19536) 有 (cid:14744)C C A A N N _ _ H H 1 1 B 5 5 S 1 1 - - D 2 2 0 (cid:6628)0(cid:9858)(cid:6629)
+3 3
+MCAL03A BU
+私 (cid:19536) 有 (cid:14744) C C A A N N _ _ L L 5 10 MCAL03A BU 10 私 (cid:19536) 有 (cid:14744)CCAANN__LL
+10 10
+T-BOX
+TCANHO4 WH-RD C2021a T-BOX
+14-1 H TCANH04 WH-RD C2021a T CAN+ 151-5
+14-1 H 10 T CAN + 151-5
+(cid:15536)(cid:10726) 10
+(cid:20960) (cid:25257) (cid:20843) (cid:8816) 14-1 G T T C C A A N N L L0 0 4 4 V V T T - -O 0 G G T CAN-
+14-1 G 11 T CAN -
+11
+3
+3 MCAL03A BU
+MCAL03A BU 3
+3
+10
+10

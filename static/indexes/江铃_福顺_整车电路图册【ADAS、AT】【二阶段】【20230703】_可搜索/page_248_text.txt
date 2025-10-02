@@ -1,0 +1,191 @@
+=== 第248页 ===
+江铃福顺 整体系统原理图 161-8
+制动系统
+F36
+5A
+13-3
+ECK54A WH-RD
+A91FSE DR A23FSE HW-DR A63FE DR
+蓄电池
+接线盒
+(EJB)
+11-2
+ESF19 ESF32
+30A 30A
+13-4 13-4
+2 C11-K 23 C11-F
+AB41RP
+B41RP
+DR
+DR
+1 C11-K 1 C11-E
+ABS 151-1
+EF36A C1001a
+点火开关电源
+RD 4
+ESF32B C1001a CCANL04 模块
+电源 CAN_L
+RD-WH 25 10 PK-WH 通讯 CCANH04 网络
+ESF19B CAN_H 14-3 电源 11 PK
+RD 9
+制动开关 151-9
+C2CB08 ECK54B A_GD15B
+停车灯开关信号 接地
+4 WH-RD 8 BK
+发动机控制单元(EMS)151-1
+C1104b CCB08A S2CB08 C11-E ECK54C ECK54A B_GD15B 停车灯开关信号 制动开关信号 54 WH-RD 6 WH-RD ECK54 WH-RD 18 接地 24 BK
+GD15 10-3
+A99FSP NG-HW
+蓄电池
+接线盒
+(SRB)
+11-5
+R14
+3 1 IG1继电器 F99 13-5 F51
+40A 5A
+13-5 13-5
+5 2
+PF51
+PR14
+A41RP
+DR
+BCM
+A51CCB DR-HW
+E15FP
+DR
+A15FP
+DR
+江铃福顺 整体系统原理图 161-8
+制动系统
+蓄电池 蓄电池
+i接1线2盒 接线盒
+S?)
+R14
+3
+IG1继电器 ES 3 F 4 19 ES 1 F 3 3 4 2 F31363 F9 13 9 5 自 13-5 F3515
+PF51E PF51A
+ESF19A ESF32AMR F36A PR14BA PSF99A NG-HW R14A BCC15A WH-RD 足 品
+品 品 品 品 PF51
+C11-K2 C11-K 23 C11-F C11-E
+C2102c
+PR148 C2102c
+15 BCM
+iIGN1继电器
+IGN1继电器
+!输输出出回回路路
+PR14
+ABS 151-1
+EF36A C1001a
+RD 点火开关电源
+ESF32B 电源 CAN_L C1001aCCANL04 ? 模块
+RD-WH 25 PK-WH 通讯
+CCANH04 网络 ESF19B CAN_H 14-3
+电源 11 PK RD 9
+151-9
+制动开关
+C2CB08 ECK54B A_GD15B
+停车灯开关信号中 接地
+WH-RD BK
+8
+发动机控制单元(EMS)151-1
+C1104b CCBOBA S2CB0BECK54A C11-E、 ECK54C ECK54A B_GD15B 停车灯开关信号+ 54 WH-RD WH-RD WH-RD ECK54 WH-RD 18 制动开关信号 接地 24 BK
+903
+● C1001a ESP17AWH C14F ÷ ESP17B WH C4406a 右 右 后 后
+右 右 后 后 轮 轮 速 速 传 传 感 感 器 器 + + 2 C 3 1001a ESP17A WH C14 1 -F 8 ○ ESP17B WH C4406a 右 右 后 后 轮 轮 速 速 传 传 感 感 器 器+ + 轮 1 轮 51 速 速 -2 传 传 1 感 感 器 器
+23 18 22 151-21
+ESP29A BU-YE ESP29B BU-YE
+右后轮速传感器- ESP29A BU-YE ESP29B BU-YE 右后轮速传感器-
+右后轮速传感器- 22 19 右后轮速传感器-
+22 19 1
+左 左 后 后 轮 轮 速 速 传 传 感 感 器 器 + + 5 ES E P SP 3 3 1 1A A B B U U - - Y YE E E E S S P P3 3 1 1 A A B BU U - Y YE E C C 4 4 4 4 0 0 4 4a a 左 左 后 后 轮 轮 速 速 传 传 感 感 器 器 + + 轮 左 左 轮 15 速 后 1 后 速 -2 传 传 1 感 感 器 器
+5 20 2 151-21
+ESP18A WH ESP18B WH
+左 左 后 后 轮 轮 速 速 传 传 感 感 器 器- - 6 ESP18A WH 13 ESP18B WH 左左后后轮轮速速传传感感器器.-
+6 13 1
+ESP16 VTBK C1105 右 右前 前
+右 右 前 前 轮 轮 速 速 传 传 感 感 器 器 + + 19 ESP16 VT-BK C1105 右 右 前 前 轮 轮 速 速 传 传 感 感 器 器 + + 轮 1 轮 5 速 1 速 -8 传 传感 感 器 器
+19 ESP04A PK 2 151-8
+ESP04A PK
+右
+右
+前
+前
+轮
+轮
+速
+速
+传
+传
+感
+感
+器
+器
+.-
+20
+右
+右
+前
+前
+轮
+轮
+速
+速
+传
+传
+感
+感
+器
+器
+.-
+20 1
+ESP19A OG C1193 左 左 前 前
+左 左 前 前 轮 轮 速 速 传 传 感 感 器 器 + + ESP19A OG C1193 左左前前轮轮速速传传感感器器++ 轮 轮 15 速 1 速 - 传 7 传感 感 器 器
+1 2 151-7
+左 左 前 前 轮 轮 速 速 传 传 感 感 器 器- - 5
+E
+E
+S
+S
+P
+P
+O
+0
+8
+8A
+AYEYE
+左 左 前 前 轮 轮 速 速 传 传 感 感 器 器 . -
+2 1
+3
+3 1
+自
+5 2 3
+3 1
+自
+5 2
+NG-HW
+NG-HW PF51A
+A15FP
+DR 足
+制
+23 18
+23 18
+ESP29A BU-YE
+ESP29A BU-YE 22
+ESP29B BU-YE
+ESP29B BU-YE
+22 19
+22 19
+ESP31A BU-YE
+ESP31A BU-YE
+5
+5 20
+ESP18A WH
+ESP18A WH 2
+ESP18B WH
+ESP18B WH
+19
+19 ESP04A PK 2
+ESP04A PK
+1 2
+E S P O 8 AYEYE
+E S P 0 8A

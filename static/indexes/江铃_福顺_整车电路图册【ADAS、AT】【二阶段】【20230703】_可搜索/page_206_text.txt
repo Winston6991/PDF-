@@ -1,0 +1,173 @@
+=== 第206页 ===
+江铃福顺 接插件视图150-62
+江铃福顺 接插件视图 150-62
+C14-F
+C14-F
+连连接接线线束束接接插插件件：： 1 1 4 4 4 4 0 0 1 1 1 1 4 4 4 40 0 6 6
+2 4 6 8 10
+1 3 5 7 9
+6 1
+10 7
+16 11
+20 17
+26 21
+母制 插接件插头
+母制 插接件插头
+针针脚脚 电电路路 线线色色 规规格格 区区分分条条件件
+1 VE3-49D GY-~BU 0.5
+1 VE349D GY~BU 0.5
+2 RCA18B BN~LG 0.5
+2 RCA18B BN~LG 0.5
+3 VMC.23A LG~OG 0.5
+3 VMC23A LG~OG 0.5
+4 VCA06B WH~OG 0.5
+4 VCA06B WH~OG 0..5
+5 5 - - .-
+6
+6 - - -
+7 CE356A BU~OG 1-.5
+7 CE356A BU~OG 1.5
+8 - -
+8 - - -
+9
+9 - - -
+10 SBB19D BK~WH 1.5
+10 SBB19D BK~WH 1.5
+11 VE348D LG~OG 0.5
+11 VE348D LG~OG 0.5
+12 VCA04B BU~OG 0.5
+12 VCA04B BU~OG 0..5
+13 VMC.11A YE.~VT 0.5
+13 VMC11A YE~VT 0.5
+14 RCA20B B.N 0.5
+14 RCA20B BN 0.5
+15 GD383E BK.~WH 1
+15 GD383E BK~WH 1
+16
+16 - - -
+17
+17 - - -
+18
+1
+1
+9
+8
+CBB
+-
+46A
+WH~-BU
+0.
+-
+5
+2109
+C
+C
+E
+B
+3
+B
+7
+4
+3
+6
+A
+A BWNH~~YBEU
+1
+0
+.
+.5
+5
+20 CE373A BN~YE 1.5
+针针脚脚 电电路路 线线色色 规规格格 区区分分条条件件
+1
+1 VE349D
+VE349D GY~BU
+GY~BU 0.5
+0.5
+2
+2 RCA18B
+RCA18B BN~LG
+BN~LG 0.5
+0.5
+3
+3 VMC23A
+VMC23A LG~OG
+LG~OG 0.5
+0.5
+4
+4 VCA06B
+VCA06B WH~OG
+WH~OG 0.5
+0.5
+5
+5 -
+.
+- -
+- -
+6
+6 - - .
+-
+7
+7 CE356A
+CE356A BU~OG
+BU~OG .
+1.5
+1.5
+8
+8 - - -
+9
+9 - - -
+10
+10 SBB19D
+SBB19D BK~WH
+BK~WH 1.5
+1.5
+11
+11 VE348D
+VE348D LG~OG
+LG~OG 0.5
+0.5
+12
+12 VCA04B
+VCA04B BU~OG
+BU~OG 0.5
+0.5
+13
+13 VMC11A
+VMC11A YE~VT
+YE~VT -
+0.5
+0.5
+14
+14 -
+RCA20B
+RCA20B BN
+BN -
+.
+0.5
+0.5
+15
+15 .
+GD383E
+GD383E .
+BK~WH
+BK~WH 1
+1
+16
+16 - .
+- -
+17
+17 - .
+- -
+18
+18 - - -
+19
+19 CBB46A
+CBB46A WH~BU
+WH~BU 0.5
+0.5
+20
+20 CE373A
+CE373A BN~YE
+BN~YE 1.5
+1.5

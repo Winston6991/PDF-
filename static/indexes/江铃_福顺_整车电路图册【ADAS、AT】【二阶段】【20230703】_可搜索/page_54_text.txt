@@ -1,0 +1,185 @@
+=== 第54页 ===
+江 江 铃 铃福 福 顺 顺 配 配电 电 1 1 3 3 - - 6 6
+F66,F67,F71,F72,F82,F83,F96,F104,F105,F106
+F66，F67，F71，F72，F82，F83，F96，F104，F105，F106
+保 (cid:8812) 险 (cid:26872)(cid:8364) 丝 (cid:20854) 继 (cid:18372) 电 (cid:10487) 器 (cid:13876) 接 (cid:20814) 线 (cid:18785) 盒 (cid:3)(cid:11)(cid:54) ( (cid:53) SR (cid:37) B (cid:12) ) 1 1 1 1 - -5 5 PSF106C C510a 副 (cid:9470) 驾 (cid:27917) 驶 (cid:27909) 侧 (cid:8758) 电 (cid:18372) 动 (cid:9527) 窗 (cid:19750) 开 (cid:12687) 关 (cid:9218)
+乘员侧车窗开关 PSF106C C510a
+常 1(cid:12487)3 (cid:20) 电 P (cid:51) (cid:18372) (cid:22) - (cid:16)(cid:24) 源 (cid:16671)5 F106 20A PSF106A P P R P RS S D S DF F F 1 1 1 0 0 0 6 6 6 B D D C C C 3 3 3 A B B - 1 - - B1 B B ,← P P R P R S S S D D F F F 1 1 1 0 0 06 6 6 G T G C C B B P PW W1 1 2 2 9 9 (cid:8423)(cid:9959) (cid:14) (cid:8758)(cid:25077)(cid:19750)(cid:12687)(cid:9218) R P R S D D F106B C510 2 2 b 驾 (cid:27917) - (cid:27909) 驶 (cid:14) (cid:8758) 侧 (cid:18372) 电 (cid:9527) 动 (cid:19750) 窗 (cid:12687) 开 (cid:9218) 关
+F106(cid:21)(cid:19)(cid:36) PSF106A PSF106B C3A-B PSF106T PSF106B C510b
+F72 5A R P R F D D 72A P P S S F F 1 1 0 0P6 6 F72 R R P D D F72C 3 3 R R D D C1AM02-C B (cid:37)r C (cid:38)-(cid:48) M P P S S F F 1 1 0 06 6 R R D D 2 2 (cid:14)
+F72 (cid:24)(cid:36) PF72A PF72 PF72C C1AM02-C
+IG2状态回读信号
+R R D D R P R P F F D 7 7 2 2 B B S S C C 2 2 2 2 - -B B P P F F 7 7 2 2B B C C 2 2 2 2- - C C _ 3 2 S S B B B B 7 7 2 2F F 66 (cid:44)(cid:42)(cid:21)(cid:17733)(cid:12944)(cid:10605)(cid:24202)(cid:8816)(cid:9862) S S B B B B 7 72 2 A A 1 1 8 8 B B 5 5 1 18 8 C C 2 2 4 44 4 6 6 鼓 (cid:29090)r 继 (cid:27485) 风 - 电 (cid:14793) 机 器 (cid:20854) 继 线 (cid:18372) 电 图 (cid:10487) 器 +(IGN)
+RD 22 RD 4 VT-RD GY-RD 4 (cid:20854)(cid:18372)(cid:10487)(cid:20814)(cid:10647)(cid:14)(cid:6628)(cid:44)(cid:42)(cid:49)(cid:6629)
+PR15D RD 22 RD 4 VT-RD GY-RD 4
+PR15D
+RD-YE
+PRRD1-Y5EB
+PR15B
+RD-YE
+F96 60A PRSDF-Y9E6A
+F96 (cid:25)(cid:19)(cid:36) PSF96A
+13-5 RD
+RD
+(cid:20)(cid:22)(cid:16)(cid:24)
+Q
+(cid:52) R15
+(cid:53)(cid:20)(cid:24)
+IG2继电器 11-5
+(cid:44)(cid:42)(cid:21)(cid:20854)(cid:18372)(cid:10487) 11-5 _
+-
+3 3 5 5 P P F F 1 1 5 5A A
+WHRD PF15
+WH-RD PF15
+2
+1 2
+W-
+保
+(cid:8812)(cid:26872)
+险
+(cid:8364)
+丝
+(cid:20854)
+继
+(cid:18372)
+电
+(cid:10487)
+器
+(cid:13876)
+接
+(cid:20814)
+线
+(cid:18785)
+盒
+(cid:3)(cid:11) (cid:54)
+(
+(cid:53)
+S
+(cid:37)
+RB
+(cid:12)
+) 1111--55
+OBD
+F66 10A PF66A PF66 PF66B F82 7.5A PF82A C22B PF82BB C2004 (cid:50)(cid:37)(cid:39)
+F66 (cid:20)(cid:19)(cid:36) PF66A PF66 PF66B F82 (cid:26)(cid:17)(cid:24)(cid:36) PF82A C22-B PF82BB C2004 蓄电池电压
+B B U U - - Y YE E P B B F U U 6 - -Y 6 Y E C E F83 7.5A Y P Y E F E - 8 -R R 3 D D A 1 11 1 C Y 1 Y E 1 E - 0 -R 2 R D D 网 (cid:20960)(cid:9218) 关 (cid:15536) 模 (cid:10726) 块 1 16 6 (cid:22355)(cid:18372)(cid:16111)(cid:18372)(cid:9754)
+PF66C F83 (cid:26)(cid:17)(cid:24)(cid:36) PF83A C1102
+BU-YE RD 24 (cid:14)
+13-5 BU-YE BCM RD 24
+(cid:20)R(cid:22)(cid:16)(cid:24)7R27 BCC16A C2102c (cid:37)(cid:38)(cid:48)
+(cid:53) 延 (cid:53) (cid:12677) (cid:21) 迟 (cid:25198) (cid:26) 继 (cid:20854) 电 (cid:18372) 器 (cid:10487) 1 1 1 1 - -5 5 B B N C - C R 1 D 6A C210 1 2c 6 I (cid:44) G (cid:42) N (cid:49) 2继 (cid:21)(cid:20854) 电 (cid:18372) 器 (cid:10487) 输 (cid:25122) 出 (cid:9353) 回 (cid:10605)(cid:24702) 路
+BN-RD 16
+BCD13A C2102c
+BCD13A C2102c
+延时继电器输出
+1 1 2 2 I G G N N 1 1 3 3 (cid:12677)(cid:14469)(cid:20854)(cid:18372)(cid:10487)(cid:25122)(cid:9353)
+后顶灯1
+PR27A C39-A PR27EC PR27EA C99-D PR27E C482 (cid:9885)(cid:27397)(cid:17150)(cid:20)
+PR27A C39-A PR27EC PR27EA C99-D PR27E C482
+3 3 55 G G N N - -R R D D 6 6 G G N N - -R R D D P P R R 2 2 7 7 G G N N - -R R D D 1 G G N N - -R R D D 11 后顶 (cid:14) 灯2
+PR27EB C99-E PR27E C483 (cid:9885)(cid:27397)(cid:17150)(cid:21)
+F67 10A PF67A PR27EB C99-E PR27E C483
+F67 (cid:20)(cid:19)(cid:36) PF67A GN-RD GN-RD (cid:14)
+RD GN-RD 1 GN-RD 1
+RD 前顶灯2
+PR27CA C99-A PR27C C9LN14-B (cid:9436)(cid:27397)(cid:17150)(cid:21)
+(cid:56) PR27CA C99-A PR27C C9LN14-B
+13-7 GN-RD 14 GN-RD 1(cid:14)
+(cid:20)(cid:22)(cid:16)(cid:26) GN-RD 14 GN-RD 1
+常电源
+1(cid:12487)3(cid:18372)-(cid:16671)5
+(cid:20)P(cid:22)(cid:16)(cid:24)
+(cid:51) F106 20A
+F106(cid:21)(cid:19)(cid:36)
+F72 5A
+F72 (cid:24)(cid:36)
+F96 60A
+F96 (cid:25)(cid:19)(cid:36)
+13-5
+(cid:20)(cid:22)(cid:16)(cid:24)
+Q
+(cid:52) R15
+(cid:53)(cid:20)(cid:24)
+IG2继电器 11-5
+(cid:44)(cid:42)(cid:21)(cid:20854)(cid:18372)(cid:10487) 11-5
+-
+3
+3 5
+5
+2
+1 2
+W-
+F66 10A
+F66 (cid:20)(cid:19)(cid:36)
+13-5
+(cid:20)R(cid:22)(cid:16)(cid:24)7R27
+(cid:53) 延 (cid:53)(cid:21) 迟 (cid:26) 继电器 11-5
+(cid:12677)(cid:25198)(cid:20854)(cid:18372)(cid:10487) 11-5
+1 1 2 2 I
+55
+3
+3
+F67 10A
+F67 (cid:20)(cid:19)(cid:36)
+(cid:56)
+13-7
+(cid:20)(cid:22)(cid:16)(cid:26)
+常电源
+1(cid:12487)3(cid:18372)-(cid:16671)5
+(cid:20)P(cid:22)(cid:16)(cid:24)
+(cid:51) F106 20A
+F106(cid:21)(cid:19)(cid:36)
+F72 5A
+F72 (cid:24)(cid:36)
+F96 60A
+F96 (cid:25)(cid:19)(cid:36)
+13-5
+(cid:20)(cid:22)(cid:16)(cid:24)
+Q
+(cid:52) R15
+(cid:53)(cid:20)(cid:24)
+IG2继电器 11-5
+(cid:44)(cid:42)(cid:21)(cid:20854)(cid:18372)(cid:10487) 11-5
+-
+3
+3 5
+5
+2
+1 2
+W-
+F66 10A
+F66 (cid:20)(cid:19)(cid:36)
+13-5
+(cid:20)R(cid:22)(cid:16)(cid:24)7R27
+(cid:53) 延 (cid:53)(cid:21) 迟 (cid:26) 继电器 11-5
+(cid:12677)(cid:25198)(cid:20854)(cid:18372)(cid:10487) 11-5
+1 1 2 2 I
+55
+3
+3
+F67 10A
+F67 (cid:20)(cid:19)(cid:36)
+(cid:56)
+13-7
+(cid:20)(cid:22)(cid:16)(cid:26)
+RD
+RD
+1 2
+1 2
+55
+3
+3
+I
+PF67A
+PF67A
+(cid:14)
+(cid:14)
+(cid:14)
+r-
+IG2状态回读信号
+(cid:44)(cid:42)(cid:21)(cid:17733)(cid:12944)(cid:10605)(cid:24202)(cid:8816)(cid:9862)
+IG2状态回读信号
+(cid:44)(cid:42)(cid:21)(cid:17733)(cid:12944)(cid:10605)(cid:24202)(cid:8816)(cid:9862)
+r-
+继电器线图+(IGN)
+(cid:20854)(cid:18372)(cid:10487)(cid:20814)(cid:10647)(cid:14)(cid:6628)(cid:44)(cid:42)(cid:49)(cid:6629)

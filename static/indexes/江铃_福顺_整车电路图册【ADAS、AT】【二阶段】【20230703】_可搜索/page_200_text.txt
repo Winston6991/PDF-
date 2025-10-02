@@ -1,0 +1,241 @@
+=== 第200页 ===
+江铃福顺 接插件视图150-56
+江铃福顺 接插件视图 150-56
+C11-F
+C11-F
+连连接接线线束束接接插插件件：： 9 9 K K 4 4 9 9 9 9 1 1 4 4 4 4 0 0 1 1
+1 6
+7 10 中I
+11 16 6 1
+17 20 10 7
+21 26 16 11
+20 17
+26 21
+T
+母制 插接件插头
+母制 插接件插头
+针针脚脚 电电路路 线线色色 规规格格 区区分分条条件件
+A
+A - - -
+B CSD133A BK 0.5
+B CSD133A BK 0.5
+C VE348K LG~OG 0.5
+DC
+V
+V
+E
+E
+3
+3
+4
+48
+9
+K
+K G
+L
+Y
+G
+~
+~O
+B
+G
+U 0
+0
+.
+.5
+5
+D VE349K GY~BU 0.5
+E
+E - - -
+F
+G
+F
+CMC
+-
+24E
+G-Y
+0.
+-
+75
+G CMC24E GY 0.75
+H CCB02A BU-~BN 0.5 EPB配置
+H CCB02A BU~BN 0.5 EPB配置
+J J R R C C B B 0 0 3 3A A Y Y E E ~ ~L L G G 0 0 . .5 5 E E P P B B 配 配 置 置
+K K C C C C B B 0 0 1 1A A V V T T~ ~ G G Y Y 0 0 . .5 5 EEPPBB配配置置
+L CCB39A GY-VT 0.5 EPB配置
+M
+L
+C
+C
+C
+C
+B
+B
+3
+3
+7
+9A
+A L
+G
+G
+Y
+~
+~V
+O
+T
+G
+00..55
+E
+E
+P
+P
+B
+B
+配
+配
+置
+置
+M CCB37A LG~OG 0.5 EPB配置
+N
+N
+C
+C
+C
+C
+B
+B
+.4
+4
+0
+0A
+A B
+B
+N
+N
+-
+~Y
+Y
+E
+E 0
+0
+..
+.5
+5 E
+E
+P
+P
+B
+B
+配配置置
+P CCB38A YE~OG 0.5 EPB配置
+P CCB38A YE~OG 0.5 EPB配置
+R
+R
+C
+C
+D
+D
+A
+A
+1
+1
+0
+0
+B
+B
+B
+B
+N
+N
+0
+0
+.
+.5
+5 E
+E
+P
+P
+B
+B
+配配置置
+S
+S - - -
+针针脚脚 电电路路 线线色色 规规格格 区区分分条条件件
+A
+A - - -
+B C
+B SD133A
+CSD133A BK
+BK 0.5
+0.5
+C
+C VE348K
+VE348K LG~OG
+LG~OG 0.5
+0.5
+D
+D VE349K
+VE349K GY~BU
+GY~BU 0.5
+0.5
+E
+E - - -
+F
+F - - -
+G
+G CMC24E
+CMC24E GY
+GY 0.75
+0.75
+H
+H CCB02A
+CCB02A BU~BN
+BU~BN 0.5
+0.5 EPB配置
+EPB配置
+J
+J RCB03A
+RCB03A YE~LG
+YE~LG 0.5
+0.5 EPB配置
+EPB配置
+K
+K CCB01A
+CCB01A VT~GY
+VT~GY 0.5
+0.5 EEPPBB配配置置
+L
+L CCB39A
+CCB39A GY-VT
+GY~VT 0.5
+0.5 EPB配置
+EPB配置
+M
+M CCB37A
+CCB37A -
+LG~OG
+LG~OG 0.5
+0.5 EPB配置
+EPB配置
+N
+N CCB40A
+CCB40A BN-YE
+BN~YE 0.5
+0.5 E P B 配配置置
+E P B
+P
+P .
+CCB38A
+CCB38A YE~OG
+YE~OG .
+0.5
+0.5 EPB配置
+EPB配置
+R
+R CDA10B
+CDA10B BN
+BN 0.5
+0.5 E P B 配配置置
+E P B
+S
+S - - -

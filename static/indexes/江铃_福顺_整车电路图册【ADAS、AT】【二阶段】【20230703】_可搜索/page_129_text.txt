@@ -1,0 +1,88 @@
+=== 第129页 ===
+146-1 车辆紧急通讯系统 江铃福顺
+(cid:22355)(cid:18372)(cid:16111)
+(cid:13876)(cid:20814)(cid:18785)
+(cid:11)(cid:54)(cid:53)(cid:37)(cid:12)
+11-4
+3 1
+F59 F84 F99 F51 (cid:20)(cid:19)(cid:36) (cid:24)(cid:36) (cid:23)(cid:19)(cid:36) (cid:24)(cid:36)
+13-9
+5 2
+A95FP
+YG
+A48FP DR-UB L41RP DR-HW
+(cid:55)(cid:16)(cid:37)(cid:50)(cid:59)
+PF84CA PF84F PF84C C2021a C2021a A_GD28E
+(cid:44)(cid:42)(cid:49) (cid:13876)(cid:10687)
+PF84 BU-RD BU-RD PF84 BU-RD 24 22 BK
+82DG_A
+KB
+(cid:37)(cid:38)(cid:48) 151-10
+C2102c
+(cid:44)(cid:42)(cid:20)(cid:20854)(cid:18372)(cid:10487)
+15
+C22-B
+A_GD28
+20
+PF59C PF59X
+(cid:37)(cid:14) PF59 GY 48 YE 12
+GD28
+10-4
+TCANH04
+(cid:38)(cid:36)(cid:49)(cid:16)(cid:43)
+WH-RD 10
+TCANL04 (cid:38)(cid:36)(cid:49)(cid:16)(cid:47) VT-OG 11
+A15FP
+DR
+(cid:53)(cid:20)(cid:23)
+(cid:44)(cid:42)(cid:20)
+(cid:20854)(cid:18372)(cid:10487)
+PF51
+A99FSP NG-HW A41RP
+DR
+A51CCB DR-HW E15FP
+DR
+146-1 车辆紧急通讯系统 江铃福顺
+蓄电池
+接线盒
+(SRB)
+11-4
+R14
+3 IG1
+W
+F59 F84 F99 继电器 5A
+1 13 0 - A 9 5A 40A d
+5 2'
+PF59A PF84AQd-n8 PR14L WH-RDV66Sd N9-HM PR14A BCC15A WH-RD PF51E PF51A
+PR14 PF51
+PR14
+BCM 151-10
+C21020
+IG1继电器
+15
+T-BOX
+PF84CA C22-B PF84F PF84C C2021a C2021a A_GD28E
+IGN 接地 A_GD28
+PF84 BU-RD 20 BU-RD PF84 BU-RD 24 22 BK
+A_GD28
+PF59C PF59X
+B+
+PF59 GY 48 YE 12
+GD28
+÷104
+TCANH04
+罐楂( CAN-H
+(cid:15536)(cid:10726) WH-RD 10
+网(cid:25257)
+(cid:20960)
+络(cid:8816)
+(cid:20843) TCANL04 1 1 4 4- 5 5 VT-0G 11 + CAN-L
+WH-RDV66Sd N9-HM PR14A
+DR-HW A99FSP NG-HW A41RP PF51A
+A15FP
+DR
+BU-RD PF84 BU-RD 24
+BU-RD PF84 BU-RD 24
+PF59X
+PF59X
++
